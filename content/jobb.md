@@ -5,3 +5,8 @@ draft: false
 ---
 
 ## Jobbe i Point:Taken?
+
+<!--more-->
+<div class="test">
+
+</div>
