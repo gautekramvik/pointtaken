@@ -1,0 +1,71 @@
+- id: home
+  translation: "Hjem"
+
+- id: templateBy
+  translation: "Template by"
+
+- id: portedBy
+  translation: "Ported to Hugo by"
+
+- id: contactGoTo
+  translation: "Gå til kontaktinformasjon"
+
+- id: contactAddrTitle
+  translation: "Adresse"
+
+- id: contactTitle
+  translation: "Kontakt"
+
+- id: contactForm
+  translation: "Kontaktskjema"
+
+- id: contactName
+  translation: "Navn"
+
+- id: contactMail
+  translation: "E-post"
+
+- id: contactMessage
+  translation: "Beskjed"
+
+- id: contactSend
+  translation: "Send beskjed"
+
+- id: navHome
+  translation: "Gå til forsiden"
+
+- id: navToggle
+  translation: "Toggle Navigation"
+
+- id: categoriesTitle
+  translation: "Kategorier"
+
+- id: searchTitle
+  translation: "Søk"
+
+- id: tagsTitle
+  translation: "Tags"
+
+- id: continueReading
+  translation: "Les mer"
+
+- id: readMore
+  translation: "Les mer"
+
+- id: authorBy
+  translation: "Av"
+
+- id: recentPosts
+  translation: "Siste poster"
+
+- id: aboutUs
+  translation: "Om oss"
+
+- id: newer
+  translation: "Nyere"
+
+- id: older
+  translation: "Eldre"
+
+- id: publishedOn
+  translation: "on"

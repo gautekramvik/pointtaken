@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        <div id="content">
+            <div class="container">
+
+                <div class="col-sm-6 col-sm-offset-3" id="error-page">
+
+                    <div class="box">
+
+                        <p class="text-center">
+                            <a href="{{ .Site.BaseURL }}">
+                                <img class="img-fluid" src="{{ .Site.Params.logo }}" alt="{{ .Title }} logo">
+                            </a>
+                        </p>
+
+                        <h3>Om forlatelse - det ser ut som du har kommet til en side som ikke er i bruk.</h3>
+                        <h4 class="text-muted">Error 404 - Page not found</h4>
+
+                        <p class="buttons"><a href="{{ .Site.BaseURL }}" class="btn btn-template-main"><i class="fa fa-home"></i>Tilbake til forsiden</a>
+                        </p>
+                    </div>
+
+
+                </div>
+                <!-- /.col-sm-6 -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+  </body>
+</html>
