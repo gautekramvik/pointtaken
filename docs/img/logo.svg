@@ -1,0 +1,18 @@
+<svg width="932" height="117" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="119" width="934" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(6.474347263517188,0,0,7.699232578277588,-157.9391895152653,-1075.436179831624) " font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_4" y="154.466837" x="23.828597" stroke-opacity="null" stroke-width="0" fill="#333838">POINT   TAKEN</text>
+  <ellipse id="svg_5" cy="182.6" cx="433.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#333838"/>
+  <ellipse id="svg_7" cy="66.6" cx="493.5" stroke-width="0" stroke="#333838" fill="#f3732b"/>
+  <ellipse stroke="#333838" ry="20" rx="20" id="svg_8" cy="26.6" cx="444" stroke-width="0" fill="#f3732b"/>
+  <ellipse stroke="#333838" ry="20" rx="20" id="svg_9" cy="90.6" cx="444" stroke-width="0" fill="#f3732b"/>
+ </g>
+</svg>
