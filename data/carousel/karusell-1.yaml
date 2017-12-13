@@ -3,6 +3,6 @@ title: "Vi hjelper kundene våre å jobbe smartere"
 description: >
   <ul class="list-style-none">
     <li><br></li>
-    <li><a href="/om-oss/" class="btn btn-outline-danger" role="button" aria-disabled="true">Mer om oss</a></li>
+    <li><a href="/pointtaken/om-oss/" class="btn btn-outline-danger" role="button" aria-disabled="true">Mer om oss</a></li>
   </ul>
 image: "img/banner.jpg"
