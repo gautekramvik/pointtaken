@@ -400,6 +400,8 @@ body {
   margin-top: 25%;
   padding: 2rem;
   font-size: 1.25em;
+  border-radius: 0;
+  border: 3px solid;
 }
 .referanser {
   background:#f5f5f5;
