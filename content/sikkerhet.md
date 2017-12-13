@@ -7,3 +7,5 @@ type: page
 ## Sikkerhetsoverskrift
 
 Her kan det stå nesten hva som helst.
+
+Hva. Som. Helst.
