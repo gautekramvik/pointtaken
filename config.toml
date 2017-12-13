@@ -1,0 +1,180 @@
+baseurl = "https://gautekramvik.github.io/pointtaken/"
+title = "Point Taken"
+theme = "point-taken-theme"
+themesDir = "themes"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "no"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+publishDir = "docs"
+
+# Define the number of posts per page
+paginate = 10
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "HJEM"
+    url  = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "OM OSS"
+    url  = "/om-oss/"
+    weight = 2
+
+[[menu.main]]
+    name = "TJENESTER"
+    url  = "/index.html#3"
+    weight = 3
+
+[[menu.main]]
+    name = "REFERANSER"
+    url = "/index.html#4"
+    weight = 4
+
+[[menu.main]]
+    name = "JOBB"
+    url = "/jobb/"
+    weight = 5
+
+[[menu.main]]
+    name = "KONTAKT"
+    url = "/contact/"
+    weight = 6     
+
+[[menu.main]]
+    name = "BLOG"
+    url = "/blog/"
+    weight = 7        
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/pointtaken"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "http://facebook.com/pointtakenas"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Twitter"
+    url = "http://twitter.com/Point_Taken_"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:your@email.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "Point Taken"
+    defaultKeywords = ["Office 365", "SharePoint", "CRM"]
+    defaultDescription = "Point Taken - spesialister på SharePoint og Office 365"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyDwU424dTfZBDAFkMCD6fi-7asgW91S3pY"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "red"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "post@pointtaken.no"
+
+    about_us = "<p>Spesialister på SharePoint og Office 365.</p>"
+    copyright = "Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/pt-logo.png"
+    address = "<p><strong>Point Taken</strong><br>Arbeidersamfunnets plass 1<br>Inngang fra Torggata<br>0181 Oslo<br><strong>Norge</strong><br><br><p><strong>Point Taken</strong><br>Tangen 76<br>Tangen Babord<br>4608 Kristiansand S<br><strong>Norge</strong><br></p>"
+    latitude = "59.915691"
+    longitude = "10.751929"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = false
+    text = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    title = "Hva vi kan"
+    subtitle = "Vi er spesialister på teknisk og strategisk rådgivning i alt din bedrift trenger for å kunne jobbe smartere, sikkert og mer effektivt."
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = true
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Referanser"
+    subtitle = "Point taken har massevis av fornøyde kunder. Massevis! Dette er bare et lite knippe av alle vi har jobbet for og som MER enn gjerne stiller opp som referanser for oss."
+
+[params.referanser]
+    enable = true
+    title = "Referanser"
+    subtitle = "Vi er heldige som får jobbe med spennende kunder og meningsfylte oppgaver. Her kan du fordype deg i noen av jobbene vi er mest stolte av."
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Har du lyst til å tazte priv med oss?"
+    subtitle = "Våre herrrligste konsulenter står klar for å motta et uforpliktende opprop fra DEM!"
+    link_text = "Ta kontakt i dag"
+    link_url = "/pointtaken/contact/"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Noen av våre klienter"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = true
+    title = "Hva skjer i Point:Taken?"
+    subtitle = ""
