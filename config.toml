@@ -35,7 +35,7 @@ paginate = 10
 
 [[menu.main]]
     name = "REFERANSER"
-    url = "/index.html#testimonials"
+    url = "/referanser/"
     weight = 4
 
 [[menu.main]]
@@ -153,6 +153,10 @@ paginate = 10
     title = "Referanser"
     subtitle = "Point taken har massevis av fornøyde kunder. Massevis! Dette er bare et lite knippe av alle vi har jobbet for og som MER enn gjerne stiller opp som referanser for oss."
 
+[params.referanser]
+    enable = true
+    title = "Referanser"
+    subtitle = "Vi er heldige som får jobbe med spennende kunder og meningsfylte oppgaver. Her kan du fordype deg i noen av jobbene vi er mest stolte av."
 
 [params.see_more]
     enable = false

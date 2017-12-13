@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Dec 2017 13:40:58 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2017 00:30:17 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Referanser</title>
+      <link>https://gautekramvik.github.io/pointtaken/referanser/</link>
+      <pubDate>Wed, 13 Dec 2017 00:30:17 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/referanser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jobb</title>
@@ -27,8 +36,9 @@
       <pubDate>Mon, 11 Dec 2017 13:40:52 +0100</pubDate>
       
       <guid>https://gautekramvik.github.io/pointtaken/om-oss/</guid>
-      <description>Vi er Norges ledende kompetansemiljø på digital samhandling! Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.
-Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</description>
+      <description>Vi er Norges ledende kompetansemiljø på digital samhandling Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.
+Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.
+Våre parnere er viktige for oss. Vi bryr oss om våre partnere, og de bryr seg om oss. Gode partnere gir deg trygghet som kunde, og ingenting er viktigere for oss enn din trygghet.</description>
     </item>
     
     <item>

@@ -8,5 +8,4 @@ draft: false
 
 <!--more-->
 <div class="test">
-
 </div>
