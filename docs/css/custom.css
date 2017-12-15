@@ -59,11 +59,12 @@ body {
 }
 
 #heading-breadcrumbs {
-  /* background: url(../img/pattern2.svg);
-  background-size: cover; */
   padding: 0;
   background: #da4d4d;
 }
+  #heading-breadcrumbs .container {
+    display: none;
+  }
 
 .box-simple .icon {
   /* background-image: url(../img/pattern1.svg); */

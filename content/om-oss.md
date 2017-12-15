@@ -44,7 +44,7 @@ Favorittkjendis: Bertrand
 <!--SJEF BILDE-->
 <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card personkort" data-toggle="modal" data-target=".rune">
-        <img class="card-img-top img-profil" src="../img/people/sjef.png" alt="Card image cap">
+        <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Rune</h4>
         </div>
@@ -65,7 +65,7 @@ Favorittkjendis: Carl Rove
 <!--SJEF 2 BILDE-->
 <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card personkort" data-toggle="modal" data-target=".runar">
-        <img class="card-img-top img-profil" src="../img/people/sjef.png" alt="Card image cap">
+        <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Runar</h4>
         </div>
@@ -86,7 +86,7 @@ Favorittkjendis: Julenissen
 <!--KJETIL BILDE-->
 <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card personkort" data-toggle="modal" data-target=".kjetil-h">
-        <img class="card-img-top img-profil" src="../img/people/sjef.png" alt="Card image cap">
+        <img class="card-img-top img-profil" src="../img/people/kjetil-h.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Kjetil</h4>
         </div>
@@ -94,28 +94,27 @@ Favorittkjendis: Julenissen
 </div>
 <!--KJETIL SLUTT-->
 
-<!--ØYVIND AA INFO-->
-<div class="modal fade bd-example-modal-lg oyvind-a" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+<!--KRISITAN O INFO-->
+<div class="modal fade bd-example-modal-lg kristian" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content personmodal">
-Øyvind startet Point:Taken sammen med Kjetil, men ingen bryr seg lengre siden han har flyttet sørpå. Søring.
-</br>
-Favorittkjendis: Kristian Valen
+Kristian er en vestkantgutt som synes alt øst for Lysakerelva er skumle greier. Kristian jobber utelukket med svartskjerm, og synes grafisk grensesnitt er for pyser.</br>
+Favorittkjendis: Lance Armstrong
         </div>
     </div>
 </div>
-<!--ØYVIND AA BILDE-->
+<!--KRISTIAN O BILDE-->
 <div class="col-sm-6 col-md-4 col-lg-3">
-    <div class="card personkort" data-toggle="modal" data-target=".oyvind-a">
-        <img class="card-img-top img-profil" src="../img/people/sjef.png" alt="Card image cap">
+    <div class="card personkort" data-toggle="modal" data-target=".kristian">
+        <img class="card-img-top img-profil" src="../img/people/kristian.jpg" alt="Card image cap">
         <div class="card-body">
-            <h4 class="card-title text-center">Øyvind</h4>
+            <h4 class="card-title text-center">Kristian</h4>
         </div>
     </div>
 </div>
 <!--ØYVIND AA SLUTT-->
 
-<!--ØYVIND AA INFO-->
+<!--REIDAR INFO-->
 <div class="modal fade bd-example-modal-lg reidar" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
         <div class="modal-content personmodal">
@@ -125,16 +124,16 @@ Favorittkjendis: Leif Juster
         </div>
     </div>
 </div>
-<!--ØYVIND AA BILDE-->
+<!--REIDAR BILDE-->
 <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card personkort" data-toggle="modal" data-target=".reidar">
-        <img class="card-img-top img-profil" src="../img/people/sjef.png" alt="Card image cap">
+        <img class="card-img-top img-profil" src="../img/people/reidar.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Reidar</h4>
         </div>
     </div>
 </div>
-<!--ØYVIND AA SLUTT-->
+<!--REIDAR SLUTT-->
 
 
 
