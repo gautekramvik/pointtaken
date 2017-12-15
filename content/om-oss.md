@@ -42,7 +42,7 @@ Favorittkjendis: Bertrand
     </div>
 </div>
 <!--SJEF BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="col-sm-6 col-md-4 col-lg-4">
     <div class="card personkort" data-toggle="modal" data-target=".rune">
         <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Card image cap">
         <div class="card-body">
@@ -63,7 +63,7 @@ Favorittkjendis: Carl Rove
     </div>
 </div>
 <!--SJEF 2 BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="col-sm-6 col-md-4 col-lg-4">
     <div class="card personkort" data-toggle="modal" data-target=".runar">
         <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Card image cap">
         <div class="card-body">
@@ -84,7 +84,7 @@ Favorittkjendis: Julenissen
     </div>
 </div>
 <!--KJETIL BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="col-sm-6 col-md-4 col-lg-4">
     <div class="card personkort" data-toggle="modal" data-target=".kjetil-h">
         <img class="card-img-top img-profil" src="../img/people/kjetil-h.jpg" alt="Card image cap">
         <div class="card-body">
@@ -104,7 +104,7 @@ Favorittkjendis: Lance Armstrong
     </div>
 </div>
 <!--KRISTIAN O BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="col-sm-6 col-md-4 col-lg-4">
     <div class="card personkort" data-toggle="modal" data-target=".kristian">
         <img class="card-img-top img-profil" src="../img/people/kristian.jpg" alt="Card image cap">
         <div class="card-body">
@@ -125,7 +125,7 @@ Favorittkjendis: Leif Juster
     </div>
 </div>
 <!--REIDAR BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-3">
+<div class="col-sm-6 col-md-4 col-lg-4">
     <div class="card personkort" data-toggle="modal" data-target=".reidar">
         <img class="card-img-top img-profil" src="../img/people/reidar.jpg" alt="Card image cap">
         <div class="card-body">
