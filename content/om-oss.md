@@ -41,7 +41,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            SharePoint multitool. Kan front end, back end, svartskjermutvikling og Nintex. Svart belte i Tinder.
+            SharePoint multitool. Kan front end, back end, svartskjermutvikling og Nintex. Svart belte i Tinder.    
             </br>
             Favorittkjendis: Jens Pikenes
             </div>
@@ -96,7 +96,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Christian er en skogmann som har hjemmekontor på fjellet. Han er mer på ekspedisjon enn på jobb, og når han er innom kontoret, sitter han bare og ser ut av vinduet og mumler noe om Canada.
+            Christian er en skogmann som har hjemmekontor på fjellet. Han er mer på ekspedisjon enn på jobb, og når han er innom kontoret, sitter han bare og ser ut av vinduet og mumler noe om Canada.    
             </br>
             Favorittkjendis: Lars Monsen
             </div>
@@ -124,7 +124,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Mister Nintex. Har hardisken full av arbeidsflyter, og bruker Powershell for å fylle opp månedskortet til bussen. Synes alt bør hostes i Azure, og ser fram til å kunne bo i skyen selv. 
+            Mister Nintex. Har hardisken full av arbeidsflyter, og bruker Powershell for å fylle opp månedskortet til bussen. Synes alt bør hostes i Azure, og ser fram til å kunne bo i skyen selv.    
             </br>
             Favorittkjendis: Clippy, Office Assistant
             </div>
@@ -152,7 +152,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Fan av ansiktshår og kaffe. Er aldri på jobb før klokken 10, men ser likevel alltid trøtt ut. Synes det er for mange søringer i Oslo, og planlegger å starte Point:Taken Tromsø. Får ikke lov av kona.
+            Fan av ansiktshår og kaffe. Er aldri på jobb før klokken 10, men ser likevel alltid trøtt ut. Synes det er for mange søringer i Oslo, og planlegger å starte Point:Taken Tromsø. Får ikke lov av kona.  
             </br>
             Favorittkjendis: Rune Tangen
             </div>
@@ -180,7 +180,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Streng prosjektleder som lever på en diett av grillpølser, kjøttpølser, chorizopølser, bratwürst og baconpølser. Vinner av "Årets utestemme" 2011, 2012 og 2016. 
+            Streng prosjektleder som lever på en diett av grillpølser, kjøttpølser, chorizopølser, bratwürst og baconpølser. Vinner av "Årets utestemme" 2011, 2012 og 2016.     
             </br>
             Favorittkjendis: Sinnasnekker'n
             </div>
@@ -208,7 +208,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Allvitende fagsjef, Microsoft-aficionado og den eneste i Point:Taken med egen vignett. Installerte Windows 95 på brødristeren, og er veldig opptatt at det bør alle andre også gjøre. Har et usunt forhold til TypeScript.
+            Allvitende fagsjef, Microsoft-aficionado og den eneste i Point:Taken med egen vignett. Installerte Windows 95 på brødristeren, og er veldig opptatt at det bør alle andre også gjøre. Har et usunt forhold til TypeScript.  
             </br>
             Favorittkjendis: Steve Ballmer
             </div>
@@ -236,7 +236,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Henning.
+            Info om Henning.    
             </br>
             Favorittkjendis:
             </div>
@@ -264,7 +264,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Jan Arne.
+            Info om Jan Arne.   
             </br>
             Favorittkjendis:
             </div>
@@ -292,7 +292,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Karin.
+            Info om Karin.  
             </br>
             Favorittkjendis:
             </div>
@@ -320,7 +320,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Kjetil var en av tre som startet Point:Taken, og har status som bestefar i selskapet. Kjetil har alle platene til Bjølsen Valsemølle, og mimrer om hvordan alt var bedre før i Oslo på 60-tallet. 
+            Kjetil var en av tre som startet Point:Taken, og har status som bestefar i selskapet. Kjetil har alle platene til Bjølsen Valsemølle, og mimrer om hvordan alt var bedre før i Oslo på 60-tallet.    
             </br>
             Favorittkjendis: John Arne Riise
             </div>
@@ -348,7 +348,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Bor alene på en øde øy i gokk, og bruker like lang tid på å pendle som å forklare bakgrunnen for livsvalget sitt for andre. Er fan av overtid og dårlige hamburgere.
+            Bor alene på en øde øy i gokk, og bruker like lang tid på å pendle som å forklare bakgrunnen for livsvalget sitt for andre. Er fan av overtid og dårlige hamburgere.    
             </br>
             Favorittkjendis: John Arne Riise, han også
             </div>
@@ -376,7 +376,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Kristian er en vestkantgutt som synes alt øst for Lysakerelva er skumle greier. Kristian bor på en sykkel, jobber kun med svartskjerm, og synes grafisk grensesnitt er for pyser.
+            Kristian er en vestkantgutt som synes alt øst for Lysakerelva er skumle greier. Kristian bor på en sykkel, jobber kun med svartskjerm, og synes grafisk grensesnitt er for pyser.   
             </br>
             Favorittkjendis: Lance Armstrong
             </div>
@@ -404,7 +404,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Martin.
+            Info om Martin. 
             </br>
             Favorittkjendis:
             </div>
@@ -432,7 +432,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Pelle.
+            Info om Pelle.  
             </br>
             Favorittkjendis:
             </div>
@@ -460,7 +460,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Reidar er oldefaren i Point:Taken. Reidar mente alt var bedre før, og synes det er synd at datamaskinen tok bort fokuset fra telegrafen. 
+            Reidar er oldefaren i Point:Taken. Reidar mente alt var bedre før, og synes det er synd at datamaskinen tok bort fokuset fra telegrafen.     
             </br>
             Favorittkjendis: Leif Juster
             </div>
@@ -488,7 +488,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Runar er edderkoppen som trekker i trådene en plass bak i mørket. Vi tror han var en ninja i et tidligere liv. I alle fall HMS-ansvarlig for ninjaene.  
+            Runar er edderkoppen som trekker i trådene en plass bak i mørket. Vi tror han var en ninja i et tidligere liv. I alle fall HMS-ansvarlig for ninjaene.    
             </br>
             Favorittkjendis: Karl Rove
             </div>
@@ -516,7 +516,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Rune liker å skyte folk i øret fra 300 meter, men han har roet seg kraftig ned og lever nu av å gjete nerder fra kunde til kunde. Lidenskaplig opptatt av Bertrands metode, og lever livet sitt etter det.
+            Rune liker å skyte folk i øret fra 300 meter, men han har roet seg kraftig ned og lever nu av å gjete nerder fra kunde til kunde. Lidenskaplig opptatt av Bertrands metode, og lever livet sitt etter det.  
             </br>
             Favorittkjendis: Bertrand
             </div>
@@ -544,7 +544,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Thomas.
+            Info om Thomas. 
             </br>
             Favorittkjendis:
             </div>
@@ -572,7 +572,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Info om Øyvind.
+            Info om Øyvind. 
             </br>
             Favorittkjendis:
             </div>
