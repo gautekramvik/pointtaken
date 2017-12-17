@@ -153,6 +153,11 @@ paginate = 10
     title = "Referanser"
     subtitle = "Point taken har massevis av fornøyde kunder. Massevis! Dette er bare et lite knippe av alle vi har jobbet for og som MER enn gjerne stiller opp som referanser for oss."
 
+[params.stillinger]
+    enable = true
+    title = "Ledige stillinger"
+    subtitle = "Dette er våre ledige stillinger: "
+
 [params.referanser]
     enable = true
     title = "Referanser"

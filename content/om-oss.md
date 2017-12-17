@@ -376,7 +376,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            Kristian er en vestkantgutt som synes alt øst for Lysakerelva er skumle greier. Kristian bor på en sykkel, jobber utelukket med svartskjerm, og synes grafisk grensesnitt er for pyser.
+            Kristian er en vestkantgutt som synes alt øst for Lysakerelva er skumle greier. Kristian bor på en sykkel, jobber kun med svartskjerm, og synes grafisk grensesnitt er for pyser.
             </br>
             Favorittkjendis: Lance Armstrong
             </div>

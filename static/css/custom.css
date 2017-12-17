@@ -419,3 +419,6 @@ body {
   background: #fff;
   margin-bottom: 1rem;
 }
+.table.table-hover {
+  cursor: pointer;
+}
