@@ -397,6 +397,13 @@ body {
     -moz-box-shadow: 3px 3px 3px 0px rgba(112,112,112,1);
     box-shadow: 3px 3px 3px 0px rgba(112,112,112,1);
   }
+.personkort .card-title,
+.personmodal .header-text {
+  font-weight: 300;
+}
+.personmodal .header-text {
+  padding: 1.25rem;
+}
 .personmodal {
   margin-top: 25%;
   padding: 2rem;
