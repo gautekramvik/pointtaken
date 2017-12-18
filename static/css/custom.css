@@ -422,3 +422,6 @@ body {
 .table.table-hover {
   cursor: pointer;
 }
+.infobox h3 {
+  color: #f3732b;
+}
