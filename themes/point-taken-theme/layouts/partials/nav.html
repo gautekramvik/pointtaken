@@ -14,11 +14,11 @@
             </div>
         <!--/.navbar-header -->
         <div class="navbar-collapse collapse" id="navigation">
-            <div class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto">
                 {{ range .Site.Menus.main }}
-                <a class="nav-item nav-link" href="{{ .URL }}">{{ .Name }}</a>
+                <li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end  }}
-            </div>
+            </ul>
         </div>
         <!--/.nav-collapse -->
         <!--/.nav-collapse -->

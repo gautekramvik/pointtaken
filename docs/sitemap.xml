@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/microsoft365/</loc>
+    <lastmod>2017-12-18T10:36:31+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/referanser/</loc>
     <lastmod>2017-12-13T00:30:17+01:00</lastmod>
   </url>
@@ -94,10 +99,6 @@
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/contact/</loc>
-  </url>
-  
-  <url>
     <loc>https://gautekramvik.github.io/pointtaken/faq/</loc>
   </url>
   
@@ -126,6 +127,10 @@
   </url>
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/contact/</loc>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -133,7 +138,7 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/</loc>
-    <lastmod>2017-12-13T00:30:17+01:00</lastmod>
+    <lastmod>2017-12-18T10:36:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
