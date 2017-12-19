@@ -55,7 +55,7 @@ draft: false
 </br>
 <div class="row">
     <div class="col-12">
-        <h1 align="center">Microsoft 365 inkluderer</h1>
+        <h1 align="center">Microsoft 365 inkluderer:</h1>
     </div>
 </div>
 </br>
@@ -149,9 +149,9 @@ draft: false
         <h1 align="center">Ikke minst – alt dette vil være på plass dagen etter Point Taken har mottatt fargekoder, logoer og bilder!</h1>
     </div>
 </div>
-
+</br>
 <h3 align="center">Virker dette spennende? Ta kontakt for en uforpliktende demo.</h3>
-
+</br>
 <div class="row" style="padding:1rem;background:#f1f1f1;margin-bottom:1rem">
 <iframe id='powf_C1A7E4AD58D0E711A94B000D3A246B2E' src='https://pocloudwesteurope.crm.powerobjects.net/powerwebform/powerwebform.aspx?t=nOfWFL70TUquX9DRvqN83m4AbwB2AGEAbgBlAHQAYQBzADIA&formId=powf_C1A7E4AD58D0E711A94B000D3A246B2E&tver=2013' frameborder='0' width='100%' height='270'></iframe>
 </div>
