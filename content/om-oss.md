@@ -31,6 +31,34 @@ draft: false
     <p class="lead">Point:Taken har i dag <s>25</s> <s>26</s> <s>27</s> 28 ansatte, alle spesialister på sine felt. Vi ønsker IKKE kontakt med rekrutterere, hodejegere, telefonselger, spådamer og Norsk Gallup.</p>
 </div>
 
+<!--ANDRE INFO-->
+<div class="modal fade bd-example-modal-lg andre" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/andre.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Andre</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Andre.
+            </br>
+            Favorittkjendis:
+            </div>
+        </div>
+    </div>
+</div>
+<!--ANDRE BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".andre">
+        <img class="card-img-top img-profil" src="../img/people/andre.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Andre</h4>
+        </div>
+    </div>
+</div>
+<!--ANDRE SLUTT-->
+
 <!--ARNE INFO-->
 <div class="modal fade bd-example-modal-lg arne" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -113,6 +141,34 @@ draft: false
     </div>
 </div>
 <!--CHRISTIAN SLUTT-->
+
+<!--EIRIK INFO-->
+<div class="modal fade bd-example-modal-lg eirik" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/eirik.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Eirik</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Eirik.
+            </br>
+            Favorittkjendis:
+            </div>
+        </div>
+    </div>
+</div>
+<!--EIRIK BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".eirik">
+        <img class="card-img-top img-profil" src="../img/people/eirik.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Eirik</h4>
+        </div>
+    </div>
+</div>
+<!--EIRIK SLUTT-->
 
 <!--FREDRIK INFO-->
 <div class="modal fade bd-example-modal-lg fredrik" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
@@ -282,6 +338,34 @@ draft: false
 </div>
 <!--JAN ARNE SLUTT-->
 
+<!--JAN ARNE INFO-->
+<div class="modal fade bd-example-modal-lg julian" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/julian.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Julian</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Julian.   
+            </br>
+            Favorittkjendis:
+            </div>
+        </div>
+    </div>
+</div>
+<!--JULIAN BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".julian">
+        <img class="card-img-top img-profil" src="../img/people/julian.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Julian</h4>
+        </div>
+    </div>
+</div>
+<!--JULIAN SLUTT-->
+
 <!--KARIN INFO-->
 <div class="modal fade bd-example-modal-lg karin" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -421,6 +505,34 @@ draft: false
     </div>
 </div>
 <!--KRISTIAN SLUTT-->
+
+<!--LUC INFO-->
+<div class="modal fade bd-example-modal-lg luc" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/luc.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Luc</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Luc
+            </br>
+            Favorittkjendis: Obi-Wan Kenboi
+            </div>
+        </div>
+    </div>
+</div>
+<!--LUC BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".luc">
+        <img class="card-img-top img-profil" src="../img/people/luc.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Luc</h4>
+        </div>
+    </div>
+</div>
+<!--LUC SLUTT-->
 
 <!--MARTIN INFO-->
 <div class="modal fade bd-example-modal-lg martin" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
@@ -590,6 +702,34 @@ draft: false
 </div>
 <!--THOMAS SLUTT-->
 
+<!--THORBJORN INFO-->
+<div class="modal fade bd-example-modal-lg thorbjorn" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/thorbjorn.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Thorbjørn</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Thorbjørn. 
+            </br>
+            Favorittkjendis: Abekadden Julius
+            </div>
+        </div>
+    </div>
+</div>
+<!--THORBJORN BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".thorbjorn">
+        <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Thorbjørn</h4>
+        </div>
+    </div>
+</div>
+<!--THORBJORN SLUTT-->
+
 <!--ØYVIND V INFO-->
 <div class="modal fade bd-example-modal-lg oyvind-v" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -617,6 +757,35 @@ draft: false
     </div>
 </div>
 <!--ØYVIND V SLUTT-->
+
+<!--ØYVIND AA INFO-->
+<div class="modal fade bd-example-modal-lg oyvind-aa" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/oyvind-aa.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Øyvind</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Øyvind. 
+            </br>
+            Favorittkjendis:
+            </div>
+        </div>
+    </div>
+</div>
+<!--ØYVIND AA BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".oyvind-aa">
+        <img class="card-img-top img-profil" src="../img/people/oyvind-aa.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Øyvind</h4>
+        </div>
+    </div>
+</div>
+<!--ØYVIND AA SLUTT-->
+
 
 <!-- row end -->
 </div>
