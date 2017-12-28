@@ -422,6 +422,9 @@ body {
 .table.table-hover {
   cursor: pointer;
 }
-.infobox h3 {
+.infobox h1,
+.infobox h2,
+.infobox h3,
+.infobox h4 {
   color: #f3732b;
 }
