@@ -3,7 +3,7 @@ title: "Microsoft365"
 date: 2017-12-18T10:36:31+01:00
 draft: false
 ---
-<div class="row" style="padding:1rem 0;background:#FFC174">
+<div class="row" style="padding:2rem 1rem;background:#FFC174;margin:2rem 0">
     <div class="col-sm-12 col-md-6">
         <h1>Microsoft 365</h1>
         <h2>Den perfekte løsningen for små og mellomstore bedrifter</h2>
@@ -15,10 +15,11 @@ draft: false
     </div>
 </div>
 </br>
-
-<h1 align="center">Point Taken introduserer Microsoft 365</h1>
 </br>
-<div class="row">
+<h1 align="center" style="margin:2rem 0">Point Taken introduserer Microsoft 365</h1>
+</br>
+</br>
+<div class="row" style="margin:2rem 0">
 <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="infobox">
     <h3>Smart sikkerhet</h3>
@@ -46,20 +47,24 @@ draft: false
 </br>
 <div class="row">
     <div class="col-sm-12 col-md-6">
-        <img class="img-fluid" src="../img/group/10.jpg" alt="Microsoft 365" />
+        <img class="img-fluid" src="../img/adminsenter.png" alt="Microsoft 365" />
     </div>
-    <div class="col-sm-12 col-md-6">
+    <div class="col-sm-12 col-md-6 infobox">
         <h1 align="center">Alt i ÉN sikker løsning fra Microsoft, tilpasset din bedrift av Point Taken</h1>
     </div>
 </div>
 </br>
-<div class="row">
+</br>
+</br>
+</br>
+<div class="row" style="padding:3rem;background:#A0CBED">
     <div class="col-12">
         <h1 align="center">Microsoft 365 inkluderer:</h1>
     </div>
 </div>
 </br>
-<div class="row">
+</br>
+<div class="row" style="margin:2rem 0">
 <div class="col-xs-12 col-sm-6 col-md-4">
     <div class="infobox">
     <h3>Office 365</h3>
@@ -118,39 +123,43 @@ draft: false
 
 </div>
 </br>
-<div class="row">
+</br>
+<div class="row" style="padding:3rem;background:#FFC174">
     <div class="col-12">
-        <h2 align="center">... I tillegg får du</h2>
+        <h1 align="center">Point Taken sørger for tilpassning og optimal implementering</h1>
     </div>
 </div>
 </br>
-<div class="row">
+</br>
+<div class="row" style="margin:4rem 0">
     <div class="col-xs-12 col-sm-6">
-        <ul>
-        <li>Support med høy kompetanse</li>
-        <li>Personalisert og responsivt intranett</li>
-        <li>E-learning modul</li>
-        <li>Organinsasjons-kalender og årshjul tilpasset avdelinger</li>
-        </ul>
+    <p class="lead" style="font-size:1.45rem"><strong>1.</strong> Vi setter opp hele løsningen hos deg, passer på at alle funksjoner og applikasjoner er tilpasset din bedrift, dine avdelinger og dine ansatte. I tillegg får du også et personalisert intranett for et mer effektivt 2018.</p>
+    </div>
+    <div class="col-xs-12 col-sm-6 infobox">
+    <img class="img-fluid" src="../img/scantrade.png" alt="Scantrade Intranett" />
+    <h4 align="center">Intranett, tilpasset din bedrift</h4>
+    <h4 style="font-size: 1.2rem" align="center">Kunde: Scantrade</h4>
+    </div>    
+</div>
+<div class="row" style="margin:4rem 0">
+    <div class="col-xs-12 col-sm-6">
+        <img class="img-fluid" src="../img/group/7.jpg" alt="" />
     </div>
     <div class="col-xs-12 col-sm-6">
-        <ul>
-        <li>Wikiløsning med håndbok og rutiner</li>
-        <li>Prioriteringsapplikasjoner tilpasset avdelinger</li>
-        <li>Microsoft Teams tilpasset din bedrift</li>
-        <li>Avdelingstilpassede dokument og bildebilbioteker </li>
-        <li>Personsøk</li>
-        </ul>
+    <p class="lead" style="font-size:1.45rem"><strong>2.</strong> Du får support hele veien. Som Microsoft Gold Partner er våre ansatte spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365 og Office365. Vi skal hjelpe deg med å jobbe smartere og utnytte dine digitale verktøy.</p>
     </div>    
 </div>
 </br>
-<div class="row" style="padding:1rem 0;background:#FFC174">
+</br>
+<div class="row" style="padding:3rem;background:#FFC174">
     <div class="col-12">
-        <h1 align="center">Ikke minst – alt dette vil være på plass dagen etter Point Taken har mottatt fargekoder, logoer og bilder!</h1>
+        <h1 align="center">Best av alt – løsningen vil være på plass dagen etter Point Taken har mottatt fargekoder, logoer og bilder!</h1>
     </div>
 </div>
 </br>
+</br>
 <h3 align="center">Virker dette spennende? Ta kontakt for en uforpliktende demo.</h3>
+</br>
 </br>
 <div class="row" style="padding:1rem;background:#f1f1f1;margin-bottom:1rem">
 <iframe id='powf_C1A7E4AD58D0E711A94B000D3A246B2E' src='https://pocloudwesteurope.crm.powerobjects.net/powerwebform/powerwebform.aspx?t=nOfWFL70TUquX9DRvqN83m4AbwB2AGEAbgBlAHQAYQBzADIA&formId=powf_C1A7E4AD58D0E711A94B000D3A246B2E&tver=2013' frameborder='0' width='100%' height='270'></iframe>
