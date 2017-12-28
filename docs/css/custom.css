@@ -428,3 +428,6 @@ body {
 .infobox h4 {
   color: #f3732b;
 }
+.modal-xl {
+  max-width: 1100px;
+}
