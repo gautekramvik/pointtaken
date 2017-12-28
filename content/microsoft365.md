@@ -137,13 +137,14 @@ draft: false
     </div>
     <div class="col-xs-12 col-sm-6 infobox">
     <img class="img-fluid" src="../img/scantrade.png" alt="Scantrade Intranett" />
-    <h4 align="center">Intranett, tilpasset din bedrift</h4>
-    <h4 style="font-size: 1.2rem" align="center">Kunde: Scantrade</h4>
+    <h4 style="margin-top:1rem" align="center">Intranett, tilpasset din bedrift</h4>
+    <h4 style="font-size:1.2rem" align="center">Kunde: Scantrade</h4>
     </div>    
 </div>
 <div class="row" style="margin:4rem 0">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-12 col-sm-6 infobox">
         <img class="img-fluid" src="../img/group/7.jpg" alt="" />
+        <h4 style="margin-top:1rem" align="center">Point Taken er Microsoft Gold Partner</h4>
     </div>
     <div class="col-xs-12 col-sm-6">
     <p class="lead" style="font-size:1.45rem"><strong>2.</strong> Du får support hele veien. Som Microsoft Gold Partner er våre ansatte spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365 og Office365. Vi skal hjelpe deg med å jobbe smartere og utnytte dine digitale verktøy.</p>
