@@ -404,8 +404,8 @@ body {
 .personmodal .header-text {
   padding: 1.25rem;
 }
-.personmodal {
-  margin-top: 25%;
+.personmodal,
+.personmodal-lg {
   padding: 2rem;
   font-size: 1.25em;
   border-radius: 0;
