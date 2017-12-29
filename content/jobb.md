@@ -8,7 +8,7 @@ draft: false
 
 Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her. 
 
-Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang til topp utstyr, flotte møterom, en deilig kantine, kaffe og te rundt hvert hjørne og mulighet til å slappe av i en sofa eller slå et slag bordfotball mot en kollega eller to. Vil du ta en visuell tur rundt i våre lokaler? Sjekk ut dette!
+Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang til topp utstyr, flotte møterom, en deilig kantine, kaffe og te rundt hvert hjørne og mulighet til å slappe av i en sofa eller slå et slag bordfotball mot en kollega eller to.
 </br>
 </br>
 ## Ledige stillinger
@@ -21,10 +21,10 @@ Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang 
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <!-- <tr>
       <td data-toggle="modal" data-target=".oslo-1">Oslo</td>
       <td data-toggle="modal" data-target=".oslo-1">Fullstack-utvikler</td>
-    </tr>
+    </tr> -->
     <tr>
       <td data-toggle="modal" data-target=".oslo-2">Oslo</td>
       <td data-toggle="modal" data-target=".oslo-2">Azure-spesialist</td>
