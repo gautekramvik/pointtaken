@@ -16,6 +16,9 @@ Med seg på turen har han en annen erfaren villmarksmann: Vidar Bruun fra Jesshe
 
 ![Point Taken til Canada](img/ptcanada.jpg)
 
+<img class="img-fluid" src="/img/ptcanada.png" /> 
+
+
 De to har også planlagt å gå til Artillery Lake der målet er Crystal Island. En engelsk aristokrat bodde her etter å ha fått nok av overklasselivet i England. Det sies at eventyreren bodde i en hule.
 
 De ansatte i Point Taken kan følge turen gjennom daglige oppdateringer og sporingsinfo fra en medbrakt GPS med satelittforbindelse.
