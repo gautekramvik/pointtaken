@@ -10,6 +10,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 publishDir = "docs"
+SectionPagesMenu = "main"
 
 # Define the number of posts per page
 paginate = 10
@@ -20,36 +21,43 @@ paginate = 10
 
 [[menu.main]]
     name = "HJEM"
+    identifier = "hjem"
     url  = "/"
     weight = 1
 
 [[menu.main]]
     name = "OM OSS"
+    identifier = "om-oss"
     url  = "/om-oss/"
     weight = 2
 
 [[menu.main]]
     name = "TJENESTER"
+    identifier = "tjenester"
     url  = "/index.html#3"
     weight = 3
 
 [[menu.main]]
     name = "REFERANSER"
+    identifier = "referanser"
     url = "/referanser/"
     weight = 4
 
 [[menu.main]]
     name = "JOBB"
+    identifier = "jobb"
     url = "/jobb/"
     weight = 5
 
 [[menu.main]]
     name = "KONTAKT"
+    identifier = "kontakt"
     url = "/contact/"
     weight = 6     
 
 [[menu.main]]
     name = "BLOG"
+    identifier = "blog"
     url = "/blog/"
     weight = 7        
 

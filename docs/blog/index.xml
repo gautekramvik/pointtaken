@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2017 22:48:54 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Point Taken Til Canada</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/12/29/point-taken-til-canada/</link>
+      <pubDate>Fri, 29 Dec 2017 22:48:54 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/12/29/point-taken-til-canada/</guid>
+      <description>Point Taken etablerer base i Canada Point Takens SharePoint eksepert Christian Engelschiøn riser i sommer tilbake til helege Ingstads vinterkvarter i Canada.
+I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omtalt i boken &amp;ldquo;Pelsjegerliv&amp;rdquo;. Også i 2010 var han i Canada for å lete etter stedet, men den gang uten resultat. I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.</description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>

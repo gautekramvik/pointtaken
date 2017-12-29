@@ -311,9 +311,9 @@ ul.list-style-none {
   /* letter-spacing: 0.08em; */
   /* border-top: solid 5px transparent; */
 }
-.navbar ul.nav > li > a:hover {
+/* .navbar ul.nav > li > a:hover {
   border-top: solid 5px #f3732b;
-}
+} */
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
   text-decoration: none !important;
@@ -336,14 +336,14 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.active > a:hover {
   border-top: solid 5px #a02121;
 }
-.navbar.navbar-light ul.nav > li > a:hover,
+/* .navbar.navbar-light ul.nav > li > a:hover,
 .navbar.navbar-light ul.nav > li.open > a:hover,
 .navbar.navbar-light ul.nav > li > a:focus,
 .navbar.navbar-light ul.nav > li.open > a:focus {
   border-top: solid 5px #f3732b;
   background: #fff !important;
   color: #555555 !important;
-}
+} */
 .navbar ul.dropdown-menu {
   /* margin: 0;
   padding: 0; */

@@ -14,10 +14,9 @@
             </div>
         <!--/.navbar-header -->
         <div class="navbar-collapse collapse" id="navigation">
-            <ul class="navbar-nav ml-auto">
-                    {{- $firstUrlElement := print "/" (index (split .URL "/") 1) "/" -}}
+            <ul class="nav navbar-nav ml-auto">
                     {{- range .Site.Menus.main -}}
-                        <li class="nav-item"><a class="nav-link {{if eq ($firstUrlElement|lower) (.URL|lower) }}active{{end}}" title="{{ .Name }}" href="{{.URL}}">{{ .Name }}</a></li>
+                        <li class="nav-item"><a class="nav-link" title="{{ .Name }}" href="{{.URL}}">{{ .Name }}</a></li>
                     {{ end }}
             </ul>
         </div>
