@@ -3,7 +3,7 @@ title: "Microsoft365"
 date: 2017-12-18T10:36:31+01:00
 draft: false
 ---
-<div class="row" style="padding:2rem 1rem;background:#FFC174;margin:2rem 0">
+<div class="row fullwidth" style="background:#FFC174">
     <div class="col-sm-12 col-md-6">
         <h1>Microsoft 365</h1>
         <h2>Den perfekte løsningen for små og mellomstore bedrifter</h2>
@@ -14,9 +14,11 @@ draft: false
     <img class="img-fluid" src="../img/group/5.jpg" alt="Microsoft 365" />
     </div>
 </div>
-</br>
-</br>
-<h1 align="center" style="margin:2rem 0">Point Taken introduserer Microsoft 365</h1>
+<div class="row fullwidth" style="background:#e6e6e6;padding-top:4rem;padding-bottom:4rem">
+<div class="col-12">
+<h1 align="center">Point Taken introduserer Microsoft 365</h1>
+</div>
+</div>
 </br>
 </br>
 <div class="row" style="margin:2rem 0">
@@ -57,7 +59,7 @@ draft: false
 </br>
 </br>
 </br>
-<div class="row" style="padding:3rem;background:#A0CBED">
+<div class="row fullwidth" style="background:#A0CBED;padding-top:4rem;padding-bottom:4rem">
     <div class="col-12">
         <h1 align="center">Microsoft 365 inkluderer:</h1>
     </div>
@@ -124,7 +126,7 @@ draft: false
 </div>
 </br>
 </br>
-<div class="row" style="padding:3rem;background:#FFC174">
+<div class="row fullwidth" style="background:#FFC174;padding-top:4rem;padding-bottom:4rem">
     <div class="col-12">
         <h1 align="center">Point Taken sørger for tilpassning og optimal implementering</h1>
     </div>
@@ -152,7 +154,7 @@ draft: false
 </div>
 </br>
 </br>
-<div class="row" style="padding:3rem;background:#FFC174">
+<div class="row fullwidth" style="background:#FFC174;padding-top:4rem;padding-bottom:4rem">
     <div class="col-12">
         <h1 align="center">Best av alt – løsningen vil være på plass dagen etter Point Taken har mottatt fargekoder, logoer og bilder!</h1>
     </div>

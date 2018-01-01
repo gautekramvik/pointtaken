@@ -377,7 +377,7 @@ body {
   font-size: 16px;
 }
 .card {
-  margin-bottom: 2rem;  
+  margin-bottom: .5rem;
 }
 .card-title {
   margin-bottom: .75rem;
@@ -388,7 +388,7 @@ body {
 }
 .personkort {
   cursor: pointer;
-  background: #f3f3f3;
+  /* background: #f3f3f3; */
   border: 0;
   transition: 300ms;
 }
@@ -430,4 +430,8 @@ body {
 }
 .modal-xl {
   max-width: 1100px;
+}
+.fullwidth {
+  margin: 0 -9999rem;
+  padding: 0.25rem 9999rem;  
 }
