@@ -428,6 +428,9 @@ body {
 .infobox h4 {
   color: #f3732b;
 }
+.infobox .fa-circle {
+  margin-right: .5rem;
+}
 .modal-xl {
   max-width: 1100px;
 }
