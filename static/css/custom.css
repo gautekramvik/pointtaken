@@ -219,7 +219,7 @@ body {
 }
 .splash.w-azure {
   background:  url('../img/universe.jpg');
-  background-size: contain;
+  /* background-size: contain; */
   background-repeat: no-repeat;
 }
 .splash.w-sikkerhet {
