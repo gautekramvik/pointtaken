@@ -4,6 +4,8 @@ date: 2017-06-29T22:48:54+01:00
 draft: false
 banner: "img/ptcanada.jpg"
 author: "Runar Lund"
+categories: ["sosialt"]
+tags: ["promo"]
 ---
 
 ### Point Taken etablerer base i Canada
