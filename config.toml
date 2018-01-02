@@ -10,7 +10,6 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 publishDir = "docs"
-SectionPagesMenu = "main"
 
 # Define the number of posts per page
 paginate = 10
