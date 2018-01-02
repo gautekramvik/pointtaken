@@ -90,24 +90,28 @@
             </div>
         
         <div class="navbar-collapse collapse" id="navigation">
-            <ul class="nav navbar-nav ml-auto"><li class="nav-item"><a class="nav-link active" title="HJEM" href="/pointtaken/">HJEM</a></li>
-    <li class="nav-item"><a class="nav-link " title="OM OSS" href="/pointtaken/om-oss/">OM OSS</a></li>
-    <li class="nav-item"><a class="nav-link " title="TJENESTER" href="/pointtaken/index.html#3">TJENESTER</a></li>
-    <li class="nav-item"><a class="nav-link " title="REFERANSER" href="/pointtaken/referanser/">REFERANSER</a></li>
-    <li class="nav-item"><a class="nav-link " title="JOBB" href="/pointtaken/jobb/">JOBB</a></li>
-    <li class="nav-item"><a class="nav-link " title="KONTAKT" href="/pointtaken/contact/">KONTAKT</a></li>
-    <li class="nav-item"><a class="nav-link " title="BLOG" href="/pointtaken/blog/">BLOG</a></li>
-    
+            <ul class="nav navbar-nav ml-auto"><li class="nav-item"><a class="nav-link" title="HJEM" href="/pointtaken/">HJEM</a></li>
+                    <li class="nav-item"><a class="nav-link" title="OM OSS" href="/pointtaken/om-oss/">OM OSS</a></li>
+                    <li class="nav-item"><a class="nav-link" title="TJENESTER" href="/pointtaken/index.html#3">TJENESTER</a></li>
+                    <li class="nav-item"><a class="nav-link" title="REFERANSER" href="/pointtaken/referanser/">REFERANSER</a></li>
+                    <li class="nav-item"><a class="nav-link" title="JOBB" href="/pointtaken/jobb/">JOBB</a></li>
+                    <li class="nav-item"><a class="nav-link" title="KONTAKT" href="/pointtaken/contact/">KONTAKT</a></li>
+                    <li class="nav-item"><a class="nav-link" title="BLOG" href="/pointtaken/blog/">BLOG</a></li>
+                    
             </ul>
         </div>
         
         
-    </div>  
+    </div>
 </div>
 
 
 
-
+<script>
+$(".nav-item a").filter(function(){
+    return this.href == location.href.replace(/#.*/, "");
+}).addClass("active");    
+</script>
 
         </header>
 

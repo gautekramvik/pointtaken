@@ -15,16 +15,20 @@
         <!--/.navbar-header -->
         <div class="navbar-collapse collapse" id="navigation">
             <ul class="nav navbar-nav ml-auto">
-    {{- $firstUrlElement := print "/" (index (split .URL "/") 1) "/" -}}
-    {{- range .Site.Menus.main -}}
-        <li class="nav-item"><a class="nav-link {{if eq ($firstUrlElement|lower) (.URL|lower) }}active{{end}}" title="{{ .Name }}" href="{{.URL}}">{{ .Name }}</a></li>
-    {{ end }}
+                    {{- range .Site.Menus.main -}}
+                        <li class="nav-item"><a class="nav-link" title="{{ .Name }}" href="{{.URL}}">{{ .Name }}</a></li>
+                    {{ end }}
             </ul>
         </div>
         <!--/.nav-collapse -->
         <!--/.nav-collapse -->
-    </div>  
+    </div>
 </div>
 <!-- /#navbar -->
 
 <!-- *** NAVBAR END ***-->
+<script>
+$(".nav-item a").filter(function(){
+    return this.href == location.href.replace(/#.*/, "");
+}).addClass("active");    
+</script>
