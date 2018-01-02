@@ -19,22 +19,22 @@ draft: false
     </div>
 </div>
 
-<div class="row background-blue ad-info">
+<div class="row background-blue ad-info fullwidth" style="padding-top:3rem;padding-bottom:3rem">
     <div class="col-sm-12 col-lg-6">
         <img class="img-fluid" src="../img/startup-photos.jpg"></img>        
     </div>
     <div class="col-sm-12 col-lg-6">
         <h3 style="margin-top:0">Hvorfor Point Taken?</h3>
-        <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Lær fra ekspertene.</li>
-        <li><i class="fa fa-certificate" aria-hidden="true"></i>Konsulentene i Point Taken er sertifiserte seniorer med lang erfaring på Office 365.</li>
-        <li><i class="fa fa-car" aria-hidden="true"></i>Point Taken reiser ut til din virksomhet med sine kurs.</li>
-        <li><i class="fa fa-line-chart" aria-hidden="true"></i>Fokuserte kurs som gir større utbytte.</li>
-        <li><i class="fa fa-handshake-o" aria-hidden="true"></i>Kursene kan skreddersys til å passe din virksomhets behov.</li>
+        <li><i class="fas fa-circle" aria-hidden="true"></i>Lær fra ekspertene.</li>
+        <li><i class="fas fa-circle" aria-hidden="true"></i>Konsulentene i Point Taken er sertifiserte seniorer med lang erfaring på Office 365.</li>
+        <li><i class="fas fa-circle" aria-hidden="true"></i>Point Taken reiser ut til din virksomhet med sine kurs.</li>
+        <li><i class="fas fa-circle" aria-hidden="true"></i>Fokuserte kurs som gir større utbytte.</li>
+        <li><i class="fas fa-circle" aria-hidden="true"></i>Kursene kan skreddersys til å passe din virksomhets behov.</li>
         </ul>
     </div>
 </div>
 
-<div class="row">
+<div class="row" style="padding-top:3rem">
     <div class="col-lg-4 col-sm-6 card">
         <div class="heading text-center"><h4>Bli kjent med Office 365</h4></div>
         <div class="card-body">
