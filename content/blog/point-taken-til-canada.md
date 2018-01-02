@@ -14,7 +14,7 @@ I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg ti
 
 Med seg på turen har han en annen erfaren villmarksmann: Vidar Bruun fra Jessheim.
 
-![Point Taken til Canada](img/ptcanada.jpg)
+![Point Taken til Canada](../img/ptcanada.jpg)
 
 <img class="img-fluid" src="/img/ptcanada.png" /> 
 
