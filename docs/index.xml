@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Dec 2017 22:48:54 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 10:36:31 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Point Taken Til Canada</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/12/29/point-taken-til-canada/</link>
-      <pubDate>Fri, 29 Dec 2017 22:48:54 +0100</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/12/29/point-taken-til-canada/</guid>
-      <description>Point Taken etablerer base i Canada Point Takens SharePoint eksepert Christian Engelschiøn riser i sommer tilbake til helege Ingstads vinterkvarter i Canada.
-I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omtalt i boken &amp;ldquo;Pelsjegerliv&amp;rdquo;. Også i 2010 var han i Canada for å lete etter stedet, men den gang uten resultat. I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.</description>
-    </item>
     
     <item>
       <title>Microsoft365</title>
@@ -134,6 +124,16 @@ Hva. Som. Helst.</description>
       
       <guid>https://gautekramvik.github.io/pointtaken/sharepoint/</guid>
       <description> Legg til tekst om SharePoint her </description>
+    </item>
+    
+    <item>
+      <title>Point Taken Til Canada</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/06/29/point-taken-til-canada/</link>
+      <pubDate>Thu, 29 Jun 2017 22:48:54 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/06/29/point-taken-til-canada/</guid>
+      <description>Point Taken etablerer base i Canada Point Takens SharePoint eksepert Christian Engelschiøn riser i sommer tilbake til helege Ingstads vinterkvarter i Canada.
+I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omtalt i boken &amp;ldquo;Pelsjegerliv&amp;rdquo;. Også i 2010 var han i Canada for å lete etter stedet, men den gang uten resultat. I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.</description>
     </item>
     
     <item>

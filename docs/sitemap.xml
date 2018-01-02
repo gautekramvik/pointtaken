@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/12/29/point-taken-til-canada/</loc>
-    <lastmod>2017-12-29T22:48:54+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gautekramvik.github.io/pointtaken/microsoft365/</loc>
     <lastmod>2017-12-18T10:36:31+01:00</lastmod>
   </url>
@@ -68,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/06/29/point-taken-til-canada/</loc>
+    <lastmod>2017-06-29T22:48:54+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -94,7 +94,7 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/blog/</loc>
-    <lastmod>2017-12-29T22:48:54+01:00</lastmod>
+    <lastmod>2017-06-29T22:48:54+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,18 +143,18 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/</loc>
-    <lastmod>2017-12-29T22:48:54+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pointtaken/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-12-18T10:36:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
