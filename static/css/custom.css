@@ -392,10 +392,8 @@ body {
   border: 0;
   transition: 300ms;
 }
-  .personkort:hover {
-    -webkit-box-shadow: 3px 3px 3px 0px rgba(112,112,112,1);
-    -moz-box-shadow: 3px 3px 3px 0px rgba(112,112,112,1);
-    box-shadow: 3px 3px 3px 0px rgba(112,112,112,1);
+  .personkort:hover .card-title {
+    color: #f3732b;
   }
 .personkort .card-title,
 .personmodal .header-text {
@@ -428,15 +426,32 @@ body {
 .infobox h4 {
   color: #f3732b;
 }
-.infobox .fa-circle {
+.infobox .fa-circle,
+.fullwidth .fa-circle {
   margin-right: .5rem;
 }
 .modal-xl {
   max-width: 1100px;
 }
+@media (min-width: 768px) {
 .fullwidth {
-  margin: 0 -9999rem;
-  padding: 0.25rem 9999rem;  
+  width: 98.6vw;
+  position: relative;
+  left: 48%;
+  right: 50%;
+  margin-left: -48vw;
+  padding: 0 2rem;
+}
+}
+@media (min-width: 1200px) {
+  .fullwidth {
+    padding: 0 15rem;
+    width: vw;
+    position: relative;
+    left: 48%;
+    right: 50%;
+    margin-left: -48vw;  
+  }
 }
 .nav-link {
   border-bottom:3px solid transparent;

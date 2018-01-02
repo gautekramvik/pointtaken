@@ -27,9 +27,98 @@ draft: false
     </div>
 </div>
 
-<div class="col-12">
+<div class="col-12" style="margin-bottom:2rem">
     <p class="lead">Point:Taken har i dag <s>25</s> <s>26</s> <s>27</s> 28 ansatte, alle spesialister på sine felt. Vi ønsker IKKE kontakt med rekrutterere, hodejegere, telefonselger, spådamer og Norsk Gallup.</p>
 </div>
+<!--RUNE INFO-->
+<div class="modal fade bd-example-modal-lg rune" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/rune.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Rune</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Rune liker å skyte folk i øret fra 300 meter, men han har roet seg kraftig ned og lever nu av å gjete nerder fra kunde til kunde. Lidenskaplig opptatt av Bertrands metode, og lever livet sitt etter det.  
+            </br>
+            Favorittkjendis: Bertrand
+            </div>
+        </div>
+    </div>
+</div>
+<!--RUNE BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".rune">
+        <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Rune Tangen</h4>
+            <h6 class="card-subtitle mb-2 text-center">Daglig leder</h6>
+            <p class="card-text text-center">Tlf: 123 45 678</p>            
+        </div>
+    </div>
+</div>
+<!--RUNE SLUTT-->
+
+<!--RUNAR INFO-->
+<div class="modal fade bd-example-modal-lg runar" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/runar.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Runar</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Runar er edderkoppen som trekker i trådene en plass bak i mørket. Vi tror han var en ninja i et tidligere liv. I alle fall HMS-ansvarlig for ninjaene.    
+            </br>
+            Favorittkjendis: Karl Rove
+            </div>
+        </div>
+    </div>
+</div>
+<!--RUNAR BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".runar">
+        <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Runar Lund</h4>
+            <h6 class="card-subtitle mb-2 text-center">Konsulentsjef</h6>
+            <p class="card-text text-center">Tlf: 123 45 678</p>              
+        </div>
+    </div>
+</div>
+<!--RUNAR SLUTT-->
+
+<!--THORBJORN INFO-->
+<div class="modal fade bd-example-modal-lg thorbjorn" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/thorbjorn.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Thorbjørn</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            Info om Thorbjørn. 
+            </br>
+            Favorittkjendis: Abekadden Julius
+            </div>
+        </div>
+    </div>
+</div>
+<!--THORBJORN BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".thorbjorn">
+        <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Thorbjørn Værp</h4>
+            <h6 class="card-subtitle mb-2 text-center">Regionsleder Kristiansand</h6>
+            <p class="card-text text-center">Tlf: 123 45 678</p>               
+        </div>
+    </div>
+</div>
+<!--THORBJORN SLUTT-->
 
 <!--ANDRE INFO-->
 <div class="modal fade bd-example-modal-lg andre" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
@@ -618,62 +707,6 @@ draft: false
 </div>
 <!--REIDAR SLUTT-->
 
-<!--RUNAR INFO-->
-<div class="modal fade bd-example-modal-lg runar" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/runar.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Runar</h4>
-            </div>
-            </br>
-            <div class="col-sm-12 col-md-8">
-            Runar er edderkoppen som trekker i trådene en plass bak i mørket. Vi tror han var en ninja i et tidligere liv. I alle fall HMS-ansvarlig for ninjaene.    
-            </br>
-            Favorittkjendis: Karl Rove
-            </div>
-        </div>
-    </div>
-</div>
-<!--RUNAR BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".runar">
-        <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Runar</h4>
-        </div>
-    </div>
-</div>
-<!--RUNAR SLUTT-->
-
-<!--RUNE INFO-->
-<div class="modal fade bd-example-modal-lg rune" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/rune.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Rune</h4>
-            </div>
-            </br>
-            <div class="col-sm-12 col-md-8">
-            Rune liker å skyte folk i øret fra 300 meter, men han har roet seg kraftig ned og lever nu av å gjete nerder fra kunde til kunde. Lidenskaplig opptatt av Bertrands metode, og lever livet sitt etter det.  
-            </br>
-            Favorittkjendis: Bertrand
-            </div>
-        </div>
-    </div>
-</div>
-<!--RUNE BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".rune">
-        <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Rune</h4>
-        </div>
-    </div>
-</div>
-<!--RUNE SLUTT-->
-
 <!--THOMAS INFO-->
 <div class="modal fade bd-example-modal-lg thomas" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -701,34 +734,6 @@ draft: false
     </div>
 </div>
 <!--THOMAS SLUTT-->
-
-<!--THORBJORN INFO-->
-<div class="modal fade bd-example-modal-lg thorbjorn" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/thorbjorn.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Thorbjørn</h4>
-            </div>
-            </br>
-            <div class="col-sm-12 col-md-8">
-            Info om Thorbjørn. 
-            </br>
-            Favorittkjendis: Abekadden Julius
-            </div>
-        </div>
-    </div>
-</div>
-<!--THORBJORN BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".thorbjorn">
-        <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Thorbjørn</h4>
-        </div>
-    </div>
-</div>
-<!--THORBJORN SLUTT-->
 
 <!--ØYVIND V INFO-->
 <div class="modal fade bd-example-modal-lg oyvind-v" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">

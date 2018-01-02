@@ -24,15 +24,15 @@ draft: false
     </div>
     <div class="col-sm-12 col-lg-6">
         <h3 style="margin-top:0">Vi kan tilby blant annet</h3>
-            <li><i class="fa fa-area-chart" aria-hidden="true"></i>Generell rådgivning på plattformen</li>
-            <li><i class="fa fa-building-o" aria-hidden="true"></i>Store og små intranett</li>
-            <li><i class="fa fa-file-text" aria-hidden="true"></i>Dokumenthåndtering</li>    
-            <li><i class="fa fa-envelope-o" aria-hidden="true"></i>Saksbehandling og arbeidsflyt</li>
-            <li><i class="fa fa-users" aria-hidden="true"></i>Medlems- og brukerhåndtering</li>     
-            <li><i class="fa fa-cogs" aria-hidden="true"></i>Samhandlingsløsninger av ulike slag</li>     
-            <li><i class="fa fa-medkit" aria-hidden="true"></i>Kvalitetssystemer, avvikshåndtering og HMS</li>     
-            <li><i class="fa fa-graduation-cap" aria-hidden="true"></i>Opplæringsløsning</li>     
-            <li><i class="fa fa-code" aria-hidden="true"></i>Integrasjoner</li>    
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Generell rådgivning på plattformen</li>
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Store og små intranett</li>
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Dokumenthåndtering</li>    
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Saksbehandling og arbeidsflyt</li>
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Medlems- og brukerhåndtering</li>     
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Samhandlingsløsninger av ulike slag</li>     
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Kvalitetssystemer, avvikshåndtering og HMS</li>     
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Opplæringsløsning</li>     
+            <li><i class="fas fa-circle" aria-hidden="true"></i>Integrasjoner</li>    
         </ul>
     </div>
 </div>

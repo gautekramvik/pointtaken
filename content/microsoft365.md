@@ -14,16 +14,17 @@ draft: false
     <img class="img-fluid" src="../img/group/5.jpg" alt="Microsoft 365" />
     </div>
 </div>
+
 <div class="row fullwidth" style="background:#e6e6e6;padding-top:4rem;padding-bottom:4rem">
-<div class="col-12">
-<h1 align="center">Point Taken introduserer Microsoft 365</h1>
-</div>
+    <div class="col-12">
+    <h1 align="center">Point Taken introduserer Microsoft 365</h1>
+    </div>
 </div>
 </br>
 </br>
 <div class="row" style="margin:2rem 0">
 <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Smart sikkerhet</h3>
     <p class="lead">Du får den sikreste versjonen av Windows noen sinne –bygget for dagens trusselbilde.</p>
     <p class="lead">Jobb sikkert hvor som helst, når som helst, fra alle enheter.</p>
@@ -31,7 +32,7 @@ draft: false
     </div>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Forenklet samarbeid</h3>
     <p class="lead">Administrer brukere og enheter med ett enkelt instrumentbord. En komplett løsning og en pålogging for alle tjenester og enheter.</p>
     <p class="lead">Samle team og ressurser på en personalisert og skreddersydd plattform.</p>
@@ -39,7 +40,7 @@ draft: false
     </div>
 </div>
 <div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Tilpasset ditt behov</h3>
     <p class="lead">Point Taken sørger for at Microsoft 365, med tilhørende intranett, Teams, årshjul, dokumentarkiv og applikasjoner er tilpasset din bedrift og dine avdelinger. </p>
     <p class="lead">Ikke minst, vi kan sørge for at løsninger er oppe dagen etter at vi har mottatt bedriftsinfo, farger og logoer.</p>
@@ -51,7 +52,7 @@ draft: false
     <div class="col-sm-12 col-md-6">
         <img class="img-fluid" src="../img/adminsenter.png" alt="Microsoft 365" />
     </div>
-    <div class="col-sm-12 col-md-6 infobox">
+    <div class="col-sm-12 col-md-6 infobox" style="margin:2rem 0">
         <h1 align="center">Alt i ÉN sikker løsning fra Microsoft, tilpasset din bedrift av Point Taken</h1>
     </div>
 </div>
@@ -67,57 +68,57 @@ draft: false
 </br>
 </br>
 <div class="row" style="margin:2rem 0">
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Office 365</h3>
     <p class="lead">Hold deg oppdatert med de siste versjonene av Word, Excel, PowerPoint og mer.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>E-post og kalendere</h3>
     <p class="lead">Få kontakt med kunder og medarbeidere ved å bruke Outlook og Exchange.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Fillagring i skyen</h3>
     <p class="lead">Behandle filene dine fra hvor som helst med 1 TB lagringsplass.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Den sikreste Windows-versjonen noen sinne</h3>
     <p class="lead">Oppgrader til Windows 10 Pro.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Administrasjon og distribusjon</h3>
     <p class="lead">Administrer nye PC-er og enheter raskere og enklere enn noen gang.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>E-Beskyttelse mot nett-trusler</h3>
     <p class="lead">Sikre PC-er mot skadelig programvare, virus og spionprogrammer.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Kontroller for databeskyttelse</h3>
     <p class="lead">Sikre firmadata på personlige og bedriftseide enheter.</p>
     </div>
 </div>
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="infobox">
+<div class="col-xs-12 col-sm-6 col-md-3">
+    <div class="infobox" style="margin:2rem 0">
     <h3><i class="fas fa-circle"></i>Pålitelig support</h3>
     <p class="lead">Få 99,9 % garantert oppetid og kundestøtte på nett og telefon døgnet rundt.</p>
     </div>
