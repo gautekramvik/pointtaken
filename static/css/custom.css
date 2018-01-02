@@ -304,7 +304,7 @@ body {
   padding: 2rem 0;
 }
 .ad-info {
-  margin-bottom: 3rem;
+  /* margin-bottom: 3rem; */
   font-size: 1.25em;
   padding: 2rem .5rem;
 }
@@ -446,11 +446,10 @@ body {
 @media (min-width: 1200px) {
   .fullwidth {
     padding: 0 15rem;
-    width: vw;
     position: relative;
     left: 48%;
     right: 50%;
-    margin-left: -48vw;  
+    margin-left: -48vw;
   }
 }
 .nav-link {

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Dec 2017 10:36:31 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2018 13:59:08 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teams</title>
+      <link>https://gautekramvik.github.io/pointtaken/teams/</link>
+      <pubDate>Tue, 02 Jan 2018 13:59:08 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/teams/</guid>
+      <description>Microsoft Teams - vær en lagspiller  Fortell meg mer!   Dette verktøyet samler ansatte, samtaler, innhold og verktøy på en unik måte. Workplace by Facebook, Slack og Yammer har god samhandlingsfunksjonalitet hver på sin måte, men ingen av dem gjør alt det Teams gjør.
+Teams gir brukerne en mulighet til å samle «alt» på en flate, noe som oppleves som en betydelig forenkling i et virvar av tjenester og apper.</description>
+    </item>
     
     <item>
       <title>Microsoft365</title>
