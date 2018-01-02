@@ -107,11 +107,7 @@
 
 
 
-<script>
-$(".nav-item a").filter(function(){
-    return this.href == location.href.replace(/#.*/, "");
-}).addClass("active");    
-</script>
+
 
         </header>
 
@@ -918,6 +914,11 @@ This document is a brief primer on using go templates.</p>
 
 
 <script src="https://gautekramvik.github.io/pointtaken/js/owl.carousel.min.js"></script>
+<script>
+$(".nav-item a").filter(function(){
+    return this.href == location.href.replace(/#.*/, "");
+}).addClass("active");    
+</script>
 
 
   </body>

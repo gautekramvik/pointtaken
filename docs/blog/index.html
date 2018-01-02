@@ -104,11 +104,7 @@
 
 
 
-<script>
-$(".nav-item a").filter(function(){
-    return this.href == location.href.replace(/#.*/, "");
-}).addClass("active");    
-</script>
+
 
         </header>
 
@@ -643,6 +639,11 @@ We&rsquo;ll start with creating a new site with a very basic template.</p>
 
 
 <script src="https://gautekramvik.github.io/pointtaken/js/owl.carousel.min.js"></script>
+<script>
+$(".nav-item a").filter(function(){
+    return this.href == location.href.replace(/#.*/, "");
+}).addClass("active");    
+</script>
 
 
   </body>

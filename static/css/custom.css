@@ -438,6 +438,9 @@ body {
   margin: 0 -9999rem;
   padding: 0.25rem 9999rem;  
 }
+.nav-link {
+  border-bottom:3px solid transparent;
+}
 .nav-link.active {
-  border-bottom: 3px solid orange;
+  border-bottom: 3px solid #f3732b;
 }
