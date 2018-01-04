@@ -86,7 +86,10 @@ body {
 .mini {
   margin-top: 1rem;
 }
-
+.navbar-brand {
+  margin-top: 0;
+  padding-top: 0;
+}
 .navbar-brand>img {
   height: 25px;
 }
