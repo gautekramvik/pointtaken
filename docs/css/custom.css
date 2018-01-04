@@ -35,8 +35,13 @@ body {
   padding-right: 1rem;
 }
 @media (max-width: 992px) {
+  .navbar-light .navbar-nav .nav-link.active {
+  color: #f3732b;
+  }
+}
+@media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link {
-    color: rgb(204, 199, 199);
+    color: rgb(142, 142, 142);
   }
 }
 

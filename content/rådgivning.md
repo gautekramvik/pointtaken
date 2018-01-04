@@ -18,8 +18,5 @@ Bilde</p>
 Vi tar raskt i bruk ny teknologi og investerer i kompetanse for å gi verdier til våre kunder. Vi er sertifiserte spesialister på Office 365, Dynamics 365 (CRM), Nintex SharePoint og AZURE. Alle har lang erfaring som konsulenter, rådgivere eller utviklere og vi er stolte av vår Thorbjørn Værp som er tildelt Microsoft Most Valuable Professional Award (MVP) innen Office Server and Services. 
 Som rådgivere er vi opptatt av å finne den beste løsningen for våre kunder, enten løsningen er på egne servere, eller i en skyløsning. Vi kan også hjelpe organisasjonen å ta i bruk ny teknologi på en rask og effektiv måte.
 
-
-
 </br>
-
 </br>
