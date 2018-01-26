@@ -1447,6 +1447,9 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+.box-simple .icon img {
+  width: 3rem;
+}
 .box-simple h3 {
   font-weight: normal;
   font-size: 18px;
