@@ -19,43 +19,43 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "HJEM"
+    name = "Hjem"
     identifier = "hjem"
     url  = "/"
     weight = 1
 
 [[menu.main]]
-    name = "OM OSS"
+    name = "Om oss"
     identifier = "om-oss"
     url  = "/om-oss/"
     weight = 2
 
 [[menu.main]]
-    name = "TJENESTER"
+    name = "Tjenester"
     identifier = "tjenester"
     url  = "/index.html#3"
     weight = 3
 
 [[menu.main]]
-    name = "REFERANSER"
+    name = "Referanser"
     identifier = "referanser"
     url = "/referanser/"
     weight = 4
 
 [[menu.main]]
-    name = "JOBB"
+    name = "Jobb"
     identifier = "jobb"
     url = "/jobb/"
     weight = 5
 
 [[menu.main]]
-    name = "KONTAKT"
+    name = "Kontakt"
     identifier = "kontakt"
     url = "/contact/"
     weight = 6     
 
 [[menu.main]]
-    name = "BLOG"
+    name = "Blog"
     identifier = "blog"
     url = "/blog/"
     weight = 7        

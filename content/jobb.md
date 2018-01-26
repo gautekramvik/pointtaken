@@ -4,14 +4,17 @@ date: 2017-12-11T13:40:58+01:00
 draft: false
 ---
 
-# Jobbe i Point:Taken?
-
+<div class="container">
+<h1>Jobbe i Point:Taken?</h1>
+<p>
 Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her. 
-
+</p>
+<p>
 Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang til topp utstyr, flotte møterom, en deilig kantine, kaffe og te rundt hvert hjørne og mulighet til å slappe av i en sofa eller slå et slag bordfotball mot en kollega eller to.
+</p>
 </br>
 </br>
-## Ledige stillinger
+<h1>Ledige stillinger</h1>
 
 <table class="table table-hover">
   <thead>
@@ -179,7 +182,7 @@ Vi har alltid øyne og ører åpne for nye talenter som kan tilføre noe til vå
         <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Rune Tangen">
         <div class="card-body">
             <h4 class="card-title">Rune Tangen</h4>
-            <h6 class="card-subtitle mb-2">Oslo</h6>
+            <p class="card-subtitle mb-2">Oslo</p>
             <p class="card-text">Tlf: 123 45 678</p>
         </div>
     </div>
@@ -190,7 +193,7 @@ Vi har alltid øyne og ører åpne for nye talenter som kan tilføre noe til vå
         <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Thorbjørn Værp">
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
-            <h6 class="card-subtitle mb-2">Kristiansand</h6>
+            <p class="card-subtitle mb-2">Kristiansand</p>
             <p class="card-text">Tlf: 987 65 432</p>
         </div>
     </div>

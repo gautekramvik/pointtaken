@@ -1,8 +1,12 @@
 weight: 1
-title: "Vi hjelper kundene våre å jobbe smartere"
+title: "Vi hjelper ditt firma til en smartere hverdag"
 description: >
   <ul class="list-style-none">
-    <li><br></li>
-    <li><a href="/pointtaken/om-oss/" class="btn btn-outline-danger" role="button" aria-disabled="true">Mer om oss</a></li>
+    <li class="text-center">Partnere med:</li>
+    <li class="partners row col-6  mx-auto text-center">
+      <div class="col-sm-12 col-md-4">Microsoft</div>
+      <div class="col-sm-12 col-md-4">Nintex</div>
+      <div class="col-sm-12 col-md-4">ShareGate</div>   
+    </li>
   </ul>
 image: "img/banner.jpg"

@@ -4,21 +4,23 @@ date: 2017-12-11T13:40:52+01:00
 draft: false
 ---
 
-# Vi er Norges ledende kompetansemiljø på digital samhandling
-
+<div class="container">
+<div class="heading text-center">
+<h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
+</div>
 <p class="lead">Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
 <p class="lead">Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
 
 <!-- PARTNERSKAP -->
 
-<div class=row style="margin-top:2rem;background:#f3f3f3;padding:1rem">
+<!-- <div class=row style="margin-top:2rem;background:#f3f3f3;padding:1rem">
     <div class="col-12">
         <p class="lead">Våre parnere er viktige for oss. Vi bryr oss om våre partnere, og de bryr seg om oss. Gode partnere gir deg trygghet som kunde, og ingenting er viktigere for oss enn din trygghet.</p>
     </div>
     <div class="col-4"><img class="img-fluid" src="../img/microsoft-partner.png" alt="Microsoft partner" /></div>
     <div class="col-4"><img class="img-fluid" src="../img/nintex-premier-partner.png" alt="Nintex premier partner" /></div>
     <div class="col-4"><img class="img-fluid" src="../img/sharegate-partner.png" alt="Sharegate partner" /></div>
-</div>
+</div> -->
 <!-- BILDER AV POINT TAKEN -->
 <div class="row" style="margin-top:2rem">
 <div class="col-12">
@@ -53,7 +55,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Rune Tangen</h4>
-            <h6 class="card-subtitle mb-2 text-center">Daglig leder</h6>
+            <p class="card-subtitle mb-2 text-center">Daglig leder</p>
             <p class="card-text text-center">Tlf: 123 45 678</p>            
         </div>
     </div>
@@ -83,7 +85,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Runar Lund</h4>
-            <h6 class="card-subtitle mb-2 text-center">Konsulentsjef</h6>
+            <p class="card-subtitle mb-2 text-center">Konsulentsjef</p>
             <p class="card-text text-center">Tlf: 123 45 678</p>              
         </div>
     </div>
@@ -113,7 +115,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Thorbjørn Værp</h4>
-            <h6 class="card-subtitle mb-2 text-center">Regionsleder Kristiansand</h6>
+            <p class="card-subtitle mb-2 text-center">Regionsleder Kristiansand</p>
             <p class="card-text text-center">Tlf: 123 45 678</p>               
         </div>
     </div>
@@ -795,3 +797,4 @@ draft: false
 <!-- row end -->
 </div>
 <!-- container end -->
+</div>

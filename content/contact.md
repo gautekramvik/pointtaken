@@ -13,7 +13,7 @@ Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe
         <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Rune Tangen">
         <div class="card-body">
             <h4 class="card-title">Rune Tangen</h4>
-            <h6 class="card-subtitle mb-2">Daglig leder</h6>
+            <p class="card-subtitle mb-2">Daglig leder</p>
             <p class="card-text">Tlf: 123 45 678</p>
         </div>
     </div>
@@ -24,7 +24,7 @@ Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe
         <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Runar Lund">
         <div class="card-body">
             <h4 class="card-title">Runar Lund</h4>
-            <h6 class="card-subtitle mb-2">Konsulentsjef</h6>
+            <p class="card-subtitle mb-2">Konsulentsjef</p>
             <p class="card-text">Tlf: 123 45 678</p>
         </div>
     </div>
@@ -35,7 +35,7 @@ Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe
         <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Thorbjørn Værp">
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
-            <h6 class="card-subtitle mb-2">Regionleder Kristiansand</h6>
+            <p class="card-subtitle mb-2">Regionleder Kristiansand</p>
             <p class="card-text">Tlf: 987 65 432</p>
         </div>
     </div>
@@ -46,7 +46,7 @@ Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe
         <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
         <div class="card-body">
             <h4 class="card-title">Knut Skogvold</h4>
-            <h6 class="card-subtitle mb-2">Salgssjef</h6>
+            <p class="card-subtitle mb-2">Salgssjef</p>
             <p class="card-text">Tlf: 987 65 432</p>
         </div>
     </div>

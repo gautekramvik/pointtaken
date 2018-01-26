@@ -1,7 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Arvo');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,500');
 
 body {
-  font-family: Camphor, Open Sans, Segoe UI, sans-serif;
+  background-color: #f5f5f5;
+  color: #292828;
+  font-family: 'Roboto'; 
+  font-weight: 300;
+  font-size: 19px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -14,7 +18,7 @@ body {
 
 .box-simple {
   min-height: 230px;
-  margin-bottom: 0;
+  margin-bottom: 2.25rem;
 }
 .karusell {
   background: gainsboro;
@@ -29,10 +33,11 @@ body {
     }
 }
 .navbar-light .navbar-nav .nav-link {
-  font-size: 1.15em;
-  font-weight: 600;
-  color: rgb(51, 56, 56);
+  /* font-size: 1.15em; */
+  /* font-weight: 600; */
+  color: #F3732B;
   padding-right: 1rem;
+  font-weight: 400;
 }
 @media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link.active {
@@ -46,7 +51,7 @@ body {
 }
 
 .box-simple p {
-  color: #555;
+  color: #292828;
   font-size: 18px;
 }
 
@@ -73,10 +78,11 @@ body {
 
 .box-simple .icon {
   /* background-image: url(../img/pattern1.svg); */
-  font-size: 3em;
+  font-size: 2em;
   background-color: #f3732b;
-  border-radius: 0;
+  /* border-radius: 0; */
   color: #fff;
+  margin-bottom: 1rem;
 }
 
 .box-simple .icon a {
@@ -386,6 +392,8 @@ body {
 }
 .card {
   margin-bottom: .5rem;
+  border-radius: 0;
+  border: 0;
 }
 .card-title {
   margin-bottom: .75rem;
@@ -421,9 +429,9 @@ body {
   background:#f5f5f5;
 }
 .referansecase {
-  padding: 1rem;
-  background: #fff;
-  margin-bottom: 1rem;
+  /* padding: 1rem; */
+  /* background: #fff; */
+  /* margin-bottom: 1rem; */
 }
 .table.table-hover {
   cursor: pointer;
@@ -464,5 +472,33 @@ body {
   border-bottom:3px solid transparent;
 }
 .nav-link.active {
-  border-bottom: 3px solid #f3732b;
+  /* border-bottom: 3px solid #f3732b; */
 }
+.divbar {
+  height: 4px;
+  background: #f3732b;
+}
+.partners div {
+  font-weight: 600;
+}
+.btn-primary {
+  border-radius: 0;
+  background-color: #f3732b;
+  border-color: #f3732b;
+}
+.btn-out {
+  border-color: #f3732b;
+  color: #f3732b;
+  background: #fff;
+}
+.content-menu {
+  max-width: 1140px;
+  color: #f3732b;
+}
+.content-menu div {
+  padding: 1rem;
+  border-left: 1px solid #f5f5f5;
+}
+  .content-menu div:last-child {
+    border-right: 1px solid #f5f5f5;
+  }
