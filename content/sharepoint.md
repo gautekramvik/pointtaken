@@ -6,7 +6,7 @@ draft: false
 <div class="container">
     <div class="referansecase">
         <div class="row no-gutters">
-            <div class="col-md-12 col-lg-6">
+            <div class="col-md-12 col-lg-6 p-4 mt-4">
                 <div class="heading">
                     <h1>SharePoint</h1>
                 </div>
@@ -20,18 +20,38 @@ draft: false
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0">Om SharePoint</h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0">Hvorfor oss?</h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0">Referanser</h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om SharePoint</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#referanse">Referanser</a></h4></div>
     </div>
 </div>
 
 <div class="container">
     <div class="row">
-        <div class="col-12">
-            <p class="lead">Hva om det fantes et produkt som kunne hjelpe dine ansatte med å jobbe raskere og mer effektivt, men samtidig gi de fleksibiliteten til å ha hele arbeidsplassen i lomma? Dette produktet finnes allerede og heter Microsoft SharePoint.  Med SharePoint kan du organisere dokumenter, distribuere informasjon og jobbe med mange kolleger samtidig, og med Office 365 kan dettes gjøres hvor som helst, når som helst. Utsagn som «jeg ser på det når jeg kommer på kontoret» eller «jeg kan ikke jobbe i dag, fordi jeg er snødd inne på hytta» er en saga blott når alle bedriftens dokumenter kan nås umiddelbart hvor som helst i verden.</p>
-            <p class="lead">Omså du er på vei, eller allerede er i Office 365, eller du har dine servere trygt plassert «på bakken», kan vi bistå med å innføre, videreforedle eller reorganisere deres samhandlingsprosesser. Vi sørger for at de ansatte har friheten til å jobbe mindre og få gjort mer.</p>
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                    <div class="heading">
+                        <h2>Migrering fra bakke til sky!</h2>
+                    </div>
+                    <p>Hva om det fantes et produkt som kunne hjelpe dine ansatte med å jobbe raskere og mer effektivt, men samtidig gi de fleksibiliteten til å ha hele arbeidsplassen i lomma? Dette produktet finnes allerede og heter Microsoft SharePoint.  Med SharePoint kan du organisere dokumenter, distribuere informasjon og jobbe med mange kolleger samtidig, og med Office 365 kan dettes gjøres hvor som helst, når som helst.</p>
+                    <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a>
+                </div>
+            </div>
         </div>
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                    <div class="heading">
+                        <h2>De herrrligste intranett!</h2>
+                    </div>
+                    <p>Omså du er på vei, eller allerede er i Office 365, eller du har dine servere trygt plassert «på bakken», kan vi bistå med å innføre, videreforedle eller reorganisere deres samhandlingsprosesser. Vi sørger for at de ansatte har friheten til å jobbe mindre og få gjort mer.</p>
+                    <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a>
+                </div>            
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+            </div>
+        </div>        
     </div>
 </div>
 
@@ -56,9 +76,70 @@ draft: false
     </div>
 </div> -->
 
-<div class="container">
+<div class="container" id="referanse">
     <div class="row">
-        <div class="col-12">
+        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
+            <blockquote class="blockquote text-center">
+            <p class="mb-0">Mer enn 200 000 organisasjoner og mer enn 190 millioner mennesker har SharePoint for intranett, gruppeområder og innholds­administrasjon.</p>
+            </blockquote>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="om" class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
+            <div class="heading text-center">
+                <h2>Våre tjenester inkluderer blant annet:</h2>
+            </div>
+            <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p>
+            <table class="table mt-4">
+            </thead>
+            <tbody>
+                <tr>
+                <td>Generell rådgivning på plattformen</td>
+                <td>Verdi</td>
+                </tr>
+                <tr>
+                <td>Store og små intranett</td>
+                <td>Verdi</td>
+                </tr>
+                <tr>
+                <td>Dokumenthåndtering</td>
+                <td>Verdi</td>
+                </tr>
+                <tr>
+                <td>Saksbehandling og arbeidsflyt</td>
+                <td>Verdi</td>
+                </tr>
+                <tr>
+                <td>Medlems- og brukerhåndtering</td>
+                <td>Verdi</td>
+                </tr>
+                <tr>
+                <td>Samhandlingsløsninger av ulike slag</td>
+                <td>Verdi</td>
+                </tr>
+                <tr>
+                <td>Kvalitetssystemer, avvikshåndtering og HMS</td>
+                <td>Verdi</td>
+                </tr>        
+                <tr>
+                <td>Oppæring</td>
+                <td>Verdi</td>
+                </tr>                  
+            </tbody>
+            </table>          
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- <div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-8 mx-auto">
             <div class="heading text-center">
                 <h2>Hvor er du nå?</h2>
             </div>
@@ -70,7 +151,6 @@ draft: false
     <div class="row">
         <div class="col-sm-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top " src="../img/laptop.jpg" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Jeg ønsker å lære mer om SharePoint</h4>
                     <p class="card-text">Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</p>
@@ -80,7 +160,6 @@ draft: false
         </div>
         <div class="col-sm-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="../img/office_meeting.jpg" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Jeg ønsker å implementere SharePoint</h4>
                     <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</p>
@@ -90,7 +169,6 @@ draft: false
         </div>
         <div class="col-sm-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="../img/laptop.jpg" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Jeg trenger hjelp med SharePoint</h4>
                     <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</p>
@@ -100,7 +178,6 @@ draft: false
         </div>
         <div class="col-sm-12 col-md-6 col-lg-3">
             <div class="card">
-                <img class="card-img-top" src="../img/office_meeting.jpg" alt="Card image cap">
                 <div class="card-body">
                     <h4 class="card-title">Jeg trenger kurs i SharePoint</h4>
                     <p class="card-text">Jeg trenger å lære mer om hvordan bruker SharePoint på best mulig måte.</p>
@@ -109,7 +186,7 @@ draft: false
             </div>
         </div>               
     </div>
-</div>
+</div> -->
 
 <!-- <div class="container-fluid">
     <div class="row background-yellow" style="padding-top:3rem;padding-bottom:3rem">

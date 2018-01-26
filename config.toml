@@ -37,24 +37,6 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Referanser"
-    identifier = "referanser"
-    url = "/referanser/"
-    weight = 4
-
-[[menu.main]]
-    name = "Jobb"
-    identifier = "jobb"
-    url = "/jobb/"
-    weight = 5
-
-[[menu.main]]
-    name = "Kontakt"
-    identifier = "kontakt"
-    url = "/contact/"
-    weight = 6     
-
-[[menu.main]]
     name = "Blog"
     identifier = "blog"
     url = "/blog/"

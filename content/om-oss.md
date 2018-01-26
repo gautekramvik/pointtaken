@@ -5,11 +5,24 @@ draft: false
 ---
 
 <div class="container">
-<div class="heading text-center">
-<h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
+    <div class="row">
+        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
+            <div class="heading text-center">
+            <h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
+            </div>
+            <p class="lead">Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
+            <p class="lead">Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
+        </div>
+    </div>
 </div>
-<p class="lead">Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
-<p class="lead">Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
+
+<div class="container-fluid bg-white mb-4">
+    <div class="row content-menu text-center mx-auto">
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/referanser/">Referanser</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/jobb/">Jobbe i Point Taken?</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontaktinformasjon</a></h4></div>
+    </div>
+</div>
 
 <!-- PARTNERSKAP -->
 
@@ -22,6 +35,7 @@ draft: false
     <div class="col-4"><img class="img-fluid" src="../img/sharegate-partner.png" alt="Sharegate partner" /></div>
 </div> -->
 <!-- BILDER AV POINT TAKEN -->
+<div class="container">
 <div class="row" style="margin-top:2rem">
 <div class="col-12">
     <div class="heading text-center">

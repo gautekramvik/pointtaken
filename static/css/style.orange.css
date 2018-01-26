@@ -101,11 +101,12 @@ div.section {
   display: inline-block;
   border-bottom: solid 4px #f3732c;
   line-height: 1.1;
-  margin-bottom: 0;
+  margin-bottom: .5rem;
   padding-bottom: 10px;
   vertical-align: middle;
   /* text-transform: uppercase; */
   /* letter-spacing: 0.06em; */
+  /* margin-top: 2rem; */
 }
 .heading h1 i.fa,
 .heading h2 i.fa,
@@ -1264,6 +1265,8 @@ fieldset[disabled] .btn-template-primary.active {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  font-size: 17px;
+  color: #292828;
 }
 .testimonials .item .testimonial {
   position: relative;
@@ -1286,8 +1289,9 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
 }
 .testimonials .item .testimonial .text {
-  color: #999999;
+  color: #292828;
   margin-bottom: 40px;
+  /* font-size: 17px; */
 }
 .testimonials .item .testimonial .bottom {
   position: absolute;
@@ -2514,6 +2518,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #555555;
   padding: 50px 0;
   color: #ddd;
+  font-size: 16px;
 }
 #footer h1,
 #footer h2,
@@ -3372,7 +3377,7 @@ h6,
   /* font-weight: 300; */
   /* line-height: 1.1; */
   /* color: #333333; */
-  font-size: 24px;
+  /* font-size: 21px; */
 }
 h1,
 .h1,
@@ -3421,11 +3426,12 @@ abbr[title],
 abbr[data-original-title] {
   border-bottom: 1px dotted #999999;
 }
-blockquote {
-  padding: 10px 20px;
-  margin: 0 0 20px;
-  font-size: 14px;
+.blockquote {
   border-left: 5px solid #f3732b;
+  font-size: 32px;
+  font-family: Times New Roman;
+  font-style: italic;
+  color: #6C6C6C;
 }
 blockquote footer,
 blockquote small,

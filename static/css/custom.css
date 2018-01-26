@@ -56,10 +56,12 @@ body {
 }
 
 .home-carousel .dark-mask {
-  /* background: url(../img/homepage-slider.jpg); */
+  background: url(../img/element-skyer.svg);
   background-size: cover;
-  /*background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)),url('../img/mountain.png') center center repeat;*/
-  background: #e6e6e6;
+  /* background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)),url('../img/mountain.png') center center repeat; */
+  /* background: #e6e6e6; */
+  /* background-attachment: fixed; */
+  background-position: bottom;
 }
 
 .bar.background-pentagon {
@@ -396,7 +398,7 @@ body {
   border: 0;
 }
 .card-title {
-  margin-bottom: .75rem;
+  /* margin-bottom: .75rem; */
 }
 .footer-img {
   max-width: 250px;
@@ -432,6 +434,9 @@ body {
   /* padding: 1rem; */
   /* background: #fff; */
   /* margin-bottom: 1rem; */
+}
+.content-case {
+  margin-bottom: 2rem;
 }
 .table.table-hover {
   cursor: pointer;
@@ -502,3 +507,9 @@ body {
   .content-menu div:last-child {
     border-right: 1px solid #f5f5f5;
   }
+.content-menu h4 {
+  font-size: 1.25rem;
+}
+table .td {
+  font-size: 17px;
+}
