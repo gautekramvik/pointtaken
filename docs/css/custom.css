@@ -57,11 +57,10 @@ body {
 
 .home-carousel .dark-mask {
   background: url(../img/element-skyer.svg);
-  background-size: cover;
-  /* background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)),url('../img/mountain.png') center center repeat; */
-  /* background: #e6e6e6; */
-  /* background-attachment: fixed; */
-  background-position: bottom;
+  background-size: contain;
+  background-position: top 70;
+  background-position: 0 350px;
+  background-repeat: no-repeat;
 }
 
 .bar.background-pentagon {
