@@ -3,9 +3,22 @@ title = "Kontakt"
 id = "contact"
 +++
 
-## Vi er her for å hjelpe Dem!
 
-Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe deg! Send oss en beskjed i kontaktskjemaet vårt, eller ta en prat på chatten, så skal vi kunne svare på det aller meste.
+<div class="container">
+    <div class="referansecase">
+        <div class="row">
+            <div class="col-md-12 col-lg-8 p-4 mt-4">
+                <div class="heading">
+                    <h1>Kontaktinformasjon</h1>
+                </div>
+                <h3>Har du sett over sidene våre og sitter igjen med noen spørsmål?</h3>
+                <p>Vi kan hjelpe deg! Send oss en beskjed i kontaktskjemaet vårt, eller ta en prat på chatten, så skal vi kunne svare på det aller meste.</p>
+            </div>    
+            <div class="col-md-12 col-lg-6"></div>
+        </div>
+    </div>
+</div>
+
 </br>
 <div class="row">
 <div class="col-sm-6 col-md-4 col-lg-3">

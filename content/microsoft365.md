@@ -3,15 +3,17 @@ title: "Microsoft365"
 date: 2017-12-18T10:36:31+01:00
 draft: false
 ---
-<div class="row fullwidth" style="background:#FFC174;padding-top:4rem;padding-bottom:4rem">
-    <div class="col-sm-12 col-md-6">
-        <h1>Microsoft 365</h1>
-        <h2>Den perfekte løsningen for små og mellomstore bedrifter</h2>
-        <h3>Smart sikkerhet og forenklet samarbeid, tilpasset ditt behov – slik at din bedrift er klar for 2018</h3>
-        <a class="btn btn-primary" href="../contact/" role="button" style="margin:1rem 0">Jeg vil vite mer</a>
-    </div>
-    <div class="col-sm-12 col-md-6">
-    <img class="img-fluid" src="../img/group/5.jpg" alt="Microsoft 365" />
+<div class="container-fluid">
+    <div class="row" style="background:#FFC174;padding-top:4rem;padding-bottom:4rem">
+        <div class="col-sm-12 col-md-6">
+            <h1>Microsoft 365</h1>
+            <h2>Den perfekte løsningen for små og mellomstore bedrifter</h2>
+            <h3>Smart sikkerhet og forenklet samarbeid, tilpasset ditt behov – slik at din bedrift er klar for 2018</h3>
+            <a class="btn btn-primary" href="../contact/" role="button" style="margin:1rem 0">Jeg vil vite mer</a>
+        </div>
+        <div class="col-sm-12 col-md-6">
+        <img class="img-fluid" src="../img/group/5.jpg" alt="Microsoft 365" />
+        </div>
     </div>
 </div>
 

@@ -5,17 +5,26 @@ draft: false
 ---
 
 <div class="container">
-<h1>Jobbe i Point:Taken?</h1>
-<p>
-Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her. 
-</p>
-<p>
-Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang til topp utstyr, flotte møterom, en deilig kantine, kaffe og te rundt hvert hjørne og mulighet til å slappe av i en sofa eller slå et slag bordfotball mot en kollega eller to.
-</p>
-</br>
-</br>
-<h1>Ledige stillinger</h1>
+    <div class="referansecase">
+        <div class="row">
+            <div class="col-md-12 col-lg-8 p-4 mt-4">
+                <div class="heading">
+                    <h1>Jobbe i Point Taken?</h1>
+                </div>
+                <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her.</p>
+            </div>    
+            <div class="col-md-12 col-lg-6"></div>
+        </div>
+    </div>
+</div>
 
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-lg-8 p-4 mt-4">
+            <div class="heading">
+                <h1>Ledige stillinger</h1>
+            </div>
+         
 <table class="table table-hover">
   <thead>
     <tr>
@@ -42,7 +51,7 @@ Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang 
     </tr>    
   </tbody>
 </table>
-
+</div>
 <!-- STILLINGSBESKRIVELSER -->
 
 <!--Front-end-utvikler-->
@@ -172,9 +181,19 @@ Vi holder til i lyse og lekre lokaler, sentralt i Oslo. Hos oss får du tilgang 
 
 <!-- Kontaktinformasjon -->
 
-Vi har alltid øyne og ører åpne for nye talenter som kan tilføre noe til vårt allerede flotte team. Det er ikke alltid vi lyser ut spesifikke stillinger, men hvis du mener du er riktig for oss så ta kontakt! Hvis man alltid venter på rett tidspunkt må man ofte vente lenge. Og det er alltid rett tidspunkt for å høre fra engasjerte og flinke folk! 
-</br>
-</br>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 mt-4 mb-4">
+            <div class="row">
+                <div class="col-md-12 col-lg-8" style="padding:2rem">
+                    <p>Vi har alltid øyne og ører åpne for nye talenter som kan tilføre noe til vårt allerede flotte team. Det er ikke alltid vi lyser ut spesifikke stillinger, men hvis du mener du er riktig for oss så ta kontakt! Hvis man alltid venter på rett tidspunkt må man ofte vente lenge. Og det er alltid rett tidspunkt for å høre fra engasjerte og flinke folk!</p>
+                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                </div>
+            </div>
+        </div>       
+    </div>
+</div>
+
 
 <div class="row">
 <div class="col-sm-6 col-md-4 col-lg-4">

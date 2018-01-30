@@ -400,13 +400,14 @@ body {
 .card-title {
   /* margin-bottom: .75rem; */
 }
+
 .footer-img {
   max-width: 250px;
   margin-bottom: 1rem;
 }
 .personkort {
   cursor: pointer;
-  /* background: #f3f3f3; */
+  background: none;
   border: 0;
   transition: 300ms;
 }
@@ -419,6 +420,7 @@ body {
 }
 .personmodal .header-text {
   padding: 1.25rem;
+  font-weight: 600;
 }
 .personmodal,
 .personmodal-lg {

@@ -5,13 +5,16 @@ draft: false
 ---
 
 <div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
-            <div class="heading text-center">
-            <h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
-            </div>
-            <p class="lead">Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
-            <p class="lead">Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
+    <div class="referansecase">
+        <div class="row no-gutters">
+            <div class="col-md-12 col-lg-8 p-4 mt-4">
+                <div class="heading">
+                    <h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
+                </div>
+                <p>Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
+                <p>Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt</p>
+            </div>    
+            <div class="col-md-12 col-lg-6"></div>
         </div>
     </div>
 </div>

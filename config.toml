@@ -19,28 +19,30 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-    name = "Hjem"
-    identifier = "hjem"
-    url  = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Om oss"
-    identifier = "om-oss"
-    url  = "/om-oss/"
-    weight = 2
 
 [[menu.main]]
     name = "Tjenester"
     identifier = "tjenester"
     url  = "/index.html#3"
+    weight = 1
+
+[[menu.main]]
+    name = "Referanser"
+    identifier = "referanser"
+    url  = "/referanser/"
+    weight = 2    
+
+[[menu.main]]
+    name = "Om oss"
+    identifier = "om-oss"
+    url  = "/om-oss/"
     weight = 3
 
 [[menu.main]]
     name = "Blog"
     identifier = "blog"
     url = "/blog/"
-    weight = 7        
+    weight = 4      
 
 # Top bar social links menu
 
@@ -135,7 +137,7 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -143,12 +145,12 @@ paginate = 10
     subtitle = "Point taken har massevis av fornøyde kunder. Massevis! Dette er bare et lite knippe av alle vi har jobbet for og som MER enn gjerne stiller opp som referanser for oss."
 
 [params.stillinger]
-    enable = true
+    enable = false
     title = "Ledige stillinger"
     subtitle = "Dette er våre ledige stillinger: "
 
 [params.referanser]
-    enable = true
+    enable = false
     title = "Referanser"
     subtitle = "Vi er heldige som får jobbe med spennende kunder og meningsfylte oppgaver. Her kan du fordype deg i noen av jobbene vi er mest stolte av."
 
@@ -161,11 +163,11 @@ paginate = 10
     link_url = "/pointtaken/contact/"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Noen av våre klienter"
+    title = "Noen av våre kunder"
     subtitle = ""
 
 [params.recent_posts]
