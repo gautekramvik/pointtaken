@@ -19,8 +19,6 @@ paginate = 10
 # Main menu
 
 [[menu.main]]
-
-[[menu.main]]
     name = "Tjenester"
     identifier = "tjenester"
     url  = "/index.html#3"

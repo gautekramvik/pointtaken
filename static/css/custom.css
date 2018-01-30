@@ -39,6 +39,10 @@ body {
   padding-right: 1rem;
   font-weight: 400;
 }
+.navbar-light .navbar-nav .nav-link.active {
+  border-bottom: 4px solid #f3732b; 
+}
+
 @media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link.active {
   color: #f3732b;
