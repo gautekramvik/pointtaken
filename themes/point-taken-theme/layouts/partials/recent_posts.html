@@ -16,7 +16,7 @@
 
             <div class="row">
                     {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
-                    {{ range first 4 $posts.Pages }}
+                    {{ range first 2 $posts.Pages }}
                     <div class="recent-blogs row">
                     <div class="col-sm-12 col-md-8">
                         <div class="content">
