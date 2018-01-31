@@ -7,7 +7,7 @@ id = "contact"
 <div class="container">
     <div class="referansecase">
         <div class="row">
-            <div class="col-md-12 col-lg-8 p-4 mt-4">
+            <div class="col-md-12 col-lg-8 mt-4">
                 <div class="heading">
                     <h1>Kontaktinformasjon</h1>
                 </div>
@@ -65,7 +65,13 @@ id = "contact"
     </div>
 </div>
 
+<div class="col-md-12 col-lg-8 p-4 mt-4">
+    <div class="heading">
+        <h3>Kontaktskjema</h3>
+    </div>
 </div>
-</br>
+
+</div>
+
 <div class="row" style="padding:1rem;background:#f1f1f1;margin-bottom:1rem">
 <iframe id='powf_C1A7E4AD58D0E711A94B000D3A246B2E' src='https://pocloudwesteurope.crm.powerobjects.net/powerwebform/powerwebform.aspx?t=nOfWFL70TUquX9DRvqN83m4AbwB2AGEAbgBlAHQAYQBzADIA&formId=powf_C1A7E4AD58D0E711A94B000D3A246B2E&tver=2013' frameborder='0' width='100%' height='270'></iframe></div>

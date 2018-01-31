@@ -427,10 +427,10 @@ body {
 }
 .personmodal,
 .personmodal-lg {
-  padding: 2rem;
-  font-size: 1.25em;
+  padding: 3rem;
+  font-size: 1.05em;
   border-radius: 0;
-  border: 3px solid;
+  border: 0;
 }
 .referanser {
   background:#f5f5f5;
@@ -456,8 +456,11 @@ body {
 .fullwidth .fa-circle {
   margin-right: .5rem;
 }
-.modal-xl {
-  max-width: 1100px;
+.modal-lg {
+  max-width: 1000px;
+}
+.modal-dialog {
+  margin: 10% auto;
 }
 @media (min-width: 768px) {
 .fullwidth {
