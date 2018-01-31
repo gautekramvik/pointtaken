@@ -27,7 +27,7 @@ id = "contact"
         <div class="card-body">
             <h4 class="card-title">Rune Tangen</h4>
             <p class="card-subtitle mb-2">Daglig leder</p>
-            <p class="card-text">Tlf: 123 45 678</p>
+            <p class="card-text">Tlf: 92 60 00 59</p>
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@ id = "contact"
         <div class="card-body">
             <h4 class="card-title">Runar Lund</h4>
             <p class="card-subtitle mb-2">Konsulentsjef</p>
-            <p class="card-text">Tlf: 123 45 678</p>
+            <p class="card-text">Tlf: 93 44 12 98</p>
         </div>
     </div>
 </div>
@@ -49,7 +49,7 @@ id = "contact"
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
             <p class="card-subtitle mb-2">Regionleder Kristiansand</p>
-            <p class="card-text">Tlf: 987 65 432</p>
+            <p class="card-text">Tlf: 90 58 36 65</p>
         </div>
     </div>
 </div>
@@ -60,7 +60,7 @@ id = "contact"
         <div class="card-body">
             <h4 class="card-title">Knut Skogvold</h4>
             <p class="card-subtitle mb-2">Salgssjef</p>
-            <p class="card-text">Tlf: 987 65 432</p>
+            <p class="card-text">Tlf: 90 09 50 88</p>
         </div>
     </div>
 </div>

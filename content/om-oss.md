@@ -12,7 +12,7 @@ draft: false
                     <h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
                 </div>
                 <p>Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
-                <p>Vi ligger hele tide i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt</p>
+                <p>Vi ligger hele tiden i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
             </div>    
             <div class="col-md-12 col-lg-6"></div>
         </div>
@@ -70,8 +70,8 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Rune Tangen</h4>
-            <p class="card-subtitle mb-2 text-center">Daglig leder</p>
-            <p class="card-text text-center">Tlf: 123 45 678</p>            
+            <p class="card-subtitle text-center">Daglig leder</p>
+            <p class="card-text text-center">Tlf: 92 60 00 59</p>            
         </div>
     </div>
 </div>
@@ -101,8 +101,8 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/runar.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Runar Lund</h4>
-            <p class="card-subtitle mb-2 text-center">Konsulentsjef</p>
-            <p class="card-text text-center">Tlf: 123 45 678</p>              
+            <p class="card-subtitle text-center">Konsulentsjef</p>
+            <p class="card-text text-center">Tlf: 93 44 12 98</p>              
         </div>
     </div>
 </div>
@@ -132,8 +132,8 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Thorbjørn Værp</h4>
-            <p class="card-subtitle mb-2 text-center">Regionsleder Kristiansand</p>
-            <p class="card-text text-center">Tlf: 123 45 678</p>               
+            <p class="card-subtitle text-center">Regionsleder Kristiansand</p>
+            <p class="card-text text-center">Tlf: 90 58 36 65</p>               
         </div>
     </div>
 </div>
@@ -163,7 +163,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/andre.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Andre</h4>
-            <p class="card-subtitle mb-2 text-center">Konsulent Office 365/Azure</p>
+            <p class="card-subtitle text-center">Konsulent Office 365/Azure</p>
         </div>
     </div>
 </div>
@@ -193,7 +193,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/arne.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Arne</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent Office 365/Nintex</p>
+            <p class="card-subtitle text-center">Seniorkonsulent Office 365/Nintex</p>
         </div>
     </div>
 </div>
@@ -224,7 +224,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/carin.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Carin</h4>
-            <p class="card-subtitle mb-2 text-center">Senior Informasjonsrådgiver</p>
+            <p class="card-subtitle text-center">Senior Informasjonsrådgiver</p>
         </div>
     </div>
 </div>
@@ -254,7 +254,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/christian.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Christian</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
@@ -285,7 +285,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/eirik.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Eirik</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
@@ -315,7 +315,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/fredrik.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Fredrik</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent Nintex – Nintex vTE</p>
+            <p class="card-subtitle text-center">Seniorkonsulent Nintex – Nintex vTE</p>
         </div>
     </div>
 </div>
@@ -345,7 +345,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/gaute.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Gaute</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/Frontend</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/Frontend</p>
         </div>
     </div>
 </div>
@@ -375,7 +375,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/haakon.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Håkon</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/Prosjektleder</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/Prosjektleder</p>
         </div>
     </div>
 </div>
@@ -405,7 +405,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/helge.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Helge</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent Sharepoint/.NET – Fagansvarlig</p>
+            <p class="card-subtitle text-center">Seniorkonsulent Sharepoint/.NET – Fagansvarlig</p>
         </div>
     </div>
 </div>
@@ -435,7 +435,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/jan-arne.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Jan Arne</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent – Dynamics CRM/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent – Dynamics CRM/.NET</p>
         </div>
     </div>
 </div>
@@ -465,7 +465,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/julian.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Julian</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent Office 365</p>
+            <p class="card-subtitle text-center">Seniorkonsulent Office 365</p>
         </div>
     </div>
 </div>
@@ -495,7 +495,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/karin.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Karin</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent Office 365</p>
+            <p class="card-subtitle text-center">Seniorkonsulent Office 365</p>
         </div>
     </div>
 </div>
@@ -525,7 +525,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/kjetil-h.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Kjetil</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
@@ -555,7 +555,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/kjetil-o.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Kjetil</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
@@ -585,7 +585,8 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Knut</h4>
-            <p class="card-subtitle mb-2 text-center">Salgssjef</p>
+            <p class="card-subtitle text-center">Salgssjef</p>
+            <p class="card-text text-center">Tlf: 90 09 50 88</p> 
         </div>
     </div>
 </div>
@@ -615,7 +616,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/kristian.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Kristian</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
@@ -647,7 +648,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/luc.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Luc</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/Office 365</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/Office 365</p>
         </div>
     </div>
 </div>
@@ -677,7 +678,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/martin.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Martin</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent – Dynamics CRM</p>
+            <p class="card-subtitle text-center">Seniorkonsulent – Dynamics CRM</p>
         </div>
     </div>
 </div>
@@ -707,7 +708,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/pelle.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Pelle</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint</p>
         </div>
     </div>
 </div>
@@ -737,7 +738,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/reidar.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Reidar</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
@@ -767,7 +768,8 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/thomas.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Thomas</h4>
-            <p class="card-subtitle mb-2 text-center">Leder CRM</p>
+            <p class="card-subtitle text-center">Leder CRM</p>
+            <p class="card-text text-center">Tlf: 98 42 24 65</p> 
         </div>
     </div>
 </div>
@@ -797,7 +799,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/oyvind-v.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Øyvind</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/Dynamics CRM/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/Dynamics CRM/.NET</p>
         </div>
     </div>
 </div>
@@ -827,7 +829,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/oyvind-aa.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Øyvind</h4>
-            <p class="card-subtitle mb-2 text-center">Seniorkonsulent SharePoint/.NET</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
         </div>
     </div>
 </div>
