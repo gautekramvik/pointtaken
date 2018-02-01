@@ -104,10 +104,13 @@ body {
 .navbar-brand>img {
   height: 25px;
 }
+.navbar-light .navbar-toggler {
+  border: 0;
+}
 @media (max-width: 992px) {
   .navbar-brand>img,
   .navbar-light .navbar-toggler-icon {
-    filter: invert(100%);
+    /* filter: invert(100%); */
   }
   .bg-transparent {
     background-color: #24292e !important; 

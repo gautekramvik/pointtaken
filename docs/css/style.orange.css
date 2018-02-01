@@ -1449,6 +1449,9 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-simple .icon img {
   width: 3rem;
+  /* border-radius: 50%; */
+  top: -3px;
+  position: relative;
 }
 .box-simple h3 {
   font-weight: normal;
