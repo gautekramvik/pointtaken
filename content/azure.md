@@ -10,7 +10,7 @@ draft: false
                 <div class="heading">
                     <h1>Azure</h1>
                 </div>
-                <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
+                <h3>NY UNDERSJRUFT</h3>
                 <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
             </div>    
             <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
