@@ -31,7 +31,7 @@ draft: false
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Samtaler for grupper</h2>
                     </div>
@@ -42,7 +42,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-6 p4">
                     <div class="heading">
                         <h2>En sentral for samhandling</h2>
                     </div>
@@ -55,13 +55,11 @@ draft: false
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Kan tilpasses hver gruppe</h2>
                     </div>
-                    <p>Hver avdeling eller team er unike. Derfor tilbyr Teams muligheten til å tilpasse opplevelsen til å passe enhver avdeling eller gruppe. Hver gruppe kan ha egne kanaler og faner som kan inneholde for eksempel SharePoint dokumentbibliotek, notatbøker, oppgavekort (Planner) og andre programmer. 
-Man kan også inkludere annen funksjonalitet utenfor Office 365. Her finnes det mulgheter for å knytte inn Dynamics 365 eller andre tjenester.
-Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, oppgavekort og tall fra timeføring via PowerBI, samt kundeinformasjon fra CRM i Dynamics 365.</p>
+                    <p>Hver avdeling eller team er unike. Derfor tilbyr Teams muligheten til å tilpasse opplevelsen til å passe enhver avdeling eller gruppe. Hver gruppe kan ha egne kanaler og faner som kan inneholde for eksempel SharePoint dokumentbibliotek, notatbøker, oppgavekort (Planner) og andre programmer. Man kan også inkludere annen funksjonalitet utenfor Office 365. Her finnes det mulgheter for å knytte inn Dynamics 365 eller andre tjenester. Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, oppgavekort og tall fra timeføring via PowerBI, samt kundeinformasjon fra CRM i Dynamics 365.</p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
@@ -94,20 +92,19 @@ Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, op
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
-            <p class="mb-0">Sikkerhet du kan stole på</p>
+            <p class="mb-0">To TEAM or not to TEAM, that is the question.</p>
             </blockquote>
             </div>
         </div>
     </div>
 </div>
 
-<div id="om" class="container">
+<!-- <div id="om" class="container">
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <div class="heading text-center">
                 <h2>Våre tjenester inkluderer blant annet:</h2>
             </div>
-            <!-- <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p> -->
             <table class="table mt-4">
             </thead>
             <tbody>
@@ -152,7 +149,7 @@ Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, op
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="container">
     <div class="row">
@@ -163,8 +160,8 @@ Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, op
                     <div class="heading">
                         <h2>SharePoint-konsulenter med lang erfaring</h2>
                     </div>
-                    <p>Vi gir råd, konfigurerer og tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester.</p> 
-                    <p>Spar penger ved å rådføre deg med en av våre SharePoint-eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT-strategi. </p>
+                    <p>Vi gir råd, konfigurerer og tilpasser din Teams-løsning til ditt behov. Vi har laget løsninger som utnytter samhandlings-mulighetene fullt ut og integrerer dine systemer og gjør dem tilgjengelig for alle dine medarbeidere.</p>
+                    <p>Spar penger ved å rådføre deg med en av våre Teams-eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT-strategi.</p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
@@ -176,15 +173,15 @@ Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, op
                         <h2>Kjenner du deg igjen? Ta kontakt!</h2>
                     </div>
                     <ul>
-                    <li>Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</li>
-                    <li>Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</li>
-                    <li>Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</li>
-                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke SharePoint på best mulig måte.</li>
+                    <li>Jeg er interessert i Microsoft Teams, og ønsker å lære mer om det grunnleggende.</li>
+                    <li>Jeg har allerede Microsoft Teams, og ønsker hjelp til å implementere løsningen.</li>
+                    <li>Jeg har allerede Microsoft Teams, og ønsker hjelp med utfordringer i løsningen.</li>
+                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Microsoft Teams på best mulig måte.</li>
                     </ul>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6">
-                    <div class="card personkort">
+                    <div class="card personkort p-5">
                         <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>
