@@ -121,7 +121,9 @@ body {
     height: 15px;
   }
 }
-
+.bg-gul {
+  background-color:#FFC174;
+}
 
 .customers .item img {
   max-height: 85px;
@@ -513,6 +515,12 @@ body {
   color: #f3732b;
   background: #fff;
 }
+.btn-blue {
+  background-color: #A0CBED;
+  border-color: #A0CBED;
+  color: #292828;
+  font-size: 1.15em;
+}
 .content-menu {
   max-width: 1140px;
   color: #f3732b;
@@ -544,4 +552,14 @@ table .td {
   }
 .author-category a {
   color: #f3732b;
+}
+.some a {
+  color: #ddd;
+}
+.some a:hover {
+  color: #f3732b;
+}
+.some svg {
+  font-size: 1.5em;
+  margin-right: .5rem;
 }

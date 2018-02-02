@@ -1,17 +1,25 @@
 <footer id="footer">
-    <div class="container row col-lg-6 col-md-12">
+    <div class="container row col-lg-8 mx-auto">
 
-        {{ if isset .Site.Params "about_us" }}
-        <div class="col-md-4 col-sm-6">
-            <h4>{{ i18n "aboutUs" }}</h4>
+            {{ if isset .Site.Params "address" }}
+            <div class="col-md-4 col-sm-6">
+    
+              <h4>{{ i18n "contactTitle" }}</h4>
+    
+                {{ .Site.Params.address | markdownify }}
+    
+                <a href="/pointtaken/contact/" class="btn btn-primary btn-full btn-sm mt-2">{{ i18n "contactGoTo" }}</a>
+    
+            </div>
+            <!-- /.col-md-4 -->
+            {{ end }}        
 
-            {{ .Site.Params.about_us | markdownify }}
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
+        <div class="col-md-4 col-sm-6 some">
+            <a href="https://twitter.com/Point_taken_"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.facebook.com/pointtakenas"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.linkedin.com/company/pointtaken-as"><i class="fab fa-linkedin-in"></i></a>
         </div>
         <!-- /.col-md-4 -->
-        {{ end }}
 
         <div class="col-md-4 col-sm-6">
 
@@ -36,25 +44,9 @@
                 </div>
                 {{ end }}
             </div>
-            <hr class="hidden-md hidden-lg">
             {{ end }} {{ end }}
         </div>
         <!-- /.col-md-4 -->
-
-        {{ if isset .Site.Params "address" }}
-        <div class="col-md-4 col-sm-6">
-
-          <h4>{{ i18n "contactTitle" }}</h4>
-
-            {{ .Site.Params.address | markdownify }}
-
-            <a href="/pointtaken/contact/" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
-
-            <hr class="hidden-md hidden-lg hidden-sm">
-
-        </div>
-        <!-- /.col-md-4 -->
-        {{ end }}
 
     </div>
     <!-- /.container -->
