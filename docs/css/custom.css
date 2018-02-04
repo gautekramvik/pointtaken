@@ -563,3 +563,6 @@ table .td {
   font-size: 1.5em;
   margin-right: .5rem;
 }
+.partners img {
+  max-width: 200px;
+}
