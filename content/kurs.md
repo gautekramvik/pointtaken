@@ -21,7 +21,7 @@ draft: false
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om SharePoint</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Kurs</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
     </div>
@@ -89,16 +89,21 @@ draft: false
 </div>
 
 
+<div class="jumbotron jumbotron-fluid">
 <div id="om" class="container">
-    <div class="row">
-    <div class="col-lg-4 col-sm-6 card">
-        <div class="heading text-center"><h4>Bli kjent med Office 365</h4></div>
-        <div class="card-body">
-            <h4 class="card-title">Målgruppe</h4>
-            <p class="card-text">Kurset er for deg som ikke kjenner Office 365 og trenger en innføring.</p>
-            <h4 class="card-title">Mål</h4>
-            <p class="card-text">Kjenne til de viktigste samhandlings- og effektivitetsgevinstene i Office 365</p>
-            <h4 class="card-title">Innhold</h4>
+    <div class="row justify-content-center">
+    <div class=" col-12 heading text-center">
+        <h2>Eksempler på kurs vi holder</h2>
+        <p class="col-8 mx-auto">En liten tekst som sier noe om at vi holder mange forskjellige typer kurs, og kan skreddersy kurs til å handle om hva det enn måtte være.
+    </div>
+    <div class="col-lg-4 col-sm-6 bg-white p-4 kurs-card">
+        <div class="heading"><h4>Bli kjent med Office 365</h4></div>
+        <div class="">
+            <h4 class="">Målgruppe</h4>
+            <p class="">Kurset er for deg som ikke kjenner Office 365 og trenger en innføring.</p>
+            <h4 class="">Mål</h4>
+            <p class="">Kjenne til de viktigste samhandlings- og effektivitetsgevinstene i Office 365</p>
+            <h4 class="">Innhold</h4>
             <ul class="">
                 <li class="">Intro til skytjenester</li>
                 <li class="">Office web apps</li>
@@ -109,18 +114,18 @@ draft: false
                 <li class="">Møter i Skype</li>
                 <li class="">Mobile apper</li>
             </ul>
-            <h4 class="card-title">Varighet: 3 timer</h4>
-            <p class="card-text">Inntil 10 personer</p>                                       
+            <h4 class="">Varighet: 3 timer</h4>
+            <p class="">Inntil 10 personer</p>                                       
         </div>               
     </div>
-    <div class="col-lg-4 col-sm-6 card">
-        <div class="heading text-center"><h4>Bli effektiv i Office 365</h4></div>
-        <div class="card-body">
-            <h4 class="card-title">Målgruppe</h4>
-            <p class="card-text">Kurset er for deg som kjenner til Office 365 og ønsker å jobbe mest mulig effektivt.</p>
-            <h4 class="card-title">Mål</h4>
-            <p class="card-text">Kunne benytte funksjonalitet i Office 365 og øke produktiviteten ved å jobbe effektivt. Se mulighetene i verktøyene Office 365 tilbyr.</p>
-            <h4 class="card-title">Innhold</h4>
+    <div class="col-lg-4 col-sm-6 bg-white p-4 kurs-card">
+        <div class="heading"><h4>Bli effektiv i Office 365</h4></div>
+        <div class="">
+            <h4 class="">Målgruppe</h4>
+            <p class="">Kurset er for deg som kjenner til Office 365 og ønsker å jobbe mest mulig effektivt.</p>
+            <h4 class="">Mål</h4>
+            <p class="">Kunne benytte funksjonalitet i Office 365 og øke produktiviteten ved å jobbe effektivt. Se mulighetene i verktøyene Office 365 tilbyr.</p>
+            <h4 class="">Innhold</h4>
             <ul class="">
                 <li class="">Organisere og lagre dokumenter i OneDrive og SharePoint.</li>
                 <li class="">Bruk Outlook effektivt</li>
@@ -130,18 +135,18 @@ draft: false
                 <li class="">Microsoft Teams</li>
                 <li class="">Mobil tilgang</li>
             </ul>
-            <h4 class="card-title">Varighet: 4 timer</h4>
-            <p class="card-text">Inntil 10 personer</p>    
+            <h4 class="">Varighet: 4 timer</h4>
+            <p class="">Inntil 10 personer</p>    
         </div>                   
     </div>
-    <div class="col-lg-4 col-sm-6 card">
-        <div class="heading text-center"><h4>Samhandle i Office 365</h4></div>
-        <div class="card-body">
-            <h4 class="card-title">Målgruppe</h4>
-            <p class="card-text">Kurset er for deg som ønsker å samhandle bedre ved hjelp av Office 365.</p>
-            <h4 class="card-title">Mål</h4>
-            <p class="card-text">Få oversikt over samhandlingsfunksjonene i Office 365. Lær å velge riktig verktøy, og hva som fungerer for din virksomhet. Forbedre informasjonsflyt og samhandling.</p>
-            <h4 class="card-title">Innhold</h4>
+    <div class="col-lg-4 col-sm-6 bg-white p-4 kurs-card">
+        <div class="heading"><h4>Samhandle i Office 365</h4></div>
+        <div class="">
+            <h4 class="">Målgruppe</h4>
+            <p class="">Kurset er for deg som ønsker å samhandle bedre ved hjelp av Office 365.</p>
+            <h4 class="">Mål</h4>
+            <p class="">Få oversikt over samhandlingsfunksjonene i Office 365. Lær å velge riktig verktøy, og hva som fungerer for din virksomhet. Forbedre informasjonsflyt og samhandling.</p>
+            <h4 class="">Innhold</h4>
             <ul class="">
                 <li class="">Samhandling i Office 365</li>
                 <li class="">SharePoint</li>
@@ -154,11 +159,12 @@ draft: false
                 <li class="">Søk og Delve</li>
                 <li class="">Kort om mobil</li>
             </ul>
-            <h4 class="card-title">Varighet: 4 timer</h4>
-            <p class="card-text">Inntil 10 personer</p>                                         
+            <h4 class="">Varighet: 4 timer</h4>
+            <p class="">Inntil 10 personer</p>                                         
         </div>                   
     </div>        
     </div>
+</div>
 </div>
 
 <div class="container">
@@ -271,64 +277,3 @@ draft: false
         </div>     
     </div>
 </div> -->
-
-
-<style>
-
-.card {
-    padding-top: 20px;
-    border: 0;
-}
-
-.card .card-heading {
-    padding: 0 20px;
-    margin: 0;
-}
-
-.card .card-body {
-    padding: 0 20px;
-    margin-top: 20px;
-}
-
-.card.hovercard {
-    position: relative;
-    padding-top: 0;
-    overflow: hidden;
-    text-align: center;
-}
-
-.card.hovercard .avatar {
-    position: relative;
-}
-
-.card.hovercard .avatar img {
-    width: 100px;
-    height: 100px;
-    max-width: 100px;
-    max-height: 100px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
-    border: 5px solid rgba(255,255,255,0.5);
-}
-
-.card.hovercard .info {
-    padding: 4px 8px 10px;
-}
-
-.card.hovercard .info .title {
-    margin-bottom: 4px;
-    font-size: 24px;
-    line-height: 1;
-    color: #262626;
-    vertical-align: middle;
-}
-
-.card.hovercard .info .desc {
-    overflow: hidden;
-    font-size: 12px;
-    line-height: 20px;
-    color: #737373;
-    text-overflow: ellipsis;
-}
-</style>

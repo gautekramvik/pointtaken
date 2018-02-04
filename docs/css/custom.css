@@ -98,8 +98,8 @@ body {
   margin-top: 1rem;
 }
 .navbar-brand {
-  margin-top: 0;
-  padding-top: 0;
+  /* margin-top: 0; */
+  /* padding-top: 0; */
 }
 .navbar-brand>img {
   height: 25px;
@@ -493,7 +493,7 @@ body {
   }
 }
 .nav-link {
-  border-bottom:3px solid transparent;
+  /* border-bottom:3px solid transparent; */
 }
 .nav-link.active {
   /* border-bottom: 3px solid #f3732b; */
@@ -556,7 +556,7 @@ table .td {
 .some a {
   color: #ddd;
 }
-.some a:hover {
+footer a:hover {
   color: #f3732b;
 }
 .some svg {
@@ -565,4 +565,9 @@ table .td {
 }
 .partners img {
   max-width: 200px;
+  filter: contrast(0) brightness(100%);
+}
+.kurs-card {
+  border: .5rem solid #eaecef;
+  font-size: .9em;
 }

@@ -304,7 +304,7 @@ ul.list-style-none {
 }
 .navbar {
   /*border: none;*/
-  padding-bottom: 0;
+  /* padding-bottom: 0; */
 }
 .navbar ul.nav > li > a {
   /* text-transform: uppercase; */
@@ -519,7 +519,7 @@ body.boxed .navbar-affixed-top.affix {
   /* font-weight: 600; */
   /* font-family: "Roboto", Helvetica, Arial, sans-serif; */
   /* text-transform: uppercase; */
-  letter-spacing: 0.05em;
+  /* letter-spacing: 0.05em; */
   /* padding: 6px 12px; */
   /* font-size: 13px; */
   /* line-height: 1.42857143; */
@@ -2457,9 +2457,9 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: #080808;
   padding: 50px 0;
-  color: #ddd;
+  color: #c5c5c5;
   font-size: 16px;
 }
 #footer h1,
@@ -2515,7 +2515,7 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
   padding: 5px 0;
   margin-bottom: 10px;
-  border-bottom: solid 1px #555555;
+  /* border-bottom: solid 1px #555555; */
 }
 #footer .blog-entries .item .image {
   float: left;
@@ -2531,11 +2531,11 @@ fieldset[disabled] .btn-template-primary.active {
 #footer .blog-entries .item .name h5 {
   margin: 0;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  /* letter-spacing: 0.08em; */
   font-size: 12px;
 }
 #footer .blog-entries .item .name h5 a {
-  color: #eeeeee;
+  color: #7f7f7f;
 }
 #footer .blog-entries .item .text {
   width: 100%;
