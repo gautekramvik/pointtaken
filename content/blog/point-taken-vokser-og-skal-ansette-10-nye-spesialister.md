@@ -31,4 +31,5 @@ Vi ser etter:
 <br>
 Ta direkte kontakt i en av våre kanaler så tar vi hyggelig en prat.
 
+
 <a href="/pointtaken/om-oss" class="btn btn-primary btn-out mt-2">Les mer om Point Taken</a>
