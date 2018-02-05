@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 22:48:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2018 20:22:48 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Unngå fellene med migrering til skyen</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</link>
+      <pubDate>Fri, 05 Jan 2018 20:22:48 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</guid>
+      <description>Unngå fellene ved migrering til skyen Flere og flere bedrifter opplever at det blir mer og mer kaotisk etter at fellesdisken er flyttet til skyen. Dette kan skyldes mangel på god planlegging. Når bedriften går over til skytjenester, får de ansatte lettere tilgang til sine arbeidsflater. Filer og info kan lett hentes frem og jobbes videre med via mobil og nettbrett, og materiellet blir mye lettere å finne enten de er på jobb, hjemme eller på reise.</description>
+    </item>
+    
+    <item>
+      <title>European Sharepoint Conference 2017</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/11/21/european-sharepoint-conference-2017/</link>
+      <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/11/21/european-sharepoint-conference-2017/</guid>
+      <description>European SharePoint Conference 2017 Hvert år samler European SharePoint Conference ESPC, SharePoint, Office 365 og Azure-eksperter fra hele verden på ett europeisk sted for den største konferansen i sitt slag. Siden starten i 2011 har ESPC vokst til over 2000 deltakere over fire dager. Årets arrangement gikk av stabelen i Dublin 13. til 16.November
+Her ser vi fire av Point Taken’s fem deltakere som besøker standen til Nintex, fra v.</description>
+    </item>
+    
+    <item>
+      <title>Dip Is Back</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/10/20/dip-is-back/</link>
+      <pubDate>Fri, 20 Oct 2017 20:43:05 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/10/20/dip-is-back/</guid>
+      <description>The all mighty Document Information Panel (DIP) is back! Great news every one, the DIP(Document Information Panel) is back, it is ready for use NOW! At Ignite, Microsoft announced that the DIP will be coming back in 2018. Today I was scrolling through the Office 365 Admin Message Center, and found some interesting news, and started to check it out with my colleagues, and VOILA! It seems like it is only available in Word 2016.</description>
+    </item>
     
     <item>
       <title>Point Taken Til Canada</title>
@@ -23,58 +51,46 @@ I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omt
     </item>
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Point Taken Vokser Og Skal Ansette 10 Nye Spesialister</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</link>
+      <pubDate>Thu, 22 Jun 2017 22:29:39 +0100</pubDate>
       
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</guid>
+      <description>Point Taken vokser og skal ansette 10 nye spesialister Point Taken har stor pågang av oppdrag og vi ser etter flere dyktige folk.
+Vi er opptatt av kvalitet og kompetanse og ser først og fremst etter seniorprofiler med erfaring fra Microsoft plattform. Du ønsker å jobbe i et spesialistselskap som investerer i sine ansatte.
+Vi ønsker oss 10 nye medarbeidere i tillegg til de 7 vi har ansatt allerede i år.</description>
     </item>
     
     <item>
-      <title>Linked post</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2015/10/02/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>Advanced Threat Protection I Office 365</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/06/16/advanced-threat-protection-i-office-365/</link>
+      <pubDate>Fri, 16 Jun 2017 21:36:57 +0100</pubDate>
       
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/06/16/advanced-threat-protection-i-office-365/</guid>
+      <description>Advanced Threat Protection i Office 365 Dataangrep er en reell trussel mot din bedrift, og de blir mer og mer avanserte og vanskeligere å unngå. Vi ser at angrepene blir mer sofistikerte. Gjerne kommer det en e-post med godt norsk språk som ser legitim ut, eller en e-post som ser ut som den kommer fra firmaets toppsjef.
+Ofte havner ondartede eposter i innboksen til brukerne. Da er det fort gjort å klikke på et vedlegg eller en lenke som starter et angrep.</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2015/09/17/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Migrate Sharepoint Site Content With Sharegate Using Powershell</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</link>
+      <pubDate>Tue, 06 Jun 2017 21:18:08 +0100</pubDate>
       
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/09/17/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</guid>
+      <description>Migrate SharePoint site content with Sharegate using powershell Here’s an example of how to use PowerShell to migrate content from SharePoint On-premises to Office365 or SharePoint 2016. I use PowerShell to export the On-premises lists to a csv-file, add parameters to the copy-commandlet to adjust the migration type (e.g. only changed files since last migration), also Scheduling tasks to run off peak hours.
+Read on :-) Step 1 - Get lists!</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2015/08/03/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</link>
+      <pubDate>Tue, 16 May 2017 20:52:50 +0100</pubDate>
       
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/08/03/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2015/06/24/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</guid>
+      <description>Updating single and multi value taxonomy fields using PnP-JS-Core 
+Point Taken is the leading SharePoint, Office 365 and Nintex consultancy in Norway. 
+All the devs in Point Taken are heavy users of the awesome repos provided on https://github.com/SharePoint. But even though our SharePoint dev lives have become easier we still encounter challenges and general SharePoint weirdness. This is one of those cases.
+A little background: one of our clients wanted an application that would copy predefined tasks into project sites based on the project type.</description>
     </item>
     
   </channel>

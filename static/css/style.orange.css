@@ -69,8 +69,8 @@ button i.fa {
   color: #f3732b;
 }
 .text-uppercase {
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  /* text-transform: uppercase; */
+  /* letter-spacing: 0.08em; */
 }
 @media (max-width: 991px) {
   .text-center-sm {
@@ -88,7 +88,7 @@ div.section {
   margin-bottom: 0 !important;
 }
 .mb-small {
-  margin-bottom: 20px !important;
+  /* margin-bottom: 20px !important; */
 }
 .heading {
   margin-bottom: 1rem;
@@ -3219,9 +3219,10 @@ label {
 }
 .pager li > a,
 .pager li > span {
-  background-color: #ffffff;
-  border: 1px solid #f3732b;
-  border-radius: 0;
+  /* background-color: #ffffff; */
+  /* border: 1px solid #f3732b; */
+  /* border-radius: 0; */
+  padding: .25rem .5rem;
 }
 .pager li > a:hover,
 .pager li > a:focus {
@@ -3233,9 +3234,9 @@ label {
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
-  color: #999999;
-  background-color: #ffffff;
-  border-color: #ddd;
+  /* color: #999999; */
+  /* background-color: #ffffff; */
+  /* border-color: #ddd; */
 }
 /* pagination */
 .pagination {

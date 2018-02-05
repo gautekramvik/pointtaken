@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</loc>
+    <lastmod>2018-01-05T20:22:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/teams/</loc>
     <lastmod>2018-01-02T13:59:08+01:00</lastmod>
   </url>
@@ -68,38 +73,49 @@
   </url>
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/11/21/european-sharepoint-conference-2017/</loc>
+    <lastmod>2017-11-21T21:53:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/10/20/dip-is-back/</loc>
+    <lastmod>2017-10-20T20:43:05+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/blog/2017/06/29/point-taken-til-canada/</loc>
     <lastmod>2017-06-29T22:48:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</loc>
+    <lastmod>2017-06-22T22:29:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/06/16/advanced-threat-protection-i-office-365/</loc>
+    <lastmod>2017-06-16T21:36:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</loc>
+    <lastmod>2017-06-06T21:18:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</loc>
+    <lastmod>2017-05-16T20:52:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/tags/</loc>
+    <lastmod>2017-11-21T21:53:35+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/blog/</loc>
-    <lastmod>2017-06-29T22:48:54+01:00</lastmod>
+    <lastmod>2018-01-05T20:22:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -109,30 +125,18 @@
   </url>
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/dev/</loc>
+    <lastmod>2017-06-06T21:18:08+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/faq/</loc>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pointtaken/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pointtaken/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pointtaken/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/it-pro/</loc>
+    <lastmod>2018-01-05T20:22:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -141,38 +145,26 @@
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gautekramvik.github.io/pointtaken/</loc>
-    <lastmod>2018-01-02T13:59:08+01:00</lastmod>
+    <lastmod>2018-01-05T20:22:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pointtaken/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/point-taken/</loc>
+    <lastmod>2017-06-22T22:29:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/promo/</loc>
-    <lastmod>2017-06-29T22:48:54+01:00</lastmod>
+    <lastmod>2018-01-05T20:22:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/sharepoint/</loc>
+    <lastmod>2017-11-21T21:53:35+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,20 +175,8 @@
   </url>
   
   <url>
-    <loc>https://gautekramvik.github.io/pointtaken/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pointtaken/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2017-11-21T21:53:35+01:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -33,8 +33,6 @@ body {
     }
 }
 .navbar-light .navbar-nav .nav-link {
-  /* font-size: 1.15em; */
-  /* font-weight: 600; */
   color: #F3732B;
   padding-right: 1rem;
   font-weight: 400;
@@ -46,11 +44,13 @@ body {
 @media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link.active {
   color: #f3732b;
+  display: inline-block;
   }
 }
 @media (max-width: 992px) {
   .navbar-light .navbar-nav .nav-link {
-    color: rgb(142, 142, 142);
+    color: rgb(51, 51, 51);
+    font-weight: 300;
   }
 }
 

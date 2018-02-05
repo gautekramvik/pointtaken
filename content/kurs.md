@@ -196,8 +196,8 @@ draft: false
                     </ul>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
-                <div class="col-md-12 col-lg-6">
-                    <div class="card personkort">
+                <div class="col-md-12 col-lg-6 p-4">
+                    <div class="card personkort p-5">
                         <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>

@@ -11,7 +11,7 @@ draft: false
                     <h1>Azure</h1>
                 </div>
                 <h3>Tjenester og plattform i skyen</h3>
-                <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
+                <p>Microsoft Azure er en stadig større samling av integrerte skytjenester som utviklere og IT-medarbeidere bruker til å utvikle, distribuere og administrere programmer via det globale datasenternettverket. Du betaler kun for de ressursene din virksomhet bruker, og plattformen skalerer fra små bedrifter med én tjeneste til verdensomspennende selskaper med behov for komplette serverparker.</p>
             </div>    
             <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
         </div>
@@ -33,9 +33,9 @@ draft: false
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
-                        <h2>Tilpasset din bedrift  </h2>
+                        <h2>Azure er skyen du kan stole på</h2>
                     </div>
-                    <p>Vi kan bistå med å innføre, videreforedle eller reorganisere deres samhandlingsprosesser – for et mer effektivt 2018. En riktig tilpasset SharePoint-løsning kan øke kvaliteten og effektiviteten betraktelig, samtidig som du legger grunnlaget for fremtidig innovasjon.</p>
+                    <p>Nitti prosent av Fortune 500-selskapene har tillit til Microsoft-skyen. Azure møter krav til samsvar for de aller fleste virksomheter også offentlige. Azure er alltid oppdatert for å beskytte dine data mot inntegning og andre trusler. Du eier og kontrollerer dine data i skyen.</p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
@@ -44,14 +44,27 @@ draft: false
             <div class="row no-gutters">
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
-                        <h2>Sømløst samarbeid</h2>
+                        <h2>Intelligente apper</h2>
                     </div>
-                    <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p>
+                    <p>Azure tilbyr et omfattende sett med tjenester, infrastruktur og verktøy for å utvikle opplevelser basert på AI, inkludert boter som samhandler på naturlig måte med brukerne og innebygde avanserte analyseverktøy, for eksempel R, for å lage raskere prognoser. Dette gir deg mulighet til å bygge inn kunstig intelligens i din virksomhets egne løsninger.</p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
             </div>
-        </div>        
+        </div>
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                    <div class="heading">
+                        <h2>Skalerer</h2>
+                    </div>
+                    <p>Azure gir deg muligheten til å starte i det små og utvide med flere tjenester etter hvert som behovene melder seg. Azure egner seg for små virksomheter, men også for globale selskaper.</p>
+                    <p>Du kan oppnå global skalering på et nettverk av 42 datasentere spredd over alle kontinenter.</p>
+                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                </div>
+            </div>
+        </div>               
     </div>
 </div>
 
@@ -80,7 +93,7 @@ draft: false
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
-            <p class="mb-0">Mer enn 200 000 organisasjoner og mer enn 190 millioner mennesker har SharePoint for intranett, gruppeområder og innholds­administrasjon.</p>
+            <p class="mb-0">Nitti prosent av Fortune 500-selskapene har tillit til Azure.</p>
             </blockquote>
             </div>
         </div>
@@ -100,39 +113,15 @@ draft: false
             <tbody>
                 <tr>
                 <td>Generell rådgivning på plattformen</td>
-                <td></td>
                 </tr>
                 <tr>
-                <td>Store og små intranett</td>
-                <td></td>
+                <td>Oppsett og drift av tjenester og servere</td>
                 </tr>
                 <tr>
-                <td>Dokumenthåndtering</td>
-                <td></td>
+                <td>Driftssenter med beredskap og support</td>
                 </tr>
                 <tr>
-                <td>Saksbehandling og arbeidsflyt</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Medlems- og brukerhåndtering</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Samhandlingsløsninger av ulike slag</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Kvalitetssystemer, avvikshåndtering og HMS</td>
-                <td></td>
-                </tr>        
-                <tr>
-                <td>Oppæringsløsning</td>
-                <td></td>
-                </tr>  
-                <tr>
-                <td>Integrasjoner</td>
-                <td></td>
+                <td>Utvikling av tjenester for Azure</td>
                 </tr>                                  
             </tbody>
             </table>          
@@ -148,10 +137,9 @@ draft: false
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
-                        <h2>SharePoint-konsulenter med lang erfaring</h2>
+                        <h2>Azure-konsulenter med lang erfaring</h2>
                     </div>
-                    <p>Vi gir råd, konfigurerer og tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester.</p> 
-                    <p>Spar penger ved å rådføre deg med en av våre SharePoint-eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT-strategi. </p>
+                    <p>Vi gir råd, konfigurerer og tilpasser din Azure-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Spar penger ved å rådføre deg med en av våre Azure-eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT-strategi.  </p> 
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
@@ -163,15 +151,15 @@ draft: false
                         <h2>Kjenner du deg igjen? Ta kontakt!</h2>
                     </div>
                     <ul>
-                    <li>Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</li>
-                    <li>Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</li>
-                    <li>Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</li>
-                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke SharePoint på best mulig måte.</li>
+                    <li>Jeg er interessert i Azure, og ønsker å lære mer om det grunnleggende.</li>
+                    <li>Jeg har allerede Azure, og ønsker hjelp til å implementere løsningen.</li>
+                    <li>Jeg har allerede Azure, og ønsker hjelp med utfordringer i løsningen.</li>
+                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Azure på best mulig måte.</li>
                     </ul>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6">
-                    <div class="card personkort">
+                    <div class="card personkort p-5">
                         <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>

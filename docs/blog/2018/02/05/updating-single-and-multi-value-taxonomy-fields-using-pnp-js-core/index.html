@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core</title>
+  <meta name="author" content="" />
+
+  
+  <meta name="keywords" content="Office 365, SharePoint, CRM">	
+  
+
+  
+  <meta name="description" content="Point Taken - spesialister på SharePoint og Office 365">	
+  
+
+  <meta name="generator" content="Hugo 0.27.1" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  <script defer src="https://use.fontawesome.com/releases/v5.0.1/js/all.js"></script>
+    
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  
+  <link href="https://gautekramvik.github.io/pointtaken/css/animate.css" rel="stylesheet">
+
+  
+  
+    <link href="https://gautekramvik.github.io/pointtaken/css/style.orange.css" rel="stylesheet" id="theme-stylesheet">
+  
+
+
+  
+  <link href="https://gautekramvik.github.io/pointtaken/css/custom.css" rel="stylesheet">
+
+  
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+  <link rel="shortcut icon" href="https://gautekramvik.github.io/pointtaken/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://gautekramvik.github.io/pointtaken/img/apple-touch-icon.png" />
+  
+
+  <link href="https://gautekramvik.github.io/pointtaken/css/owl.carousel.css" rel="stylesheet">
+  <link href="https://gautekramvik.github.io/pointtaken/css/owl.theme.css" rel="stylesheet">
+
+  <link rel="alternate" href="https://gautekramvik.github.io/index.xml" type="application/rss+xml" title="Point Taken">
+
+  
+  <meta property="og:title" content="Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/pointtaken/blog/2018/02/05/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core//" />
+  <meta property="og:image" content="img/pt-logo.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar navbar-expand-lg navbar-light bg-white" role="navigation" id="navbar">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand home" href="https://gautekramvik.github.io/pointtaken/">
+                <img src="https://gautekramvik.github.io/pointtaken/img/logo2.svg" alt="Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core logo">
+                <span class="sr-only">Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core - Gå til forsiden</span>
+            </a>
+
+        </div>
+        <div class="ml-auto">
+                <button type="button" class="navbar-toggler ml-auto" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        
+        <div class="navbar-collapse collapse" id="navigation">
+            <ul class="nav navbar-nav ml-auto"><li class="nav-item"><a class="nav-link" title="Tjenester" href="/pointtaken/index.html#3">Tjenester</a></li>
+                    <li class="nav-item"><a class="nav-link" title="Referanser" href="/pointtaken/referanser/">Referanser</a></li>
+                    <li class="nav-item"><a class="nav-link" title="Om oss" href="/pointtaken/om-oss/">Om oss</a></li>
+                    <li class="nav-item"><a class="nav-link" title="Blogg" href="/pointtaken/blog/">Blogg</a></li>
+                    
+            </ul>
+        </div>
+        
+        
+    </div>
+</div>
+
+
+
+
+
+        </header>
+
+        
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row mt-4">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">Av <a href="#">Øyvind Aas-Mehren</a> | 5 February, 2018</p>
+
+                        <div id="post-content">
+                          
+
+<h1 id="updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core">Updating single and multi value taxonomy fields using PnP-JS-Core</h1>
+
+<p><br></p>
+
+<h4 id="point-taken-is-the-leading-sharepoint-office-365-and-nintex-consultancy-in-norway">Point Taken is the leading SharePoint, Office 365 and Nintex consultancy in Norway.</h4>
+
+<p><br>
+All the devs in Point Taken are heavy users of the awesome repos provided on <a href="https://github.com/SharePoint">https://github.com/SharePoint</a>. But even though our SharePoint dev lives have become easier we still encounter challenges and general SharePoint weirdness. This is one of those cases.</p>
+
+<p>A little background: one of our clients wanted an application that would copy predefined tasks into project sites based on the project type. Some of these columns were taxonomy fields, both single and multi value. Updating term values in taxonomy fields using PnP-JS-Core (and REST in general) proved to be a bit of a struggle, and here are our discoveries.</p>
+
+<p>Single value term fields can be updated using the code provided in this issue on GitHub
+<br>
+<br></p>
+
+<h4 id="a-single-value-taxonomy-field-is-updated-like-this">A single value taxonomy field is updated like this:</h4>
+
+<pre><code>    const listWeWantToUpdate = pnp.sp.web.lists.getByTitle('ListWeWantToUpdateTitle');
+
+    listWeWantToUpdate.getListItemEntityTypeFullName()
+        .then((entityTypeFullName) =&gt; {
+
+            const updateObject = {
+                Title: 'Item title', // Only included as an example
+                SomeSingleValueTaxonomyField: {
+                    __metadata: { type: 'SP.Taxonomy.TaxonomyFieldValue' },
+                    Label: 'LabelOfTerm', // field label - you can also use the Id returned in rest calls here
+                    TermGuid: '7dc9d5f8-16c2-48f2-88f7-90db39c7afb7', // field guid
+                    WssId: -1 // fake
+                }
+            };
+
+            listWeWantToUpdate.items.add(updateObject, entityTypeFullName)
+                .then((updateResult) =&gt; {
+                    console.dir(updateResult);
+                })
+                .catch((updateError) =&gt; {
+                    console.dir(updateError);
+                });
+        });
+</code></pre>
+
+<p>But what about fields with multiple values?</p>
+
+<p>Based on the replies in the issue mentioned JSOM is the way to go, but where’s the fun in that? After trying the obvious variations of the code above it was time to turn to Google.</p>
+
+<p>A bit of digging brought up blog posts by Jason Lee and Beau Cameron who had already cracked this nut in REST – the answer: use the InternalName of the hidden note field.</p>
+
+<p>So first we need to get the corresponding note field and then we need to write a term string to it. Now we only had to figure out how to make this work in PnP-JS-Core.
+<br>
+<br></p>
+
+<h4 id="a-multi-value-taxonomyfield-is-updated-like-this">A multi value taxonomyfield is updated like this:</h4>
+
+<pre><code>    const listWeWantToUpdateMulti = pnp.sp.web.lists.getByTitle('ListWeWantToUpdateTitle');
+
+    // Example of a term string.
+    // You can also use the Id returned in rest calls instead of the full label
+    const termString = '-1;#SomeTerm|02ee415b-99c4-448b-8727-7daa2a4a281;#-1;# SomeOtherTerm |0e2f40d9-09ac-406e-b102-630e8dadade6;';
+
+    // If the name of your taxonomy field is SomeMultiValueTaxonomyField, the name of your note field will be SomeMultiValueTaxonomyField_0
+    const multiTermNoteFieldName = 'SomeMultiValueTaxonomyField_0';
+
+    listWeWantToUpdateMulti.getListItemEntityTypeFullName()
+        .then((entityTypeFullName) =&gt; {
+            listWeWantToUpdateMulti.fields.getByTitle(multiTermNoteFieldName).get()
+                .then((taxNoteField) =&gt; {
+                    const multiTermNoteField = taxNoteField.InternalName;
+                    const updateObject = {
+                        Title: 'Item title', // Only included as an example
+                    };
+                    updateObject[multiTermNoteField] = termString;
+
+                    listWeWantToUpdateMulti.items.add(updateObject, entityTypeFullName)
+                        .then((updateResult) =&gt; {
+                            console.dir(updateResult);
+                        })
+                        .catch((updateError) =&gt; {
+                            console.dir(updateError);
+                        });
+                });
+        });
+</code></pre>
+
+<p>And there you go. Hope this information was useful to you</p>
+
+<p><i>Update May 31st 2017:</br>
+A friendly Belgian reader pointed out that the code for multi value fields was missing an important step. The term string should be inserted into the corresponding note field and not the taxonomy field itself. The code has been updated to reflect this important detail.</i></p>
+
+                        </div>
+                        
+                        
+
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container row col-lg-8 mx-auto">
+
+            
+            <div class="col-md-4 col-sm-6 mb-4">
+    
+              <h4>Kontakt</h4>
+              <div class="some mb-4 mt-2">
+                    <a href="https://twitter.com/Point_taken_"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/pointtakenas"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.linkedin.com/company/pointtaken-as"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/pointtaken/"><i class="fab fa-github"></i></a>
+                </div>
+    
+                <p><strong>Point Taken</strong><br>Arbeidersamfunnets plass 1<br>Inngang fra Torggata<br>0181 Oslo<br><strong>Norge</strong><br><br><p><strong>Point Taken</strong><br>Tangen 76<br>Tangen Babord<br>4608 Kristiansand S<br><strong>Norge</strong><br></p>
+
+    
+                <a href="/pointtaken/contact/" class="btn btn-primary btn-full btn-md mt-2">Kontaktinformasjon</a>
+    
+            </div>
+            
+                    
+
+        <div class="col-md-4 col-sm-6 mb-4">
+            <div class="partners"> 
+                <h4>Våre partnere</h4>   
+                <div class="">
+                    <img class="img-fluid mt-3 mb-3" src="/pointtaken/img/microsoftpartner.png"></img>
+                </div>
+                <div class="">
+                    <img class="img-fluid mt-3 mb-3" src="/pointtaken/img/nintex-premier-partner.png"></img>
+                </div>
+                <div class="">
+                    <img class="img-fluid mt-3 mb-3" src="/pointtaken/img/sharegate-partner.png"></img>
+                </div>                
+            </div>
+        </div>
+        
+
+        <div class="col-md-4 col-sm-6 mb-4">
+
+             
+            <h4>Siste poster</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://gautekramvik.github.io/pointtaken/blog/2018/02/05/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/">
+                          
+                            <img src="https://gautekramvik.github.io/pointtaken/img/code.png" class="img-fluid" alt="Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://gautekramvik.github.io/pointtaken/blog/2018/02/05/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/">Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://gautekramvik.github.io/pointtaken/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/">
+                          
+                            <img src="https://gautekramvik.github.io/pointtaken/img/blogg-strategi-illustrasjon.png" class="img-fluid" alt="Unngå fellene med migrering til skyen">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://gautekramvik.github.io/pointtaken/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/">Unngå fellene med migrering til skyen</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://gautekramvik.github.io/pointtaken/blog/2017/10/20/dip-is-back/">
+                          
+                            <img src="https://gautekramvik.github.io/pointtaken/img/dip-is-back.png" class="img-fluid" alt="Dip Is Back">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://gautekramvik.github.io/pointtaken/blog/2017/10/20/dip-is-back/">Dip Is Back</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+             
+        </div>
+        
+
+    </div>
+    
+
+<script type="text/javascript">
+    var _tvr = 1;
+    var _powt = 'nOfWFL70TUquX9DRvqN83m4AbwB2AGEAbgBlAHQAYQBzADIA';
+    (function () {
+    var s = document.createElement('script');
+    s.type = 'text/javascript'; 
+    s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'powebtraffic.crm.powerobjects.net/powt.js.aspx';
+    var hs = document.getElementsByTagName('script')[0];
+    hs.parentNode.insertBefore(s, hs); 
+    })(); 
+</script>
+
+
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/576722b1ec8ca2561a07095d/default';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    
+        
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+    
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyB1RRu7XTo8X_5SyUly9DIO_jEP7r7PlhI"></script>
+
+<script src="https://gautekramvik.github.io/pointtaken/js/hpneo.gmaps.js"></script>
+<script src="https://gautekramvik.github.io/pointtaken/js/gmaps.init.js"></script>
+<script src="https://gautekramvik.github.io/pointtaken/js/front.js"></script>
+
+
+<script src="https://gautekramvik.github.io/pointtaken/js/owl.carousel.min.js"></script>
+<script>
+$(".nav-item a").filter(function(){
+    return this.href == location.href.replace(/#.*/, "");
+}).addClass("active");    
+</script>
+
+
+  </body>
+</html>
