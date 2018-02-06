@@ -158,7 +158,7 @@ type: page
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/people/fredrik.jpg" alt="Fredrik" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Nintex-konsulenter med lang erfaring</h2>
@@ -196,70 +196,3 @@ type: page
         </div>             
     </div>
 </div>
-
-<!-- <div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto">
-            <div class="heading text-center">
-                <h2>Hvor er du nå?</h2>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg ønsker å lære mer om SharePoint</h4>
-                    <p class="card-text">Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg ønsker å implementere SharePoint</h4>
-                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg trenger hjelp med SharePoint</h4>
-                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg trenger kurs i SharePoint</h4>
-                    <p class="card-text">Jeg trenger å lære mer om hvordan bruker SharePoint på best mulig måte.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>               
-    </div>
-</div> -->
-
-<!-- <div class="container-fluid">
-    <div class="row background-yellow" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-12">
-            <img class="img-fluid" src="../img/office_meeting.jpg"></img>        
-        </div>
-        <div class="col-12">
-            <h3>Gode råd trenger ikke være dyre</h3>
-        </div>
-        <div class="col-12">
-            <p class="lead">Vi gir råd, konfigurerer og evt. tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester. Spar penger ved å rådføre deg med en av våre eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT strategi.</p>
-        </div>
-    <a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
-        </div>     
-    </div>
-</div> -->

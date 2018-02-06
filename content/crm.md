@@ -1,5 +1,5 @@
 ---
-title: "Crm"
+title: "CRM"
 date: 2017-12-11T13:40:09+01:00
 draft: false
 ---
@@ -36,7 +36,6 @@ draft: false
                         <h2>Dynamics 365 salg</h2>
                     </div>
                     <p>Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt. Ved å sette salg i system, minimerer du tilfeldigheten av å lande nye kunder. Repeter en vinnende oppskrift gang på gang slik at du øker kundemassen og tilfredsheten. Når kunden opplever et ryddig salg, vil de starte kundereisen med en større trygghet til deg som leverandør.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
         </div>
@@ -47,7 +46,6 @@ draft: false
                         <h2>Dynamics 365 marketing</h2>
                     </div>
                     <p>Driv trafikken inn til dine hjemmesider med inbound marketing, slik at kundene modnes før de tar kontakt. Når selger mottar et lead er det ikke et kaldt lead, men en kunde som har vist en riktig interesse for hva dere kan tilby. En god marketing strategi vil forbedre opplevelsen til kundene, samt gi selgere en varmere liste å ringe på.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
             </div>
@@ -60,33 +58,11 @@ draft: false
                         <h2>Dynamics 365 Customer service</h2>
                     </div>
                     <p>Vær tilgjengelig for kunden der DE er. Kundene har nye behov, og mail support er ikke det eneste du må tilby. Med Dynamics 365 kan du tilby gode løsninger for MinSide, Chat og SocialMedia hjelp. Velg riktig strategi for din bedrift, for å nå kundene deres.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
         </div>               
     </div>
 </div>
-
-<!-- <div class="container-fluid">
-    <div class="row background-blue ad-info" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-sm-12 col-lg-6">
-            <img class="img-fluid" src="../img/laptop.jpg"></img>        
-        </div>
-        <div class="col-sm-12 col-lg-6">
-            <h3 style="margin-top:0">Vi kan tilby blant annet</h3>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Generell rådgivning på plattformen</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Store og små intranett</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Dokumenthåndtering</li>    
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Saksbehandling og arbeidsflyt</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Medlems- og brukerhåndtering</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Samhandlingsløsninger av ulike slag</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Kvalitetssystemer, avvikshåndtering og HMS</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Opplæringsløsning</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Integrasjoner</li>    
-            </ul>
-        </div>
-    </div>
-</div> -->
 
 <div class="container" id="referanse">
     <div class="row">
@@ -99,78 +75,6 @@ draft: false
     </div>
 </div>
 
-<!-- <div id="om" class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
-            <div class="heading text-center">
-                <h2>CRM inkluderer</h2>
-            </div>
-            <table class="table mt-4">
-            </thead>
-            <tbody>
-                <tr>
-                <td>Mobilt salg</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Kontoadministrasjon</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Sosial innsikt</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Salgssamarbeid</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Salgsanalyse</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Service i flere kanaler</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Saksbehandling i bedriften</td>
-                <td></td>
-                </tr>        
-                <tr>
-                <td>Kunnskapsbase</td>
-                <td></td>
-                </tr>  
-                <tr>
-                <td>Sosial kundeservice</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Kampanjestyring</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Administrasjon av potensielle kunder</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Administrasjon av markedsføringsressurser</td>
-                <td></td>
-                </tr>        
-                <tr>
-                <td>Sosial markedsføring</td>
-                <td></td>
-                </tr>  
-                <tr>
-                <td>Markedsanalyse</td>
-                <td></td>
-                </tr>                                                 
-            </tbody>
-            </table>          
-            </div>
-        </div>
-    </div>
-</div> -->
-
 <div class="container">
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
@@ -182,7 +86,6 @@ draft: false
                     </div>
                     <p>Vi gir råd, konfigurerer og tilpasser din CRM-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Vi kan CRM både i skyen og på server på bakken.</p>
                     <p>Spar penger ved å rådføre deg med en av våre CRM-eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT-strategi.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
         </div>
@@ -194,11 +97,13 @@ draft: false
                     </div>
                     <ul>
                     <li>Jeg er interessert i CRM, og ønsker å lære mer om det grunnleggende.</li>
+                    <br>
                     <li>Jeg har allerede CRM, og ønsker hjelp til å implementere løsningen.</li>
+                    <br>
                     <li>Jeg har allerede CRM, og ønsker hjelp med utfordringer i løsningen.</li>
+                    <br>
                     <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke CRM på best mulig måte.</li>
                     </ul>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6">
                     <div class="card personkort p-5">
@@ -214,70 +119,3 @@ draft: false
         </div>             
     </div>
 </div>
-
-<!-- <div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto">
-            <div class="heading text-center">
-                <h2>Hvor er du nå?</h2>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg ønsker å lære mer om SharePoint</h4>
-                    <p class="card-text">Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg ønsker å implementere SharePoint</h4>
-                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg trenger hjelp med SharePoint</h4>
-                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg trenger kurs i SharePoint</h4>
-                    <p class="card-text">Jeg trenger å lære mer om hvordan bruker SharePoint på best mulig måte.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>               
-    </div>
-</div> -->
-
-<!-- <div class="container-fluid">
-    <div class="row background-yellow" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-12">
-            <img class="img-fluid" src="../img/office_meeting.jpg"></img>        
-        </div>
-        <div class="col-12">
-            <h3>Gode råd trenger ikke være dyre</h3>
-        </div>
-        <div class="col-12">
-            <p class="lead">Vi gir råd, konfigurerer og evt. tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester. Spar penger ved å rådføre deg med en av våre eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT strategi.</p>
-        </div>
-    <a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
-        </div>     
-    </div>
-</div> -->

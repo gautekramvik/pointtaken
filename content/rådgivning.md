@@ -10,8 +10,7 @@ draft: false
                 <div class="heading">
                     <h1>Rådgivning og utvikling</h1>
                 </div>
-                <!-- <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3> -->
-                <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere og vi er stolte av vår Principal Consultant Thorbjørn Værp som er tildelt Microsoft Most Valuable Professional Award (MVP) innen Office Server and Services.  Vi har laget mange komplette løsninger for våre kunder, og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
+                <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere innen vår bransje. Vi har laget mange komplette løsninger for våre kunder og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
             </div>    
             <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
         </div>
@@ -35,8 +34,7 @@ draft: false
                     <div class="heading">
                         <h2>Tilpasset din bedrift  </h2>
                     </div>
-                    <p>Vi kan bistå med å innføre, videreforedle eller reorganisere deres samhandlingsprosesser – for et mer effektivt 2018. En riktig tilpasset SharePoint-løsning kan øke kvaliteten og effektiviteten betraktelig, samtidig som du legger grunnlaget for fremtidig innovasjon.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                    <p>Vi kan bistå med å innføre, utvikle eller reorganisere deres samhandlingsprosesser. En riktig tilpasset SharePoint-løsning kan øke kvaliteten og effektiviteten betraktelig, samtidig som du legger grunnlaget for fremtidig innovasjon.</p>
                 </div>
             </div>
         </div>
@@ -46,41 +44,19 @@ draft: false
                     <div class="heading">
                         <h2>Sømløst samarbeid</h2>
                     </div>
-                    <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
+                    <p>Som rådgivere er vi opptatt av å finne den beste løsningen for våre kunder, enten løsningen er på egne servere, eller i en skyløsning. Vi kan også hjelpe organisasjonen å ta i bruk ny teknologi på en rask og effektiv måte. Vi bistår til å utvikle løsninger som gjør at du kan samarbeide uanstrengt og sikkert, i og utenfor organisasjonen, på tvers av digitale flater.</p>
                 </div>            
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
             </div>
-        </div>        
+        </div>       
     </div>
 </div>
-
-<!-- <div class="container-fluid">
-    <div class="row background-blue ad-info" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-sm-12 col-lg-6">
-            <img class="img-fluid" src="../img/laptop.jpg"></img>        
-        </div>
-        <div class="col-sm-12 col-lg-6">
-            <h3 style="margin-top:0">Vi kan tilby blant annet</h3>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Generell rådgivning på plattformen</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Store og små intranett</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Dokumenthåndtering</li>    
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Saksbehandling og arbeidsflyt</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Medlems- og brukerhåndtering</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Samhandlingsløsninger av ulike slag</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Kvalitetssystemer, avvikshåndtering og HMS</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Opplæringsløsning</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Integrasjoner</li>    
-            </ul>
-        </div>
-    </div>
-</div> -->
 
 <div class="container" id="referanse">
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
-            <p class="mb-0">Mer enn 200 000 organisasjoner og mer enn 190 millioner mennesker har SharePoint for intranett, gruppeområder og innholds­administrasjon.</p>
+            <p class="mb-0">Et stilig sitat om rådgivning og utvikling!</p>
             </blockquote>
             </div>
         </div>
@@ -148,10 +124,9 @@ draft: false
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
-                        <h2>SharePoint-konsulenter med lang erfaring</h2>
+                        <h2>Konsulenter med lang erfaring</h2>
                     </div>
-                    <p>Vi gir råd, konfigurerer og tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester.</p> 
-                    <p>Spar penger ved å rådføre deg med en av våre SharePoint-eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT-strategi. </p>
+                    <p>INFO OM THORBEAR </p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
@@ -170,8 +145,8 @@ draft: false
                     </ul>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
-                <div class="col-md-12 col-lg-6">
-                    <div class="card personkort">
+                <div class="col-md-12 col-lg-6 p-5">
+                    <div class="card personkort p-5">
                         <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>

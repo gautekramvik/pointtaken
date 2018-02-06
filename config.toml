@@ -128,8 +128,8 @@ paginate = 10
 
 [params.features]
     enable = true
-    title = "Hva vi kan"
-    subtitle = "Vi er spesialister på teknisk og strategisk rådgivning i alt din bedrift trenger for å kunne jobbe smartere, sikkert og mer effektivt."
+    title = "Hva kan vi?"
+    subtitle = "Vi er spesialister på teknisk og strategisk rådgivning i alt din bedrift trenger for å kunne jobbe smartere, sikrere og mer effektivt."
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.

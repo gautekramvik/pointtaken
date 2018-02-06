@@ -139,7 +139,7 @@ draft: false
 <div class="container mt-4 pt-4">
     <div class="row mt-5 mb-5">
         <div class="col-xs-12 col-sm-6">
-        <p class="lead info"><strong>1.</strong> Vi setter opp hele løsningen hos deg, passer på at alle funksjoner og applikasjoner er tilpasset din bedrift, dine avdelinger og dine ansatte. I tillegg får du også et personalisert intranett for et mer effektivt 2018.</p>
+        <p class="lead info"><strong>1.</strong> Vi setter opp hele løsningen hos deg. Vi passer på at alle funksjoner og applikasjoner er tilpasset din bedrift, dine avdelinger og dine ansatte. I tillegg får du også et personalisert intranett for et mer effektivt 2018.</p>
         </div>
         <div class="col-xs-12 col-sm-6 infobox">
         <img class="img-fluid" src="../img/scantrade.png" alt="Scantrade Intranett" />
@@ -156,7 +156,7 @@ draft: false
             <h4 align="center">Point Taken er Microsoft Gold Partner</h4>
         </div>
         <div class="col-xs-12 col-sm-6">
-        <p class="lead info"><strong>2.</strong> Du får support hele veien. Som Microsoft Gold Partner er våre ansatte spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365 og Office365. Vi skal hjelpe deg med å jobbe smartere og utnytte dine digitale verktøy.</p>
+        <p class="lead info"><strong>2.</strong> Du får support hele veien. Som Microsoft Gold Partner er våre ansatte spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365 og Office365. Vi hjelper deg med å jobbe smartere og å utnytte dine digitale verktøy.</p>
         </div>    
     </div>
 </div>
