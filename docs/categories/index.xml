@@ -1,24 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Point Taken</title>
+    <title>Categories on Point Taken</title>
     <link>https://gautekramvik.github.io/pointtaken/categories/</link>
-    <description>Recent content on Point Taken</description>
+    <description>Recent content in Categories on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Feb 2018 17:26:38 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bahr</title>
-      <link>https://gautekramvik.github.io/pointtaken/bahr/</link>
-      <pubDate>Tue, 06 Feb 2018 17:26:38 +0100</pubDate>
+      <title>Dev</title>
+      <link>https://gautekramvik.github.io/pointtaken/categories/dev/</link>
+      <pubDate>Tue, 06 Jun 2017 21:18:08 +0100</pubDate>
       
-      <guid>https://gautekramvik.github.io/pointtaken/bahr/</guid>
-      <description>BAHR  BAHR NCG: Årets digitale transformasjon 2017 BAHR er et ledende forretningsadvokatfirma , lokalisert i Oslo med over 180 medarbeidere. BAHR ønsker å ligge i forkant av den teknologiske utviklingen som også påvirker advokatbransjen og har kommet langt i arbeidet med effektivisering og digitalisering av arbeidsprosesser. BAHR ønsket en samarbeidspartner som kunne bistå i dette arbeidet. Utfordringen: BAHR er en høykompetansebedrift med bred og dyp erfaring fra et stort antall oppdrag.</description>
+      <guid>https://gautekramvik.github.io/pointtaken/categories/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It Pro</title>
+      <link>https://gautekramvik.github.io/pointtaken/categories/it-pro/</link>
+      <pubDate>Fri, 05 Jan 2018 20:22:48 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/categories/it-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point Taken</title>
+      <link>https://gautekramvik.github.io/pointtaken/categories/point-taken/</link>
+      <pubDate>Thu, 22 Jun 2017 22:29:39 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/categories/point-taken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharepoint</title>
+      <link>https://gautekramvik.github.io/pointtaken/categories/sharepoint/</link>
+      <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/categories/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sosialt</title>
+      <link>https://gautekramvik.github.io/pointtaken/categories/sosialt/</link>
+      <pubDate>Thu, 29 Jun 2017 22:48:54 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/categories/sosialt/</guid>
+      <description></description>
     </item>
     
   </channel>

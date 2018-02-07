@@ -12,7 +12,7 @@ draft: false
                 </div>
                 <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere innen vår bransje. Vi har laget mange komplette løsninger for våre kunder og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
             </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
         </div>
     </div>
 </div>
@@ -29,7 +29,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Tilpasset din bedrift  </h2>
@@ -46,7 +46,7 @@ draft: false
                     </div>
                     <p>Som rådgivere er vi opptatt av å finne den beste løsningen for våre kunder, enten løsningen er på egne servere, eller i en skyløsning. Vi kan også hjelpe organisasjonen å ta i bruk ny teknologi på en rask og effektiv måte. Vi bistår til å utvikle løsninger som gjør at du kan samarbeide uanstrengt og sikkert, i og utenfor organisasjonen, på tvers av digitale flater.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
             </div>
         </div>       
     </div>
@@ -121,13 +121,13 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
+                                                <img class="img-fluid" src="/pointtaken/img/mvp.png" alt="MVP" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Konsulenter med lang erfaring</h2>
                     </div>
-                    <p>INFO OM THORBEAR </p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                    <p>Thorbjørn Værp har mer enn 20 års arbeidserfaring fra IT bransjen. De sist 10 årene har han jobbet med fult fokus på Office 365, MS Teams og SharePoint. Han er utnevnt til MVP (Most Valuable Professional) på Office Server and Services av Microsoft.</p>
                 </div>
             </div>
         </div>

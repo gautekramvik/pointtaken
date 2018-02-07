@@ -564,7 +564,7 @@ footer a:hover {
   margin-right: .5rem;
 }
 .partners img {
-  max-width: 200px;
+  max-width: 10rem;
   filter: contrast(0) brightness(100%);
 }
 .kurs-card {

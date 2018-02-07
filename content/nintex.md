@@ -13,7 +13,7 @@ type: page
                 </div>
                 <p>Nintex er enkel, dra og slipp arbeidsflyt som knytter alle personer, avdelinger og systemer sammen, enten de er innenfor eller utenfor din bedrift.  </p>
             </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Nintex" /></div>
         </div>
     </div>
 </div>
@@ -30,7 +30,7 @@ type: page
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Nintex" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Arbeidsflyt som ganske enkelt fungerer</h2>
@@ -51,12 +51,12 @@ type: page
                     <p>Sett opp arbeidsflyt som kobler seg til alt ditt innhold, uavhengig av hvor det er, gjennom skyen.</p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Nintex" /></div>
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="TV2" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Nintex" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Nintex for SharePoint og Office 365</h2>
@@ -69,102 +69,30 @@ type: page
     </div>
 </div>
 
-<!-- <div class="container-fluid">
-    <div class="row background-blue ad-info" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-sm-12 col-lg-6">
-            <img class="img-fluid" src="../img/laptop.jpg"></img>        
-        </div>
-        <div class="col-sm-12 col-lg-6">
-            <h3 style="margin-top:0">Vi kan tilby blant annet</h3>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Generell rådgivning på plattformen</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Store og små intranett</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Dokumenthåndtering</li>    
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Saksbehandling og arbeidsflyt</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Medlems- og brukerhåndtering</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Samhandlingsløsninger av ulike slag</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Kvalitetssystemer, avvikshåndtering og HMS</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Opplæringsløsning</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Integrasjoner</li>    
-            </ul>
-        </div>
-    </div>
-</div> -->
-
 <div class="container" id="referanse">
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
-            <p class="mb-0">Nintex quote.</p>
+            <p class="mb-0">Nintex er verdens største selskap som leverer automatiske arbeidsflyter. I mer enn 5000 organisasjoner, som inkluderer 200 av Fortune 500, brukes det millioner av Nintex arbeidsflyter daglig.</p>
             </blockquote>
             </div>
         </div>
     </div>
 </div>
 
-
-<!-- <div id="om" class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
-            <div class="heading text-center">
-                <h2>Våre tjenester inkluderer blant annet:</h2>
-            </div>
-            <table class="table mt-4">
-            </thead>
-            <tbody>
-                <tr>
-                <td>Generell rådgivning på plattformen</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Store og små intranett</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Dokumenthåndtering</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Saksbehandling og arbeidsflyt</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Medlems- og brukerhåndtering</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Samhandlingsløsninger av ulike slag</td>
-                <td></td>
-                </tr>
-                <tr>
-                <td>Kvalitetssystemer, avvikshåndtering og HMS</td>
-                <td></td>
-                </tr>        
-                <tr>
-                <td>Oppæringsløsning</td>
-                <td></td>
-                </tr>  
-                <tr>
-                <td>Integrasjoner</td>
-                <td></td>
-                </tr>                                  
-            </tbody>
-            </table>          
-            </div>
-        </div>
-    </div>
-</div> -->
-
 <div class="container">
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/people/fredrik.jpg" alt="Fredrik" /></div>
+                <div class="col-md-12 col-lg-6">
+                    <img class="img-fluid" src="/pointtaken/img/people/fredrik.jpg" alt="Fredrik" />
+                    <img class="img-fluid" src="/pointtaken/img/nintex_vte.png" alt="Nintex vTE" />
+                </div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Nintex-konsulenter med lang erfaring</h2>
                     </div>
-                    <p>Det må seriøst stå noe om Fredrik her.</p> 
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                    <p>Fredrik Andresen er vår Nintex spesialist og er utnevnt til Nintex vTE. (Nintex Virtual Technical Evangelist) som en av to i Norge. Han har alle Nintex sertifiseringene, og har jobbet med Nintex i mer enn 7 år.</p> 
                 </div>
             </div>
         </div>
@@ -176,11 +104,13 @@ type: page
                     </div>
                     <ul>
                     <li>Jeg er interessert i Nintex, og ønsker å lære mer om det grunnleggende.</li>
+                    <br>
                     <li>Jeg har allerede Nintex, og ønsker hjelp til å implementere løsningen.</li>
+                    <br>
                     <li>Jeg har allerede Nintex, og ønsker hjelp med utfordringer i løsningen.</li>
+                    <br>
                     <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Nintex på best mulig måte.</li>
                     </ul>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6">
                     <div class="card personkort p-5">
