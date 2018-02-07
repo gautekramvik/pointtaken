@@ -47,34 +47,12 @@ draft: false
                         <h2>Dokumenthåndtering</h2>
                     </div>
                     <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="SharePoint" /></div>
             </div>
         </div>        
     </div>
 </div>
-
-<!-- <div class="container-fluid">
-    <div class="row background-blue ad-info" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-sm-12 col-lg-6">
-            <img class="img-fluid" src="../img/laptop.jpg"></img>        
-        </div>
-        <div class="col-sm-12 col-lg-6">
-            <h3 style="margin-top:0">Vi kan tilby blant annet</h3>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Generell rådgivning på plattformen</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Store og små intranett</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Dokumenthåndtering</li>    
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Saksbehandling og arbeidsflyt</li>
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Medlems- og brukerhåndtering</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Samhandlingsløsninger av ulike slag</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Kvalitetssystemer, avvikshåndtering og HMS</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Opplæringsløsning</li>     
-                <li><i class="fas fa-circle" aria-hidden="true"></i>Integrasjoner</li>    
-            </ul>
-        </div>
-    </div>
-</div> -->
 
 <div class="container" id="referanse">
     <div class="row">
@@ -94,7 +72,6 @@ draft: false
             <div class="heading text-center">
                 <h2>Våre tjenester inkluderer blant annet:</h2>
             </div>
-            <!-- <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p> -->
             <table class="table mt-4">
             </thead>
             <tbody>
@@ -145,14 +122,14 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/people/thorbjorn.jpg" alt="Thorbjørn Værp" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
+                                                <img class="img-fluid" src="/pointtaken/img/mvp.png" alt="MVP" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>SharePoint-konsulenter med lang erfaring</h2>
                     </div>
                     <p>Vi gir råd, konfigurerer og tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester.</p> 
-                    <p>THORBEAR</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                    <p>Thorbjørn Værp har mer enn 20 års arbeidserfaring fra IT bransjen. De sist 10 årene har han jobbet med fult fokus på Office 365, MS Teams og SharePoint. Han er utnevnt til MVP (Most Valuable Professional) på Office Server and Services av Microsoft.</p>
                 </div>
             </div>
         </div>
