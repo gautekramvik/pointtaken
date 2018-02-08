@@ -567,6 +567,14 @@ footer a:hover {
   max-width: 10rem;
   filter: contrast(0) brightness(100%);
 }
+.partner-header img {
+  max-width: 10rem;
+  filter: contrast(0) brightness(0); 
+}
+  .partner-header img:hover {
+    max-width: 10rem;
+    filter: none; 
+  }
 .kurs-card {
   border: .5rem solid #eaecef;
   font-size: .9em;

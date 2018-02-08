@@ -35,7 +35,7 @@ draft: false
                     <div class="heading">
                         <h2>Intranett</h2>
                     </div>
-                    <p>Vi kan bistå med å innføre, utvikle eller reorganisere deres samhandlingsprosesser – for et mer effektivt 2018. En riktig tilpasset SharePoint-løsning kan øke kvaliteten og effektiviteten betraktelig, samtidig som du legger grunnlaget for fremtidig innovasjon.</p>
+                    <p>SharePoint styrker deling og samarbeid i en organisajon. Publiser meldinger og kommunikasjon, eller del ressurser og nyheter med hele eller deler av organisasjonen. Bruk nettområder og portaler for å skape engasjement hos de ansatte, til å forenkle kommunikasjonen på tvers av organisasjonen og øke kollektiv kunnskap.</p>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
                 </div>
             </div>
@@ -46,7 +46,8 @@ draft: false
                     <div class="heading">
                         <h2>Dokumenthåndtering</h2>
                     </div>
-                    <p>Bygg samhørighet og informer ansatte over hele intranettet, samtidig som du tilpasser løsningen for grupper og avdelinger. SharePoint styrker teamarbeid med dynamiske og produktive gruppeområder for hver prosjektgruppe og hver avdeling. Du kan samarbeide uanstrengt og sikkert med gruppemedlemmer i og utenfor organisasjonen, på tvers av PC-er Mac-er og mobile enheter.</p>
+                    <p>SharePoint samler virksomhetens dokumenter og gjør det enkelt å gjenfinne, dele og gjenbruke dokumentasjon.</p>
+                    <p>Med blant annet versjon styring, online redigering og tagging er SharePoint en digital samarbeidsplattform som sikrer at alle man jobber med dokumenter på en effektiv måte, at du aldri overskriver den seneste versjonen og at man lett kan finne tilbake til gamle dokumenter.</p>
                 </div>            
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="SharePoint" /></div>
             </div>
