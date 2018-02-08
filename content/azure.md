@@ -13,15 +13,15 @@ draft: false
                 <h3>Tjenester og plattform i skyen</h3>
                 <p>Azure er en stadig større samling av integrerte skytjenester som utviklere og IT-medarbeidere bruker til å utvikle, distribuere og administrere programmer via det globale datasenternettverket. Du betaler kun for de ressursene din virksomhet bruker, og plattformen skalerer fra små bedrifter med én tjeneste til verdensomspennende selskaper med behov for komplette serverparker.</p>
             </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Azure" /></div>
+            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/azure1.jpg" alt="Azure" /></div>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Azure</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div>
+        <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Azure</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
@@ -30,8 +30,8 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Azure" /></div>
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-4"><img class="img-fluid" src="/pointtaken/img/cloud-security.svg" alt="Azure" /></div>
+                <div class="col-md-12 col-lg-8" style="padding:2rem">
                     <div class="heading">
                         <h2>Azure er skyen du kan stole på</h2>
                     </div>
@@ -41,19 +41,19 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-8" style="padding:2rem">
                     <div class="heading">
                         <h2>Intelligente apper</h2>
                     </div>
                     <p>Azure tilbyr et omfattende sett med tjenester, infrastruktur og verktøy for å utvikle opplevelser basert på AI. Det inkludert boter som samhandler på naturlig måte med brukerne og innebygde avanserte analyseverktøy. Dette gir deg mulighet til å bygge inn kunstig intelligens i din virksomhets egne løsninger.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Azure" /></div>
+                <div class="col-md-12 col-lg-4"><img class="img-fluid" src="/pointtaken/img/multiple-platforms.svg" alt="Azure" /></div>
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Azure" /></div>
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-4"><img class="img-fluid" src="/pointtaken/img/consistent-hybrid-cloud.svg" alt="Azure" /></div>
+                <div class="col-md-12 col-lg-8" style="padding:2rem">
                     <div class="heading">
                         <h2>Skalerer</h2>
                     </div>
@@ -109,7 +109,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Azure" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/people/julian.jpg" alt="Julian" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Azure-konsulenter med lang erfaring</h2>
@@ -120,7 +120,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                <div class="col-md-12 col-lg-8" style="padding:2rem">
                     <div class="heading">
                         <h2>Kjenner du deg igjen? Ta kontakt!</h2>
                     </div>
@@ -133,16 +133,17 @@ draft: false
                     <br>
                     <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Azure på best mulig måte.</li>
                     </ul>
+                    <a class="btn btn-primary btn-full" href="/pointtaken/contact/" role="button">Ta kontakt</a>
                 </div>            
-                <div class="col-md-12 col-lg-6">
-                    <div class="card personkort p-5">
-                        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                <div class="col-sm-6 col-md-4 col-lg-3 p-5">
+                    <div class="card personkort text-center">
+                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>
                             <p class="card-subtitle mb-2">Salgssjef</p>
-                            <p class="card-text">Tlf: 987 65 432</p>
+                            <p class="card-text">Tlf: 90 09 50 88</p>
                         </div>
-                    </div>                
+                    </div>
                 </div>
             </div>
         </div>             

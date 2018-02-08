@@ -13,15 +13,15 @@ draft: false
                 <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
                 <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
             </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Teams" /></div>
+            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams1.png" alt="Teams" /></div>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Teams</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div>
+        <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Teams</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
@@ -30,13 +30,13 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams3.jpg" alt="Teams" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Samtaler for grupper</h2>
                     </div>
                     <p>Teams gir samtaler med historikk som sørger for at alle er engasjert og informert. Gruppesamtaler er synlig for hele gruppen men gir også mulighet for private samtaler. Et rikt bibliotek av emojis og GIF’er, gir brukeren en personlig måte å uttrykke seg på. Teams støtter skrift, lyd og video. I samtalene kan også hente oppdateringer fra andre systemer. Vi har testet med oppdateringer fra CRM og Trello. Teams kommer med et rikt bibliotek av slike koblinger, der også Webhooks er støttet. Det gir mulighet til å knytte seg til nær sagt hva som helst av kilder.</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+                    <!-- <a class="btn btn-primary btn-full" href="/kurs" role="button">Ta kontakt</a> -->
                 </div>
             </div>
         </div>
@@ -48,12 +48,12 @@ draft: false
                     </div>
                     <p>Teams samler verktøy fra Office 365 på en enkel og lettfattelig måte. Man kan starte lyd- og videomøter og jobbe med Office-dokumenter direkte i Teams. Teams kan inneholde de verktøy og informasjonskilder virksomheten har behov for.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams2.jpg" alt="Teams" /></div>
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams4.png" alt="Teams" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Kan tilpasses hver gruppe</h2>
@@ -108,11 +108,11 @@ draft: false
                 </div>            
                 <div class="col-md-12 col-lg-6">
                     <div class="card personkort p-5">
-                        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                        <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Thorbjorn Værp">
                         <div class="card-body">
-                            <h4 class="card-title">Knut Skogvold</h4>
-                            <p class="card-subtitle mb-2">Salgssjef</p>
-                            <p class="card-text">Tlf: 987 65 432</p>
+                            <h4 class="card-title">Thorbjørn Værp</h4>
+                            <p class="card-subtitle mb-2"> MVP Office Server and Services</p>
+                            <p class="card-text">Tlf: 90 58 36 65</p>
                         </div>
                     </div>                
                 </div>

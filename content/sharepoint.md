@@ -13,15 +13,15 @@ draft: false
                 <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
                 <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
             </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="SharePoint" /></div>
+            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/sp1.png" alt="SharePoint" /></div>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om SharePoint</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div>
+        <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om SharePoint</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
@@ -30,7 +30,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="SharePoint" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/scantrade-intranett.jpg" alt="SharePoint" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Intranett</h2>
@@ -49,7 +49,7 @@ draft: false
                     <p>SharePoint samler virksomhetens dokumenter og gjør det enkelt å gjenfinne, dele og gjenbruke dokumentasjon.</p>
                     <p>Med blant annet versjon styring, online redigering og tagging er SharePoint en digital samarbeidsplattform som sikrer at alle man jobber med dokumenter på en effektiv måte, at du aldri overskriver den seneste versjonen og at man lett kan finne tilbake til gamle dokumenter.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="SharePoint" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/documents.jpeg" alt="SharePoint" /></div>
             </div>
         </div>        
     </div>
@@ -136,7 +136,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6">
+                <div class="col-md-12 col-lg-9">
                     <div class="heading">
                         <h2>Kjenner du deg igjen? Ta kontakt.</h2>
                     </div>
@@ -151,84 +151,17 @@ draft: false
                     </ul>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
-                <div class="col-md-12 col-lg-6 p-4">
-                    <div class="card personkort p-5">
-                        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                <div class="col-sm-6 col-md-4 col-lg-3 p-5">
+                    <div class="card personkort text-center">
+                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>
                             <p class="card-subtitle mb-2">Salgssjef</p>
-                            <p class="card-text">Tlf: 987 65 432</p>
+                            <p class="card-text">Tlf: 90 09 50 88</p>
                         </div>
-                    </div>                
+                    </div>
                 </div>
             </div>
         </div>             
     </div>
 </div>
-
-<!-- <div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto">
-            <div class="heading text-center">
-                <h2>Hvor er du nå?</h2>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg ønsker å lære mer om SharePoint</h4>
-                    <p class="card-text">Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg ønsker å implementere SharePoint</h4>
-                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg trenger hjelp med SharePoint</h4>
-                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3">
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">Jeg trenger kurs i SharePoint</h4>
-                    <p class="card-text">Jeg trenger å lære mer om hvordan bruker SharePoint på best mulig måte.</p>
-                    <a href="#" class="btn btn-primary">Klikk her</a>
-                </div>
-            </div>
-        </div>               
-    </div>
-</div> -->
-
-<!-- <div class="container-fluid">
-    <div class="row background-yellow" style="padding-top:3rem;padding-bottom:3rem">
-        <div class="col-12">
-            <img class="img-fluid" src="../img/office_meeting.jpg"></img>        
-        </div>
-        <div class="col-12">
-            <h3>Gode råd trenger ikke være dyre</h3>
-        </div>
-        <div class="col-12">
-            <p class="lead">Vi gir råd, konfigurerer og evt. tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester. Spar penger ved å rådføre deg med en av våre eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT strategi.</p>
-        </div>
-    <a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
-        </div>     
-    </div>
-</div> -->

@@ -13,15 +13,15 @@ draft: false
                 <h3>Kunder for livet</h3>
                 <p>Når du kombinerer data om Salg, Service og Markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved Portal, Social Engagement og Chat</p>
             </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="CRM" /></div>
+            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/crm1.png" alt="CRM" /></div>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om CRM</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div>
+        <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om CRM</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
@@ -30,13 +30,13 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="CRM" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/crm2.jpg" alt="CRM" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Dynamics 365 salg</h2>
                     </div>
                     <p>Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt. Ved å sette salg i system, minimerer du tilfeldigheten av å lande nye kunder. Repeter en vinnende oppskrift gang på gang slik at du øker kundemassen og tilfredsheten. Når kunden opplever et ryddig salg, vil de starte kundereisen med en større trygghet til deg som leverandør.</p>
-                    <a class="btn btn-primary btn-full" href="/pointtaken/pt-sales/" role="button">PT-Sales: oppstartspakken for små selskaper</a>
+                    <!-- <a class="btn btn-primary btn-full" href="/pointtaken/pt-sales/" role="button">PT-Sales: oppstartspakken for små selskaper</a> -->
                 </div>
             </div>
         </div>
@@ -48,12 +48,12 @@ draft: false
                     </div>
                     <p>Driv trafikken inn til dine hjemmesider med inbound marketing, slik at kundene modnes før de tar kontakt. Når selger mottar et lead er det ikke et kaldt lead, men en kunde som har vist en riktig interesse for hva dere kan tilby. En god marketing strategi vil forbedre opplevelsen til kundene, samt gi selgere en varmere liste å ringe på.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="CRM" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/group/5.jpg" alt="CRM" /></div>
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="CRM" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/support.jpg" alt="CRM" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Dynamics 365 Customer service</h2>
@@ -80,7 +80,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="CRM" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/CRM3.jpg" alt="CRM" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>CRM-konsulenter med lang erfaring</h2>
@@ -108,11 +108,11 @@ draft: false
                 </div>            
                 <div class="col-md-12 col-lg-6">
                     <div class="card personkort p-5">
-                        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                        <img class="card-img-top img-profil" src="../img/people/thomas.jpg" alt="Thomas Sandsør">
                         <div class="card-body">
-                            <h4 class="card-title">Knut Skogvold</h4>
-                            <p class="card-subtitle mb-2">Salgssjef</p>
-                            <p class="card-text">Tlf: 987 65 432</p>
+                            <h4 class="card-title">Thomas Sandsør</h4>
+                            <p class="card-subtitle mb-2">Leder CRM</p>
+                            <p class="card-text">Tlf: 98 42 24 65</p>
                         </div>
                     </div>                
                 </div>
