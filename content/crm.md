@@ -36,6 +36,7 @@ draft: false
                         <h2>Dynamics 365 salg</h2>
                     </div>
                     <p>Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt. Ved å sette salg i system, minimerer du tilfeldigheten av å lande nye kunder. Repeter en vinnende oppskrift gang på gang slik at du øker kundemassen og tilfredsheten. Når kunden opplever et ryddig salg, vil de starte kundereisen med en større trygghet til deg som leverandør.</p>
+                    <a class="btn btn-primary btn-full" href="/pointtaken/pt-sales/" role="button">PT-Sales: oppstartspakken for små selskaper</a>
                 </div>
             </div>
         </div>
