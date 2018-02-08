@@ -4,17 +4,15 @@ date: 2017-12-11T13:40:38+01:00
 draft: false
 ---
 <div class="container">
-    <div class="referansecase">
-        <div class="row no-gutters">
-            <div class="col-md-12 col-lg-6 p-4 mt-4">
-                <div class="heading">
-                    <h1>Azure</h1>
-                </div>
-                <h3>Tjenester og plattform i skyen</h3>
-                <p>Azure er en stadig større samling av integrerte skytjenester som utviklere og IT-medarbeidere bruker til å utvikle, distribuere og administrere programmer via det globale datasenternettverket. Du betaler kun for de ressursene din virksomhet bruker, og plattformen skalerer fra små bedrifter med én tjeneste til verdensomspennende selskaper med behov for komplette serverparker.</p>
-            </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/azure1.jpg" alt="Azure" /></div>
-        </div>
+    <div class="row no-gutters">
+        <div class="col-md-12 col-lg-6 p-4 mt-4">
+            <div class="heading">
+                <h1>Azure</h1>
+            </div>
+            <h3>Tjenester og plattform i skyen</h3>
+            <p>Azure er en stadig større samling av integrerte skytjenester som utviklere og IT-medarbeidere bruker til å utvikle, distribuere og administrere programmer via det globale datasenternettverket. Du betaler kun for de ressursene din virksomhet bruker, og plattformen skalerer fra små bedrifter med én tjeneste til verdensomspennende selskaper med behov for komplette serverparker.</p>
+        </div>    
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/azure1.jpg" alt="Azure" /></div>
     </div>
 </div>
 

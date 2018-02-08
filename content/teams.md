@@ -4,17 +4,15 @@ date: 2018-01-02T13:59:08+01:00
 draft: false
 ---
 <div class="container">
-    <div class="referansecase">
-        <div class="row no-gutters">
-            <div class="col-md-12 col-lg-6 p-4 mt-4">
-                <div class="heading">
-                    <h1>Teams</h1>
-                </div>
-                <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
-                <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
-            </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams1.png" alt="Teams" /></div>
-        </div>
+    <div class="row no-gutters">
+        <div class="col-md-12 col-lg-6 p-4 mt-4">
+            <div class="heading">
+                <h1>Teams</h1>
+            </div>
+            <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
+            <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
+        </div>    
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams1.png" alt="Teams" /></div>
     </div>
 </div>
 

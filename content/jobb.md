@@ -5,53 +5,47 @@ draft: false
 ---
 
 <div class="container">
-    <div class="referansecase">
-        <div class="row">
-            <div class="col-md-12 col-lg-8 p-4 mt-4">
-                <div class="heading">
-                    <h1>Jobbe i Point Taken?</h1>
-                </div>
-                <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her.</p>
-            </div>    
-            <div class="col-md-12 col-lg-6"></div>
+<div class="row">
+    <div class="col-lg-8">
+        <div class="col-md-12 p-4 mt-4">
+            <div class="heading">
+                <h1>Jobbe i Point Taken?</h1>
+            </div>
+            <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her.</p>
         </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-12 col-lg-8 p-4 mt-4">
+        <div class="col-md-12 p-4 mt-4">
             <div class="heading">
                 <h1>Ledige stillinger</h1>
             </div>
-         
-<table class="table table-hover">
-  <thead>
-    <tr>
-      <th scope="col">Lokasjon</th>
-      <th scope="col">Stilling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- <tr>
-      <td data-toggle="modal" data-target=".oslo-1">Oslo</td>
-      <td data-toggle="modal" data-target=".oslo-1">Fullstack-utvikler</td>
-    </tr> -->
-    <tr>
-      <td data-toggle="modal" data-target=".oslo-1">Oslo</td>
-      <td data-toggle="modal" data-target=".oslo-1">Senior Utvikler/Konsulent SharePoint Online/Onprem</td>
-    </tr>    
-    <tr>
-      <td data-toggle="modal" data-target=".oslo-2">Oslo</td>
-      <td data-toggle="modal" data-target=".oslo-2">Azure-spesialist</td>
-    </tr>
-    <tr>
-      <td data-toggle="modal" data-target=".oslo-3">Oslo</td>
-      <td data-toggle="modal" data-target=".oslo-3">Front-end-utvikler</td>
-    </tr>    
-  </tbody>
-</table>
-</div>
+        </div>
+         <div class="col-12">
+            <table class="table table-hover">
+            <thead>
+                <tr>
+                <th scope="col">Lokasjon</th>
+                <th scope="col">Stilling</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- <tr>
+                <td data-toggle="modal" data-target=".oslo-1">Oslo</td>
+                <td data-toggle="modal" data-target=".oslo-1">Fullstack-utvikler</td>
+                </tr> -->
+                <tr>
+                <td data-toggle="modal" data-target=".oslo-1">Oslo</td>
+                <td data-toggle="modal" data-target=".oslo-1">Senior Utvikler/Konsulent SharePoint Online/Onprem</td>
+                </tr>    
+                <tr>
+                <td data-toggle="modal" data-target=".oslo-2">Oslo</td>
+                <td data-toggle="modal" data-target=".oslo-2">Azure-spesialist</td>
+                </tr>
+                <tr>
+                <td data-toggle="modal" data-target=".oslo-3">Oslo</td>
+                <td data-toggle="modal" data-target=".oslo-3">Front-end-utvikler</td>
+                </tr>    
+            </tbody>
+            </table>
+        </div>
 <!-- STILLINGSBESKRIVELSER -->
 
 <!--Front-end-utvikler-->
@@ -180,41 +174,47 @@ draft: false
 
 
 <!-- Kontaktinformasjon -->
-
-<div class="container">
+<div class="col-md-12 mt-4 mb-4">
     <div class="row">
-        <div class="col-md-12 mt-4 mb-4">
-            <div class="row">
-                <div class="col-md-12 col-lg-8" style="padding:2rem">
-                    <p>Vi har alltid øyne og ører åpne for nye talenter som kan tilføre noe til vårt allerede flotte team. Det er ikke alltid vi lyser ut spesifikke stillinger, men hvis du mener du er riktig for oss så ta kontakt! Hvis man alltid venter på rett tidspunkt må man ofte vente lenge. Og det er alltid rett tidspunkt for å høre fra engasjerte og flinke folk!</p>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
-                </div>
-            </div>
-        </div>       
+        <div class="col-md-12 col-lg-8" style="padding:2rem">
+            <p>Vi har alltid øyne og ører åpne for nye talenter som kan tilføre noe til vårt allerede flotte team. Det er ikke alltid vi lyser ut spesifikke stillinger, men hvis du mener du er riktig for oss så ta kontakt! Hvis man alltid venter på rett tidspunkt må man ofte vente lenge. Og det er alltid rett tidspunkt for å høre fra engasjerte og flinke folk!</p>
+            <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om migrering</a> -->
+        </div>
     </div>
 </div>
-
-
 <div class="row">
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort">
-        <img class="card-img-top img-profil" src="../img/people/rune.jpg" alt="Rune Tangen">
+    <div class="col-sm-12 col-md-4">
+    <div class="card personkort text-center">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/rune.jpg" alt="Rune Tangen">
         <div class="card-body">
             <h4 class="card-title">Rune Tangen</h4>
-            <p class="card-subtitle mb-2">Oslo</p>
-            <p class="card-text">Tlf: 123 45 678</p>
+            <p class="card-subtitle mb-2">Daglig leder</p>
+            <p class="card-text">Tlf: 92 60 00 59</p>
         </div>
     </div>
-</div>
-
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort">
-        <img class="card-img-top img-profil" src="../img/people/thorbjorn.jpg" alt="Thorbjørn Værp">
+    </div>
+    <div class="col-sm-12 col-md-4">
+    <div class="card personkort text-center">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn.jpg" alt="Thorbjørn Værp">
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
-            <p class="card-subtitle mb-2">Kristiansand</p>
-            <p class="card-text">Tlf: 987 65 432</p>
+            <p class="card-subtitle mb-2">Regionleder Kristiansand</p>
+            <p class="card-text">Tlf: 90 58 36 65</p>
         </div>
     </div>
+    </div>
+</div>
+</div>
+<!-- SOSIALE BILDER -->
+<div class="col-4 mt-5">
+<img class="img-fluid" src="/pointtaken/img/luz.jpg" alt="Luzerne" />
+<p class="mb-4">Luzerne 2017</p>
+<img class="img-fluid" src="/pointtaken/img/sykkel.jpg" alt="Sykkeltur" />
+<p class="mb-4">Island 2016</p>
+<img class="img-fluid" src="/pointtaken/img/italia.jpg" alt="Kurs" />
+<p class="mb-4">Italia 2015</p>
+<img class="img-fluid" src="/pointtaken/img/aspc.jpg" alt="Sykkeltur" />
+<p class="mb-4">Arctic SharePoint Challenge 2015</p>
+</div>
 </div>
 </div>

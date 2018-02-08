@@ -471,7 +471,7 @@ body {
   max-width: 1000px;
 }
 .modal-dialog {
-  margin: 10% auto;
+  /* margin: 10% auto; */
 }
 @media (min-width: 768px) {
 .fullwidth {

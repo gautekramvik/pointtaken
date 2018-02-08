@@ -4,16 +4,14 @@ date: 2017-12-11T13:40:15+01:00
 draft: false
 ---
 <div class="container">
-    <div class="referansecase">
-        <div class="row no-gutters">
-            <div class="col-md-12 col-lg-6 p-4 mt-4">
-                <div class="heading">
-                    <h1>Rådgivning og utvikling</h1>
-                </div>
-                <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere innen vår bransje. Vi har laget mange komplette løsninger for våre kunder og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
-            </div>    
-            <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
-        </div>
+    <div class="row no-gutters">
+        <div class="col-md-12 col-lg-6 p-4 mt-4">
+            <div class="heading">
+                <h1>Rådgivning og utvikling</h1>
+            </div>
+            <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere innen vår bransje. Vi har laget mange komplette løsninger for våre kunder og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
+        </div>    
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
     </div>
 </div>
 
