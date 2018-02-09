@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</loc>
+    <lastmod>2018-02-09T08:58:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/pt-sales/</loc>
     <lastmod>2018-02-08T17:40:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2018/02/08/jumpstart-gdpr-compliance/</loc>
+    <lastmod>2018-02-08T09:10:36+01:00</lastmod>
   </url>
   
   <url>
@@ -124,13 +134,13 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/</loc>
-    <lastmod>2017-11-21T21:53:35+01:00</lastmod>
+    <lastmod>2018-02-09T08:58:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/blog/</loc>
-    <lastmod>2018-01-05T20:22:48+01:00</lastmod>
+    <lastmod>2018-02-09T08:58:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,6 +160,12 @@
   </url>
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/gdpr/</loc>
+    <lastmod>2018-02-08T09:10:36+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/categories/it-pro/</loc>
     <lastmod>2018-01-05T20:22:48+01:00</lastmod>
     <priority>0</priority>
@@ -161,7 +177,7 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/</loc>
-    <lastmod>2018-02-08T17:40:50+01:00</lastmod>
+    <lastmod>2018-02-09T08:58:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,13 +201,13 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/categories/sosialt/</loc>
-    <lastmod>2017-06-29T22:48:54+01:00</lastmod>
+    <lastmod>2018-02-09T08:58:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/</loc>
-    <lastmod>2017-11-21T21:53:35+01:00</lastmod>
+    <lastmod>2018-02-09T08:58:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   

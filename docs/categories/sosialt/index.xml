@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 29 Jun 2017 22:48:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 08:58:21 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/categories/sosialt/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Guru Vesa Juvonen Gjestet Oslo</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</link>
+      <pubDate>Fri, 09 Feb 2018 08:58:21 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
+      <description>Microsoft guru Vesa Juvonen gjestet Oslo På ettermiddagen 7 februar fasiliterte vi i Point Taken, Norwegian Office 365 Community meetup. Vi fikk besøk av Vesa Juvonen, Senior Program Manager i Microsoft som snakket om Microsofts roadmap for Sharepoint og Chris Givens, Microsfot MVP og sikkerhetsarkitekt i Soliance som snakket om GDPR og Azure, fra ett teknisk ståsted.
+Det ble en hyggelig kveld hvor rundt 30 kunder og leverandører hadde tatt seg tid til et lite avbrekk fra en travel hverdag.</description>
+    </item>
     
     <item>
       <title>Point Taken Til Canada</title>

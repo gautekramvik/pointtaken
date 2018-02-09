@@ -32,7 +32,7 @@ draft: false
                     <div class="heading">
                         <h2>Tilpasset din bedrift  </h2>
                     </div>
-                    <p>Vi kan bistå med å innføre, utvikle eller reorganisere deres samhandlingsprosesser. En riktig tilpasset SharePoint-løsning kan øke kvaliteten og effektiviteten betraktelig, samtidig som du legger grunnlaget for fremtidig innovasjon.</p>
+                    <p>Vi kan bistå med å innføre, utvikle eller reorganisere deres samhandlingsprosesser. En riktig tilpasset løsning kan øke kvaliteten og effektiviteten betraktelig, samtidig som du legger grunnlaget for fremtidig innovasjon.</p>
                 </div>
             </div>
         </div>
