@@ -11,7 +11,7 @@ draft: false
             <div class="heading">
                 <h1>Jobbe i Point Taken?</h1>
             </div>
-            <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte her.</p>
+            <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte på <a href="/pointtaken/om-oss/">om oss</a>.</p>
         </div>
         <div class="col-md-12 p-4 mt-4">
             <div class="heading">
@@ -19,7 +19,7 @@ draft: false
             </div>
         </div>
          <div class="col-12">
-            <table class="table table-hover">
+            <table class="table">
             <thead>
                 <tr>
                 <th scope="col">Lokasjon</th>
@@ -32,16 +32,16 @@ draft: false
                 <td data-toggle="modal" data-target=".oslo-1">Fullstack-utvikler</td>
                 </tr> -->
                 <tr>
-                <td data-toggle="modal" data-target=".oslo-1">Oslo</td>
-                <td data-toggle="modal" data-target=".oslo-1">Senior Utvikler/Konsulent SharePoint Online/Onprem</td>
+                <td>Oslo</td>
+                <td>Senior Utvikler/Konsulent SharePoint Online/Onprem</td>
                 </tr>    
                 <tr>
-                <td data-toggle="modal" data-target=".oslo-2">Oslo</td>
-                <td data-toggle="modal" data-target=".oslo-2">Azure-spesialist</td>
+                <td>Oslo</td>
+                <td>Senior Konsulent Office 365</td>
                 </tr>
                 <tr>
-                <td data-toggle="modal" data-target=".oslo-3">Oslo</td>
-                <td data-toggle="modal" data-target=".oslo-3">Front-end-utvikler</td>
+                <td>Oslo</td>
+                <td>Senior Konsulent Dynamics 365</td>
                 </tr>    
             </tbody>
             </table>
@@ -208,13 +208,13 @@ draft: false
 <!-- SOSIALE BILDER -->
 <div class="col-4 mt-5">
 <img class="img-fluid" src="/pointtaken/img/luz.jpg" alt="Luzerne" />
-<p class="mb-4">Luzerne 2017</p>
+<p class="mb-4 text-center">Luzerne 2017</p>
 <img class="img-fluid" src="/pointtaken/img/sykkel.jpg" alt="Sykkeltur" />
-<p class="mb-4">Island 2016</p>
+<p class="mb-4 text-center">Island 2016</p>
+<img class="img-fluid" src="/pointtaken/img/ol1.jpg" alt="Rallarvegen" />
+<p class="mb-4 text-center">Rallarvegen 2015</p>
 <img class="img-fluid" src="/pointtaken/img/italia.jpg" alt="Kurs" />
-<p class="mb-4">Italia 2015</p>
-<img class="img-fluid" src="/pointtaken/img/aspc.jpg" alt="Sykkeltur" />
-<p class="mb-4">Arctic SharePoint Challenge 2015</p>
+<p class="mb-4 text-center">Italia 2014</p>
 </div>
 </div>
 </div>
