@@ -73,4 +73,4 @@ id = "contact"
 
 
 <div class="row">
-<iframe src="http://web.pointtaken.no/pointtakenno-aaajs/pages/seqk2w0deeipuqanoirrlg.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
+<iframe id='powf_C1A7E4AD58D0E711A94B000D3A246B2E' src='https://pocloudwesteurope.crm.powerobjects.net/powerwebform/powerwebform.aspx?t=nOfWFL70TUquX9DRvqN83m4AbwB2AGEAbgBlAHQAYQBzADIA&formId=powf_C1A7E4AD58D0E711A94B000D3A246B2E&tver=2013' frameborder='0' width='100%' height='270'></iframe></div>

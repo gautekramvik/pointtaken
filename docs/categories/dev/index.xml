@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev on Point Taken</title>
-    <link>http://www.pointtaken.no/categories/dev/</link>
+    <link>https://pointtaken.github.io/categories/dev/</link>
     <description>Recent content in Dev on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Tue, 06 Jun 2017 21:18:08 +0100</lastBuildDate>
     
-	<atom:link href="http://www.pointtaken.no/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointtaken.github.io/categories/dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrate Sharepoint Site Content With Sharegate Using Powershell</title>
-      <link>http://www.pointtaken.no/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</link>
+      <link>https://pointtaken.github.io/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</link>
       <pubDate>Tue, 06 Jun 2017 21:18:08 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</guid>
       <description>Migrate SharePoint site content with Sharegate using powershell Here’s an example of how to use PowerShell to migrate content from SharePoint On-premises to Office365 or SharePoint 2016. I use PowerShell to export the On-premises lists to a csv-file, add parameters to the copy-commandlet to adjust the migration type (e.g. only changed files since last migration), also Scheduling tasks to run off peak hours.
 Read on :-) Step 1 - Get lists!</description>
     </item>
     
     <item>
       <title>Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core</title>
-      <link>http://www.pointtaken.no/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</link>
+      <link>https://pointtaken.github.io/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</link>
       <pubDate>Tue, 16 May 2017 20:52:50 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</guid>
       <description>Updating single and multi value taxonomy fields using PnP-JS-Core 
 Point Taken is the leading SharePoint, Office 365 and Nintex consultancy in Norway. 
 All the devs in Point Taken are heavy users of the awesome repos provided on https://github.com/SharePoint. But even though our SharePoint dev lives have become easier we still encounter challenges and general SharePoint weirdness. This is one of those cases.
