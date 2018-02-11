@@ -14,7 +14,7 @@ On January the 24, Point Taken held a breakfast seminar in Kristiansand, focusin
 This morning we showed the participants how Office 365 allows them to easily find, classify, retain or delete personal (custom) sensitive data to comply with the upcoming GDPR regulations, which will come into force on May 25 2018. 
 In addition, we demonstrated how Office 365 allows us to create GDPR policies avoiding loss of sensitive data and how we can customize the out-of-the box tools to meet other than GDPR regulations (company specific policies). 
  
-<img class="img-fluid mt-3 mb-3" src="/pointtaken/img/Luc-GDPR-2.jpg" /> 
+<img class="img-fluid mt-3 mb-3" src="/img/Luc-GDPR-2.jpg" /> 
 
 Many were surprised to see how much functionality Office 365 offers, that can be used against documents, emails and files stored in Outlook, OneDrive for Business and SharePoint.  
 We also demonstrated that the same tools can be used to analyze data stored in traditional file servers as well, extending the range of benefits.  

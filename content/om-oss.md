@@ -19,9 +19,9 @@ draft: false
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/referanser/">Referanser</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/jobb/">Jobbe i Point Taken?</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontaktinformasjon</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/referanser/">Referanser</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/jobb/">Jobbe i Point Taken?</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontaktinformasjon</a></h4></div>
     </div>
 </div>
 

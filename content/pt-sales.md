@@ -33,12 +33,12 @@ draft: false
                     <p>Rimelig startpunkt for en kunde i modningsprosess</p>
                     <p>Start enkelt og utvid etterhvert som din organisasjon modnes</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/crm-app-1.png" alt="PT Sales" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/crm-app-1.png" alt="PT Sales" /></div>
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/crm-app-2.png" alt="PT Sales" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/crm-app-2.png" alt="PT Sales" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <p>Registrering av kontakter</p>
                     <p>Registering av forretningsforbindelser</p>

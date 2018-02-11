@@ -16,7 +16,7 @@ Vi er opptatt av kvalitet og kompetanse og ser først og fremst etter seniorprof
 
 Vi ønsker oss 10 nye medarbeidere i tillegg til de 7 vi har ansatt allerede i år.
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/crm_smal.jpg" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/crm_smal.jpg" /> 
 Vi ser etter:
 <br>
 * Front-end utviklere med gode JavaScript-kunnskaper, (REACT, VUE, Knockout el.) som ønsker å jobbe med fremtidsrettet teknologi som Azure og Office 365 som også syns det er helt greit å utnytte kraften i hyllevare.
@@ -32,4 +32,4 @@ Vi ser etter:
 Ta direkte kontakt i en av våre kanaler så tar vi hyggelig en prat.
 
 
-<a href="/pointtaken/om-oss" class="btn btn-primary btn-out mt-2">Les mer om Point Taken</a>
+<a href="/om-oss" class="btn btn-primary btn-out mt-2">Les mer om Point Taken</a>

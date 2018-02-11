@@ -105,7 +105,7 @@ For the full Sharegate PowerShell documentation, visit https://support.share-gat
 #### Scheduled task
 Here’s a tip: Use Task Scheduler to schedule a migration. This can be helpful to plan a migration during off peak hours without having to start the script manually.
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/scheduledtask.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/scheduledtask.png" /> 
 
 Happy Migration! :-)
 <br>

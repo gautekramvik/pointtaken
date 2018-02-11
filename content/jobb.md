@@ -11,7 +11,7 @@ draft: false
             <div class="heading">
                 <h1>Jobbe i Point Taken?</h1>
             </div>
-            <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte på <a href="/pointtaken/om-oss/">om oss</a>.</p>
+            <p>Så du ønsker å jobbe med landets flinkeste og triveligste kolleger? Da har du kommet til riktig bedrift. Hos Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder. Du kan lese mer om våre ansatte på <a href="/om-oss/">om oss</a>.</p>
         </div>
         <div class="col-md-12 p-4 mt-4">
             <div class="heading">
@@ -207,13 +207,13 @@ draft: false
 </div>
 <!-- SOSIALE BILDER -->
 <div class="col-4 mt-5">
-<img class="img-fluid" src="/pointtaken/img/luz.jpg" alt="Luzerne" />
+<img class="img-fluid" src="/img/luz.jpg" alt="Luzerne" />
 <p class="mb-4 text-center">Luzerne 2017</p>
-<img class="img-fluid" src="/pointtaken/img/sykkel.jpg" alt="Sykkeltur" />
+<img class="img-fluid" src="/img/sykkel.jpg" alt="Sykkeltur" />
 <p class="mb-4 text-center">Island 2016</p>
-<img class="img-fluid" src="/pointtaken/img/ol1.jpg" alt="Rallarvegen" />
+<img class="img-fluid" src="/img/ol1.jpg" alt="Rallarvegen" />
 <p class="mb-4 text-center">Rallarvegen 2015</p>
-<img class="img-fluid" src="/pointtaken/img/italia.jpg" alt="Kurs" />
+<img class="img-fluid" src="/img/italia.jpg" alt="Kurs" />
 <p class="mb-4 text-center">Italia 2014</p>
 </div>
 </div>

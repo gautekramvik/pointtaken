@@ -12,7 +12,7 @@ banner: "img/dip-is-back.png"
 
 #### Great news every one, the DIP(Document Information Panel) is back, it is ready for use NOW! At Ignite, Microsoft announced that the DIP will be coming back in 2018. Today I was scrolling through the Office 365 Admin Message Center, and found some interesting news, and started to check it out with my colleagues, and VOILA!
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/dip-is-back.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/dip-is-back.png" /> 
 
 It seems like it is only available in Word 2016. We have not got it to work in Excel or PowerPoint. It is called the “SharePoint Property Panel”. And we only got it to work on the newest version of Office Pro Plus. See picture for details.
 
@@ -20,7 +20,7 @@ We have tested the tricky data types; Taxonomy, PeoplePicker ++. They all work. 
 
 You can find the SPP in the ribbon in Word. “View” > “Properties”. Inside the SPP you have two tabs, “Document” and “SharePoint. The document tab have the standard word properties, such as Author, Comments and such.
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/dip-produkt-information.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/dip-produkt-information.png" /> 
 
 More information can be found here. It says that is going to be released in the January 2018, but I guess you just have to have the right version.
 

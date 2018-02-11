@@ -14,7 +14,7 @@
 
             <!-- *** BLOG HOMEPAGE *** -->
 
-            <div class="row">
+            
                     {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
                     {{ range first 2 $posts.Pages }}
                     <div class="recent-blogs row">
@@ -53,7 +53,7 @@
                     <!-- /.box-image-text -->
                 {{ end }}
                     
-            </div>
+            
             <!-- /.row -->
 
             <!-- *** BLOG HOMEPAGE END *** -->

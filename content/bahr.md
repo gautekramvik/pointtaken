@@ -8,7 +8,7 @@ author: ""
     <div class="row">
 <div class="col-md-12 col-lg-8 mx-auto">
 <div class="row">
-<img class="img-fluid mx-auto" src="/pointtaken/img/clients/bahr-logo.png" />
+<img class="img-fluid mx-auto" src="/img/clients/bahr-logo.png" />
 </div>
 <p class="lead"><strong>BAHR</strong> er et ledende forretningsadvokatfirma , lokalisert i Oslo med over 180 medarbeidere. BAHR ønsker å ligge i forkant av den teknologiske utviklingen som også påvirker advokatbransjen og har kommet langt i arbeidet med effektivisering og digitalisering av arbeidsprosesser.
 BAHR ønsket en samarbeidspartner som kunne bistå i dette arbeidet.</p>

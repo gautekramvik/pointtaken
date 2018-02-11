@@ -14,7 +14,7 @@ draft: false
             <p>Vår erfaring er at det er opplæring av brukerne som er ett av de viktigste kriteriene for suksess ved innføring av nye systemer.I tillegg til klasseromskurs kan vi bistå med opprettelse av online læring i standard løsning eller kundespesifikke produkter.</p>
             <p>Flere av våre konsulenter er sertifiserte kursholdere fra Microsoft.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Kurs" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Kurs" /></div>
     </div>
 </div>
 
@@ -22,7 +22,7 @@ draft: false
     <div class="row content-menu text-center mx-auto">
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Kurs</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
 

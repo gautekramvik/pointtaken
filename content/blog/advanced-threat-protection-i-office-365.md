@@ -26,18 +26,18 @@ Funksjoner som ATP gir deg er følgende:
 ### Klarerte vedlegg
 Vi konfigurerer opp hvordan ATP skal håndtere vedlegg.
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/atp-vedlegg.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/atp-vedlegg.png" /> 
 
 ### Klarerte koblinger 
 Regelen for klarerte koblinger settes opp og man velger hvordan den skal håndtere forskjellige situasjoner.
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/atp-klarerte-koblinger.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/atp-klarerte-koblinger.png" /> 
 
 ### Rapportering
 
 Rapportering er tilgjengelig under “Sikkerhet og Samsvar” i Administrasjonssenteret. Her kan en zoome inn på de forskjellige grafene og søylene for å se hvilke avsender/mottaker-adresser som blir angrepet og hvilken type skadevare eller virus som blir forsøkt levert til brukerne.
 
-<img class="img-fluid mt-4 mb-4" src="/pointtaken/img/atp-rapportering.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/atp-rapportering.png" /> 
 
 Kort oppsummert er Advanced Thread Protection noe alle bedrifter bør vurdere å aktivere på sin Office 365 tenant. Lisenser for dette kan kjøpes separat som «Avansert trusselvern for Exchange Online». Om du allerede har Office 365 E5 lisenser i din tenant er tjenesten allerede etablert og det eneste som trengs er litt konfigurasjon.
 

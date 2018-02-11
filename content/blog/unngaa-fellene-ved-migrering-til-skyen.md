@@ -13,7 +13,7 @@ banner: "img/blogg-strategi-illustrasjon.png"
 #### Flere og flere bedrifter opplever at det blir mer og mer kaotisk etter at fellesdisken er flyttet til skyen. Dette kan skyldes mangel på god planlegging.
 
 
-![This is an image](/pointtaken/img/blogg-strategi-illustrasjon.png)
+![This is an image](/img/blogg-strategi-illustrasjon.png)
 
 
 Når bedriften går over til skytjenester, får de ansatte lettere tilgang til sine arbeidsflater. Filer og info kan lett hentes frem og jobbes videre med via mobil og nettbrett, og materiellet blir mye lettere å finne enten de er på jobb, hjemme eller på reise. Men tilgang til skyen åpner også for at de ansatte kan lage sine egne rutiner og installere produkter som ikke er en del av produktporteføljen til bedriften. 

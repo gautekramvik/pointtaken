@@ -7,7 +7,7 @@ draft: false
 <div class="container">
     <div class="row">
 <div class="col-md-12 col-lg-8 mx-auto">
-<img class="img-fluid mb-5 mt-5" src="/pointtaken/img/scantrade.jpg" /> 
+<img class="img-fluid mb-5 mt-5" src="/img/scantrade.jpg" /> 
 <p class="lead"><strong>Scantrade</strong> er Nordens ledende leverandør innen all organisert breddeidrett, og trengte en partner for å løfte digitaliseringen inn i 2018.</p>
 <br>
 <h2>Utfordringene:</h2>

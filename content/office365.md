@@ -12,7 +12,7 @@ draft: false
             <h3>Komplett kontorløsning</h3>
             <p>Office 365 er en komplett kontor-løsning for din virksomhet. Her finner du de velkjente Office-programmene, Outlook, Skype, fildeling og samhandling. Office 365 finnes i flere varianter avhengig av behov. Vi kan hjelpe deg med behovsavklaring og velge riktig løsning for din virksomhet.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/o365.jpg" alt="Office 365" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/o365.jpg" alt="Office 365" /></div>
     </div>
 </div>
 
@@ -20,7 +20,7 @@ draft: false
     <div class="row content-menu text-center mx-auto">
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Office 365</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
 
@@ -28,7 +28,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/office2.jpg" alt="Office 365" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/office2.jpg" alt="Office 365" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Alltid tilgjengelig og oppdatert</h2>
@@ -47,7 +47,7 @@ draft: false
                     </div>
                     <p>Office 365 samler virksomhetens informasjon på ett sted og gjør det mulig å gjenfinne, dele og gjenbruke data. Søk som finner det du leter etter og presenterer det som er relevant for deg. Dine dokumenter kan beskyttes og deles med de du ønsker.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/office4.jpg" alt="Office 365" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/office4.jpg" alt="Office 365" /></div>
             </div>
         </div>        
     </div>
@@ -117,7 +117,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/group/10.jpg" alt="Office 365" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/group/10.jpg" alt="Office 365" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Office 365-konsulenter</h2>

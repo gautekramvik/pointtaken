@@ -12,7 +12,7 @@ draft: false
             <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
             <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams1.png" alt="Teams" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams1.png" alt="Teams" /></div>
     </div>
 </div>
 
@@ -20,7 +20,7 @@ draft: false
     <div class="row content-menu text-center mx-auto">
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Teams</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
 
@@ -28,7 +28,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams3.jpg" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams3.jpg" alt="Teams" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Samtaler for grupper</h2>
@@ -46,12 +46,12 @@ draft: false
                     </div>
                     <p>Teams samler verktøy fra Office 365 på en enkel og lettfattelig måte. Man kan starte lyd- og videomøter og jobbe med Office-dokumenter direkte i Teams. Teams kan inneholde de verktøy og informasjonskilder virksomheten har behov for.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams2.jpg" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams2.jpg" alt="Teams" /></div>
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/teams4.png" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams4.png" alt="Teams" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Kan tilpasses hver gruppe</h2>
@@ -78,8 +78,8 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
-                                                <img class="img-fluid" src="/pointtaken/img/mvp.png" alt="MVP" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
+                                                <img class="img-fluid" src="/img/mvp.png" alt="MVP" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Konsulenter med lang erfaring</h2>

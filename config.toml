@@ -1,4 +1,4 @@
-baseurl = "https://gautekramvik.github.io/pointtaken/"
+baseurl = "https://pointtaken.github.io/"
 title = "Point Taken"
 theme = "point-taken-theme"
 themesDir = "themes"
@@ -158,7 +158,7 @@ paginate = 10
     title = "Har du lyst til å tazte priv med oss?"
     subtitle = "Våre herrrligste konsulenter står klar for å motta et uforpliktende opprop fra DEM!"
     link_text = "Ta kontakt i dag"
-    link_url = "/pointtaken/contact/"
+    link_url = "/contact/"
 
 [params.clients]
     enable = false

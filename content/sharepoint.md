@@ -12,7 +12,7 @@ draft: false
             <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
             <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/sp1.png" alt="SharePoint" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/sp1.png" alt="SharePoint" /></div>
     </div>
 </div>
 
@@ -20,7 +20,7 @@ draft: false
     <div class="row content-menu text-center mx-auto">
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om SharePoint</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
 
@@ -28,7 +28,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/scantrade-intranett.jpg" alt="SharePoint" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/scantrade-intranett.jpg" alt="SharePoint" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Intranett</h2>
@@ -47,7 +47,7 @@ draft: false
                     <p>SharePoint samler virksomhetens dokumenter og gjør det enkelt å gjenfinne, dele og gjenbruke dokumentasjon.</p>
                     <p>Med blant annet versjon styring, online redigering og tagging er SharePoint en digital samarbeidsplattform som sikrer at alle man jobber med dokumenter på en effektiv måte, at du aldri overskriver den seneste versjonen og at man lett kan finne tilbake til gamle dokumenter.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/documents.jpeg" alt="SharePoint" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/documents.jpeg" alt="SharePoint" /></div>
             </div>
         </div>        
     </div>
@@ -121,8 +121,8 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
-                                                <img class="img-fluid" src="/pointtaken/img/mvp.png" alt="MVP" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
+                                                <img class="img-fluid" src="/img/mvp.png" alt="MVP" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>SharePoint-konsulenter med lang erfaring</h2>

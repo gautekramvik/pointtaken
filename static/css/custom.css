@@ -437,6 +437,9 @@ body {
   border-radius: 0;
   border: 0;
 }
+.card-img-top {
+  height: 100%;
+}
 .card-img-top.img-round {
   object-fit: cover;
   width: 170px;

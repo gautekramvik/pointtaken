@@ -11,7 +11,7 @@ draft: false
             </div>
             <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere innen vår bransje. Vi har laget mange komplette løsninger for våre kunder og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Rådgivning" /></div>
     </div>
 </div>
 
@@ -19,7 +19,7 @@ draft: false
     <div class="row content-menu text-center mx-auto">
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om rådgivning og utvikling</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pointtaken/contact/">Kontakt oss</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
 
@@ -27,7 +27,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Rådgivning" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Tilpasset din bedrift  </h2>
@@ -44,7 +44,7 @@ draft: false
                     </div>
                     <p>Som rådgivere er vi opptatt av å finne den beste løsningen for våre kunder, enten løsningen er på egne servere, eller i en skyløsning. Vi kan også hjelpe organisasjonen å ta i bruk ny teknologi på en rask og effektiv måte. Vi bistår til å utvikle løsninger som gjør at du kan samarbeide uanstrengt og sikkert, i og utenfor organisasjonen, på tvers av digitale flater.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/startup-photos.jpg" alt="Rådgivning" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Rådgivning" /></div>
             </div>
         </div>       
     </div>
@@ -119,8 +119,8 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/pointtaken/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
-                                                <img class="img-fluid" src="/pointtaken/img/mvp.png" alt="MVP" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
+                                                <img class="img-fluid" src="/img/mvp.png" alt="MVP" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Konsulenter med lang erfaring</h2>
