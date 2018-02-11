@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It Pro on Point Taken</title>
-    <link>https://pointtaken.github.io/categories/it-pro/</link>
+    <link>http://www.pointtaken.no/categories/it-pro/</link>
     <description>Recent content in It Pro on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Fri, 05 Jan 2018 20:22:48 +0100</lastBuildDate>
     
-	<atom:link href="https://pointtaken.github.io/categories/it-pro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.pointtaken.no/categories/it-pro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Unngå fellene med migrering til skyen</title>
-      <link>https://pointtaken.github.io/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</link>
+      <link>http://www.pointtaken.no/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</link>
       <pubDate>Fri, 05 Jan 2018 20:22:48 +0100</pubDate>
       
-      <guid>https://pointtaken.github.io/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</guid>
+      <guid>http://www.pointtaken.no/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</guid>
       <description>Unngå fellene ved migrering til skyen Flere og flere bedrifter opplever at det blir mer og mer kaotisk etter at fellesdisken er flyttet til skyen. Dette kan skyldes mangel på god planlegging. Når bedriften går over til skytjenester, får de ansatte lettere tilgang til sine arbeidsflater. Filer og info kan lett hentes frem og jobbes videre med via mobil og nettbrett, og materiellet blir mye lettere å finne enten de er på jobb, hjemme eller på reise.</description>
     </item>
     
     <item>
       <title>Dip Is Back</title>
-      <link>https://pointtaken.github.io/blog/2017/10/20/dip-is-back/</link>
+      <link>http://www.pointtaken.no/blog/2017/10/20/dip-is-back/</link>
       <pubDate>Fri, 20 Oct 2017 20:43:05 +0100</pubDate>
       
-      <guid>https://pointtaken.github.io/blog/2017/10/20/dip-is-back/</guid>
+      <guid>http://www.pointtaken.no/blog/2017/10/20/dip-is-back/</guid>
       <description>The all mighty Document Information Panel (DIP) is back! Great news every one, the DIP(Document Information Panel) is back, it is ready for use NOW! At Ignite, Microsoft announced that the DIP will be coming back in 2018. Today I was scrolling through the Office 365 Admin Message Center, and found some interesting news, and started to check it out with my colleagues, and VOILA! It seems like it is only available in Word 2016.</description>
     </item>
     
     <item>
       <title>Advanced Threat Protection I Office 365</title>
-      <link>https://pointtaken.github.io/blog/2017/06/16/advanced-threat-protection-i-office-365/</link>
+      <link>http://www.pointtaken.no/blog/2017/06/16/advanced-threat-protection-i-office-365/</link>
       <pubDate>Fri, 16 Jun 2017 21:36:57 +0100</pubDate>
       
-      <guid>https://pointtaken.github.io/blog/2017/06/16/advanced-threat-protection-i-office-365/</guid>
+      <guid>http://www.pointtaken.no/blog/2017/06/16/advanced-threat-protection-i-office-365/</guid>
       <description>Advanced Threat Protection i Office 365 Dataangrep er en reell trussel mot din bedrift, og de blir mer og mer avanserte og vanskeligere å unngå. Vi ser at angrepene blir mer sofistikerte. Gjerne kommer det en e-post med godt norsk språk som ser legitim ut, eller en e-post som ser ut som den kommer fra firmaets toppsjef.
 Ofte havner ondartede eposter i innboksen til brukerne. Da er det fort gjort å klikke på et vedlegg eller en lenke som starter et angrep.</description>
     </item>

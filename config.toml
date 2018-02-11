@@ -1,4 +1,4 @@
-baseurl = "https://pointtaken.github.io/"
+baseurl = "http://www.pointtaken.no/"
 title = "Point Taken"
 theme = "point-taken-theme"
 themesDir = "themes"
