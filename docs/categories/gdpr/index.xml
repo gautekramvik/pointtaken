@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gdpr on Point Taken</title>
-    <link>http://www.pointtaken.no/categories/gdpr/</link>
+    <link>https://pointtaken.github.io/categories/gdpr/</link>
     <description>Recent content in Gdpr on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Feb 2018 09:10:36 +0100</lastBuildDate>
     
-	<atom:link href="http://www.pointtaken.no/categories/gdpr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointtaken.github.io/categories/gdpr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jumpstart GDPR compliance using Office 365 and Point Taken </title>
-      <link>http://www.pointtaken.no/blog/2018/02/08/jumpstart-gdpr-compliance/</link>
+      <link>https://pointtaken.github.io/blog/2018/02/08/jumpstart-gdpr-compliance/</link>
       <pubDate>Thu, 08 Feb 2018 09:10:36 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2018/02/08/jumpstart-gdpr-compliance/</guid>
+      <guid>https://pointtaken.github.io/blog/2018/02/08/jumpstart-gdpr-compliance/</guid>
       <description>Jumpstart GDPR compliance using Office 365 and Point Taken On January the 24, Point Taken held a breakfast seminar in Kristiansand, focusing on the use of Office 365 integrated Security &amp;amp; Compliance center.
 This morning we showed the participants how Office 365 allows them to easily find, classify, retain or delete personal (custom) sensitive data to comply with the upcoming GDPR regulations, which will come into force on May 25 2018.</description>
     </item>

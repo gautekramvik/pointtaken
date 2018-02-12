@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Point Taken</title>
-    <link>http://www.pointtaken.no/blog/</link>
+    <link>https://pointtaken.github.io/blog/</link>
     <description>Recent content in Blogs on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2018 08:58:21 +0100</lastBuildDate>
     
-	<atom:link href="http://www.pointtaken.no/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pointtaken.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Microsoft-guru Vesa Juvonen gjestet Oslo</title>
-      <link>http://www.pointtaken.no/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</link>
+      <link>https://pointtaken.github.io/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</link>
       <pubDate>Fri, 09 Feb 2018 08:58:21 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
+      <guid>https://pointtaken.github.io/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
       <description>Microsoft-guru Vesa Juvonen gjestet Oslo. 7 februar var vi i Point Taken verter for det kvartalsvise møtet i Norwegian Office 365 Community. Norwegian Office 365 Community er et uavhengig fagmiljø for utviklere, IT pro, forretnings- og sluttbrukere der målet er å dele kunnskap på tvers av produktene. Foredragsholdere denne kvelden var Vesa Juvonen, Senior Program Manager i Microsoft som snakket om Microsofts roadmap for SharePoint, og Chris Givens, Microsoft MVP og sikkerhetsarkitekt i Soliance, som snakket om GDPR og Azure, fra et teknisk ståsted.</description>
     </item>
     
     <item>
       <title>Jumpstart GDPR compliance using Office 365 and Point Taken </title>
-      <link>http://www.pointtaken.no/blog/2018/02/08/jumpstart-gdpr-compliance/</link>
+      <link>https://pointtaken.github.io/blog/2018/02/08/jumpstart-gdpr-compliance/</link>
       <pubDate>Thu, 08 Feb 2018 09:10:36 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2018/02/08/jumpstart-gdpr-compliance/</guid>
+      <guid>https://pointtaken.github.io/blog/2018/02/08/jumpstart-gdpr-compliance/</guid>
       <description>Jumpstart GDPR compliance using Office 365 and Point Taken On January the 24, Point Taken held a breakfast seminar in Kristiansand, focusing on the use of Office 365 integrated Security &amp;amp; Compliance center.
 This morning we showed the participants how Office 365 allows them to easily find, classify, retain or delete personal (custom) sensitive data to comply with the upcoming GDPR regulations, which will come into force on May 25 2018.</description>
     </item>
     
     <item>
       <title>Unngå fellene med migrering til skyen</title>
-      <link>http://www.pointtaken.no/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</link>
+      <link>https://pointtaken.github.io/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</link>
       <pubDate>Fri, 05 Jan 2018 20:22:48 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</guid>
+      <guid>https://pointtaken.github.io/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/</guid>
       <description>Unngå fellene ved migrering til skyen Flere og flere bedrifter opplever at det blir mer og mer kaotisk etter at fellesdisken er flyttet til skyen. Dette kan skyldes mangel på god planlegging. Når bedriften går over til skytjenester, får de ansatte lettere tilgang til sine arbeidsflater. Filer og info kan lett hentes frem og jobbes videre med via mobil og nettbrett, og materiellet blir mye lettere å finne enten de er på jobb, hjemme eller på reise.</description>
     </item>
     
     <item>
       <title>European Sharepoint Conference 2017</title>
-      <link>http://www.pointtaken.no/blog/2017/11/21/european-sharepoint-conference-2017/</link>
+      <link>https://pointtaken.github.io/blog/2017/11/21/european-sharepoint-conference-2017/</link>
       <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/11/21/european-sharepoint-conference-2017/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/11/21/european-sharepoint-conference-2017/</guid>
       <description>European SharePoint Conference 2017 Hvert år samler European SharePoint Conference ESPC, SharePoint, Office 365 og Azure-eksperter fra hele verden på ett europeisk sted for den største konferansen i sitt slag. Siden starten i 2011 har ESPC vokst til over 2000 deltakere over fire dager. Årets arrangement gikk av stabelen i Dublin 13. til 16.November
 Her ser vi fire av Point Taken’s fem deltakere som besøker standen til Nintex, fra v.</description>
     </item>
     
     <item>
       <title>Dip Is Back</title>
-      <link>http://www.pointtaken.no/blog/2017/10/20/dip-is-back/</link>
+      <link>https://pointtaken.github.io/blog/2017/10/20/dip-is-back/</link>
       <pubDate>Fri, 20 Oct 2017 20:43:05 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/10/20/dip-is-back/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/10/20/dip-is-back/</guid>
       <description>The all mighty Document Information Panel (DIP) is back! Great news every one, the DIP(Document Information Panel) is back, it is ready for use NOW! At Ignite, Microsoft announced that the DIP will be coming back in 2018. Today I was scrolling through the Office 365 Admin Message Center, and found some interesting news, and started to check it out with my colleagues, and VOILA! It seems like it is only available in Word 2016.</description>
     </item>
     
     <item>
       <title>Point Taken Til Canada</title>
-      <link>http://www.pointtaken.no/blog/2017/06/29/point-taken-til-canada/</link>
+      <link>https://pointtaken.github.io/blog/2017/06/29/point-taken-til-canada/</link>
       <pubDate>Thu, 29 Jun 2017 22:48:54 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/06/29/point-taken-til-canada/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/06/29/point-taken-til-canada/</guid>
       <description>Point Taken etablerer base i Canada Point Takens SharePoint eksepert Christian Engelschiøn riser i sommer tilbake til helege Ingstads vinterkvarter i Canada.
 I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omtalt i boken &amp;ldquo;Pelsjegerliv&amp;rdquo;. Også i 2010 var han i Canada for å lete etter stedet, men den gang uten resultat. I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.</description>
     </item>
     
     <item>
       <title>Point Taken Vokser Og Skal Ansette 10 Nye Spesialister</title>
-      <link>http://www.pointtaken.no/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</link>
+      <link>https://pointtaken.github.io/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</link>
       <pubDate>Thu, 22 Jun 2017 22:29:39 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</guid>
       <description>Point Taken vokser og skal ansette 10 nye spesialister Point Taken har stor pågang av oppdrag og vi ser etter flere dyktige folk.
 Vi er opptatt av kvalitet og kompetanse og ser først og fremst etter seniorprofiler med erfaring fra Microsoft plattform. Du ønsker å jobbe i et spesialistselskap som investerer i sine ansatte.
 Vi ønsker oss 10 nye medarbeidere i tillegg til de 7 vi har ansatt allerede i år.</description>
@@ -81,30 +81,30 @@ Vi ønsker oss 10 nye medarbeidere i tillegg til de 7 vi har ansatt allerede i �
     
     <item>
       <title>Advanced Threat Protection I Office 365</title>
-      <link>http://www.pointtaken.no/blog/2017/06/16/advanced-threat-protection-i-office-365/</link>
+      <link>https://pointtaken.github.io/blog/2017/06/16/advanced-threat-protection-i-office-365/</link>
       <pubDate>Fri, 16 Jun 2017 21:36:57 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/06/16/advanced-threat-protection-i-office-365/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/06/16/advanced-threat-protection-i-office-365/</guid>
       <description>Advanced Threat Protection i Office 365 Dataangrep er en reell trussel mot din bedrift, og de blir mer og mer avanserte og vanskeligere å unngå. Vi ser at angrepene blir mer sofistikerte. Gjerne kommer det en e-post med godt norsk språk som ser legitim ut, eller en e-post som ser ut som den kommer fra firmaets toppsjef.
 Ofte havner ondartede eposter i innboksen til brukerne. Da er det fort gjort å klikke på et vedlegg eller en lenke som starter et angrep.</description>
     </item>
     
     <item>
       <title>Migrate Sharepoint Site Content With Sharegate Using Powershell</title>
-      <link>http://www.pointtaken.no/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</link>
+      <link>https://pointtaken.github.io/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</link>
       <pubDate>Tue, 06 Jun 2017 21:18:08 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell/</guid>
       <description>Migrate SharePoint site content with Sharegate using powershell Here’s an example of how to use PowerShell to migrate content from SharePoint On-premises to Office365 or SharePoint 2016. I use PowerShell to export the On-premises lists to a csv-file, add parameters to the copy-commandlet to adjust the migration type (e.g. only changed files since last migration), also Scheduling tasks to run off peak hours.
 Read on :-) Step 1 - Get lists!</description>
     </item>
     
     <item>
       <title>Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core</title>
-      <link>http://www.pointtaken.no/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</link>
+      <link>https://pointtaken.github.io/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</link>
       <pubDate>Tue, 16 May 2017 20:52:50 +0100</pubDate>
       
-      <guid>http://www.pointtaken.no/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</guid>
+      <guid>https://pointtaken.github.io/blog/2017/05/16/updating-single-and-multi-value-taxonomy-fields-using-pnp-js-core/</guid>
       <description>Updating single and multi value taxonomy fields using PnP-JS-Core 
 Point Taken is the leading SharePoint, Office 365 and Nintex consultancy in Norway. 
 All the devs in Point Taken are heavy users of the awesome repos provided on https://github.com/SharePoint. But even though our SharePoint dev lives have become easier we still encounter challenges and general SharePoint weirdness. This is one of those cases.
