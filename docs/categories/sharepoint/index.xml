@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sharepoint on Point Taken</title>
-    <link>https://pointtaken.github.io/categories/sharepoint/</link>
+    <link>http://www.pointtaken.no/categories/sharepoint/</link>
     <description>Recent content in Sharepoint on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Nov 2017 21:53:35 +0100</lastBuildDate>
     
-	<atom:link href="https://pointtaken.github.io/categories/sharepoint/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.pointtaken.no/categories/sharepoint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>European Sharepoint Conference 2017</title>
-      <link>https://pointtaken.github.io/blog/2017/11/21/european-sharepoint-conference-2017/</link>
+      <link>http://www.pointtaken.no/blog/2017/11/21/european-sharepoint-conference-2017/</link>
       <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
       
-      <guid>https://pointtaken.github.io/blog/2017/11/21/european-sharepoint-conference-2017/</guid>
+      <guid>http://www.pointtaken.no/blog/2017/11/21/european-sharepoint-conference-2017/</guid>
       <description>European SharePoint Conference 2017 Hvert år samler European SharePoint Conference ESPC, SharePoint, Office 365 og Azure-eksperter fra hele verden på ett europeisk sted for den største konferansen i sitt slag. Siden starten i 2011 har ESPC vokst til over 2000 deltakere over fire dager. Årets arrangement gikk av stabelen i Dublin 13. til 16.November
 Her ser vi fire av Point Taken’s fem deltakere som besøker standen til Nintex, fra v.</description>
     </item>

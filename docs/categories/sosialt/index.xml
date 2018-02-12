@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sosialt on Point Taken</title>
-    <link>https://pointtaken.github.io/categories/sosialt/</link>
+    <link>http://www.pointtaken.no/categories/sosialt/</link>
     <description>Recent content in Sosialt on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2018 08:58:21 +0100</lastBuildDate>
     
-	<atom:link href="https://pointtaken.github.io/categories/sosialt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.pointtaken.no/categories/sosialt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Microsoft-guru Vesa Juvonen gjestet Oslo</title>
-      <link>https://pointtaken.github.io/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</link>
+      <link>http://www.pointtaken.no/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</link>
       <pubDate>Fri, 09 Feb 2018 08:58:21 +0100</pubDate>
       
-      <guid>https://pointtaken.github.io/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
+      <guid>http://www.pointtaken.no/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
       <description>Microsoft-guru Vesa Juvonen gjestet Oslo. 7 februar var vi i Point Taken verter for det kvartalsvise møtet i Norwegian Office 365 Community. Norwegian Office 365 Community er et uavhengig fagmiljø for utviklere, IT pro, forretnings- og sluttbrukere der målet er å dele kunnskap på tvers av produktene. Foredragsholdere denne kvelden var Vesa Juvonen, Senior Program Manager i Microsoft som snakket om Microsofts roadmap for SharePoint, og Chris Givens, Microsoft MVP og sikkerhetsarkitekt i Soliance, som snakket om GDPR og Azure, fra et teknisk ståsted.</description>
     </item>
     
     <item>
       <title>Point Taken Til Canada</title>
-      <link>https://pointtaken.github.io/blog/2017/06/29/point-taken-til-canada/</link>
+      <link>http://www.pointtaken.no/blog/2017/06/29/point-taken-til-canada/</link>
       <pubDate>Thu, 29 Jun 2017 22:48:54 +0100</pubDate>
       
-      <guid>https://pointtaken.github.io/blog/2017/06/29/point-taken-til-canada/</guid>
+      <guid>http://www.pointtaken.no/blog/2017/06/29/point-taken-til-canada/</guid>
       <description>Point Taken etablerer base i Canada Point Takens SharePoint eksepert Christian Engelschiøn riser i sommer tilbake til helege Ingstads vinterkvarter i Canada.
 I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omtalt i boken &amp;ldquo;Pelsjegerliv&amp;rdquo;. Også i 2010 var han i Canada for å lete etter stedet, men den gang uten resultat. I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.</description>
     </item>
