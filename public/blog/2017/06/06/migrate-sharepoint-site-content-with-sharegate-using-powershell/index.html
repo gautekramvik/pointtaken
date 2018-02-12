@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Migrate Sharepoint Site Content With Sharegate Using Powershell</title>
+  <meta name="author" content="" />
+
+  
+  <meta name="keywords" content="Office 365, SharePoint, CRM">	
+  
+
+  
+  <meta name="description" content="Point Taken - spesialister på SharePoint og Office 365">	
+  
+
+  <meta name="generator" content="Hugo 0.36" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+  
+  <script defer src="https://use.fontawesome.com/releases/v5.0.1/js/all.js"></script>
+    
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  
+  <link href="https://pointtakenweb.azurewebsites.net/css/animate.css" rel="stylesheet">
+
+  
+  
+    <link href="https://pointtakenweb.azurewebsites.net/css/style.orange.css" rel="stylesheet" id="theme-stylesheet">
+  
+
+
+  
+  <link href="https://pointtakenweb.azurewebsites.net/css/custom.css" rel="stylesheet">
+
+  
+  
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  
+
+  
+  <link rel="shortcut icon" href="https://pointtakenweb.azurewebsites.net/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://pointtakenweb.azurewebsites.net/img/apple-touch-icon.png" />
+  
+
+  <link href="https://pointtakenweb.azurewebsites.net/css/owl.carousel.css" rel="stylesheet">
+  <link href="https://pointtakenweb.azurewebsites.net/css/owl.theme.css" rel="stylesheet">
+
+  <link rel="alternate" href="https://pointtakenweb.azurewebsites.net/index.xml" type="application/rss+xml" title="Point Taken">
+
+  
+  <meta property="og:title" content="Migrate Sharepoint Site Content With Sharegate Using Powershell" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="/blog/2017/06/06/migrate-sharepoint-site-content-with-sharegate-using-powershell//" />
+  <meta property="og:image" content="img/pt-logo.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar navbar-expand-lg navbar-light bg-white" role="navigation" id="navbar">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand home" href="https://pointtakenweb.azurewebsites.net/">
+                <img src="https://pointtakenweb.azurewebsites.net/img/logo2.svg" alt="Migrate Sharepoint Site Content With Sharegate Using Powershell logo">
+                <span class="sr-only">Migrate Sharepoint Site Content With Sharegate Using Powershell - Gå til forsiden</span>
+            </a>
+
+        </div>
+        <div class="ml-auto">
+                <button type="button" class="navbar-toggler ml-auto" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        
+        <div class="navbar-collapse collapse" id="navigation">
+            <ul class="nav navbar-nav ml-auto"><li class="nav-item"><a class="nav-link" title="Tjenester" href="/index.html#3">Tjenester</a></li>
+                    <li class="nav-item"><a class="nav-link" title="Referanser" href="/referanser/">Referanser</a></li>
+                    <li class="nav-item"><a class="nav-link" title="Om oss" href="/om-oss/">Om oss</a></li>
+                    <li class="nav-item"><a class="nav-link" title="Blogg" href="/blog/">Blogg</a></li>
+                    
+            </ul>
+        </div>
+        
+        
+    </div>
+</div>
+
+
+
+
+
+        </header>
+
+        
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row mt-4">
+
+                    
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">Av <a href="#">André Andersen</a> | 6 June, 2017</p>
+
+                        <div id="post-content">
+                          
+
+<h1 id="migrate-sharepoint-site-content-with-sharegate-using-powershell">Migrate SharePoint site content with Sharegate using powershell</h1>
+
+<p>Here’s an example of how to use PowerShell to migrate content from SharePoint On-premises to Office365 or SharePoint 2016. I use PowerShell to export the On-premises lists to a csv-file, add parameters to the copy-commandlet to adjust the migration type (e.g. only changed files since last migration), also Scheduling tasks to run off peak hours.</p>
+
+<p>Read on :-)
+<br></p>
+
+<h4 id="step-1-get-lists">Step 1 - Get lists!</h4>
+
+<p>First things first, let’s get a csv file to work with. You can use the following example with PowerShell ISE:</p>
+
+<pre><code>    #Export lists to CSV 
+    Import-Module Sharegate 
+
+    #Site to get the lists from, add username and password if it's different from the windows credentials
+    $username = &quot;username&quot; 
+    $password = ConvertTo-SecureString &quot;password&quot; -AsPlainText -Force 
+    $site = Connect-Site -Url &quot;http://sp.example.com/example/&quot; UserName $username -Password $password 
+
+    #Path to export the CSV to, will create the folder if it doesn’t exist 
+    $csvExportPath = &quot;C:\Sharegate\Reports\csv\&quot; 
+    if(!(Test-Path -Path $csvExportPath -PathType Container))
+    { 
+    New-Item -ItemType directory -Path $csvExportPath 
+    } 
+    #Get lists from the specified site and export it to CSV 
+    $lists = Get-List -Site $site | Export-Csv -Path &quot;$($csvExportPath)Example.csv&quot; -Encoding UTF8 -Delimiter &quot;,&quot;
+</code></pre>
+
+<p><br></p>
+
+<p>Supply the username and password for the site you want to connect to. You can remove the password parameter if you want a password prompt every time you run the script.</p>
+
+<p>It will create a folder if needed to export the csv-file to. Change the value to where you want the csv-file.</p>
+
+<p>The last part will get all the lists in the specified site and export the list to a csv-file. You can limit the lists you get by adding the -Name parameter. This parameter is wildcard supported.
+An example: $lists = Get-List -Site $site -Name Example,A*</p>
+
+<p>This will only get the list called Example and every list starting with “A”.
+For detailed information about the Get-List commandlet, visit <a href="https://support.share-gate.com/hc/en-us/articles/115000597387-Get-List">https://support.share-gate.com/hc/en-us/articles/115000597387-Get-List</a>
+<br></p>
+
+<h4 id="step-2-copy-lists">Step 2 - Copy Lists!</h4>
+
+<p>Now that we have a csv-file with the lists we want to copy, we can use it to copy content. Here’s an example:</p>
+
+<pre><code>    #Copy lists from a csv-file 
+    Import-Module Sharegate 
+    #Specify the csv containing the lists you want to copy, example &quot;C:\example.csv&quot; 
+    $csv = &quot;C:\example.csv&quot; 
+    $lists = Import-Csv -Path $csv -Encoding UTF8 | select -ExpandProperty title 
+
+    #The source of the copy, add username and password if it's different from the windows credentials 
+    $sourceUrl = &quot;http://sp.example.com/example/&quot; 
+    $userNameSource = &quot;username&quot; 
+    $passwordSource = ConvertTo-SecureString &quot;password&quot; -AsPlainText -Force 
+    #Connecting to the source 
+    $sourceSite = Connect-Site -Url $sourceUrl -UserName $userName -Password $password 
+
+    #The destination of the copy, add username and password if it's different from the windows credentials
+    $destinationUrl = &quot;https://example.sharepoint.com/example/&quot; 
+    $userNameDestination = &quot;username&quot; 
+    $passwordDestination = ConvertTo-SecureString &quot;password&quot; -AsPlainText -Force 
+    #Connecting to the destination 
+    $destinationSite = Connect-Site -Url $destinationUrl -UserName $userName -Password $password 
+
+    #Path used for reports. Will create the folder if it does not exist 
+    $reportPath = &quot;C:\Sharegate\Reports\&quot; 
+    if(!(Test-Path -Path $reportPath -PathType Container)) 
+    { 
+        New-Item -ItemType directory -Path $reportPath 
+    } 
+
+    #Incremental update setting, add -CopySettings $copySettings to the copy commandlet if you want to use incremental update 
+    $copySettings = New-CopySettings -OnContentItemExists IncrementalUpdate 
+
+    #Copy every list in the csv and export the reports 
+    $counter = 0 
+    foreach ($list in $lists)
+    { 
+        $counter++ 
+        Write-Progress -Activity 'Copying lists' -CurrentOperation $list -PercentComplete 
+    (($counter / $lists.count) * 100) 
+        $result = Copy-List -SourceSite $sourceSite -Name $list -DestinationSite $destinationSite 
+        $result Export-Report $result -Path $reportPath -DefaultColumns 
+    }
+</code></pre>
+
+<p>First you need to specify the csv-file you want to copy from. Then you need to specify the source and destination sites, along with the correct usernames and passwords.</p>
+
+<p>Change the report path if you want to export the reports to a different path.</p>
+
+<p>The foreach loop will go through every list in the csv-file and copy the lists to the destination site. You can add different parameters to the Copy-List commandlet to adjust the copy behavior. Incremental update for example you would add -CopySettings $copySettings</p>
+
+<p>For detailed information about the Copy-List commandlet, visit <a href="https://support.share-gate.com/hc/en-us/articles/115000597727-Copy-List">https://support.share-gate.com/hc/en-us/articles/115000597727-Copy-List</a></p>
+
+<p>For the full Sharegate PowerShell documentation, visit <a href="https://support.share-gate.com/hc/en-us/categories/204661007-PowerShell">https://support.share-gate.com/hc/en-us/categories/204661007-PowerShell</a>
+<br></p>
+
+<h4 id="scheduled-task">Scheduled task</h4>
+
+<p>Here’s a tip: Use Task Scheduler to schedule a migration. This can be helpful to plan a migration during off peak hours without having to start the script manually.</p>
+
+<p><img class="img-fluid mt-4 mb-4" src="/img/scheduledtask.png" /></p>
+
+<p>Happy Migration! :-)
+<br></p>
+
+                        </div>
+                        
+
+                    </div>
+                    
+
+                    
+
+                    
+
+                    <div class="col-md-3">
+
+                        
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+                    </div>
+                    
+
+                    
+
+                </div>
+                
+
+            </div>
+            
+        </div>
+        
+
+        <footer id="footer">
+    <div class="container row col-lg-8 mx-auto">
+
+            
+            <div class="col-md-4 col-sm-6 mb-4">
+    
+              <h4>Kontakt</h4>
+              <div class="some mb-4 mt-2">
+                    <a href="https://twitter.com/Point_taken_"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/pointtakenas"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.linkedin.com/company/pointtaken-as"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/pointtaken/"><i class="fab fa-github"></i></a>
+                </div>
+    
+                <p><strong>Point Taken</strong><br>Arbeidersamfunnets plass 1<br>Inngang fra Torggata<br>0181 Oslo<br><strong>Norge</strong><br><br><p><strong>Point Taken</strong><br>Tangen 76<br>Tangen Babord<br>4608 Kristiansand S<br><strong>Norge</strong><br></p>
+
+    
+                <a href="/contact/" class="btn btn-primary btn-full btn-md mt-2">Kontaktinformasjon</a>
+    
+            </div>
+            
+                    
+
+        <div class="col-md-4 col-sm-6 mb-4">
+            <div class="partners"> 
+                <h4>Våre partnere</h4>   
+                <div class="">
+                    <img class="img-fluid mt-3 mb-3" src="/img/microsoftpartner.png"></img>
+                </div>
+                <div class="">
+                    <img class="img-fluid mt-3 mb-3" src="/img/nintex-premier-partner.png"></img>
+                </div>
+                <div class="">
+                    <img class="img-fluid mt-3 mb-3" src="/img/sharegate-partner.png"></img>
+                </div>                
+            </div>
+        </div>
+        
+
+        <div class="col-md-4 col-sm-6 mb-4">
+
+             
+            <h4>Siste poster</h4>
+
+            <div class="blog-entries">
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://pointtakenweb.azurewebsites.net/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/">
+                          
+                            <img src="https://pointtakenweb.azurewebsites.net/img/meetup.jpg" class="img-fluid" alt="Microsoft-guru Vesa Juvonen gjestet Oslo">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://pointtakenweb.azurewebsites.net/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/">Microsoft-guru Vesa Juvonen gjestet Oslo</a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://pointtakenweb.azurewebsites.net/blog/2018/02/08/jumpstart-gdpr-compliance/">
+                          
+                            <img src="https://pointtakenweb.azurewebsites.net/img/Luc-GDPR-2.jpg" class="img-fluid" alt="Jumpstart GDPR compliance using Office 365 and Point Taken ">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://pointtakenweb.azurewebsites.net/blog/2018/02/08/jumpstart-gdpr-compliance/">Jumpstart GDPR compliance using Office 365 and Point Taken </a></h5>
+                    </div>
+                </div>
+                
+                <div class="item same-height-row clearfix">
+                    <div class="image same-height-always">
+                        <a href="https://pointtakenweb.azurewebsites.net/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/">
+                          
+                            <img src="https://pointtakenweb.azurewebsites.net/img/blogg-strategi-illustrasjon.png" class="img-fluid" alt="Unngå fellene med migrering til skyen">
+                          
+                        </a>
+                    </div>
+                    <div class="name same-height-always">
+                        <h5><a href="https://pointtakenweb.azurewebsites.net/blog/2018/01/05/unngaa-fellene-ved-migrering-til-skyen/">Unngå fellene med migrering til skyen</a></h5>
+                    </div>
+                </div>
+                
+            </div>
+             
+        </div>
+        
+
+    </div>
+    
+
+<script type="text/javascript">
+    var _tvr = 1;
+    var _powt = 'nOfWFL70TUquX9DRvqN83m4AbwB2AGEAbgBlAHQAYQBzADIA';
+    (function () {
+    var s = document.createElement('script');
+    s.type = 'text/javascript'; 
+    s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'powebtraffic.crm.powerobjects.net/powt.js.aspx';
+    var hs = document.getElementsByTagName('script')[0];
+    hs.parentNode.insertBefore(s, hs); 
+    })(); 
+</script>
+
+
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/576722b1ec8ca2561a07095d/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+
+        
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+    
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyB1RRu7XTo8X_5SyUly9DIO_jEP7r7PlhI"></script>
+
+<script src="https://pointtakenweb.azurewebsites.net/js/hpneo.gmaps.js"></script>
+<script src="https://pointtakenweb.azurewebsites.net/js/gmaps.init.js"></script>
+<script src="https://pointtakenweb.azurewebsites.net/js/front.js"></script>
+
+
+<script src="https://pointtakenweb.azurewebsites.net/js/owl.carousel.min.js"></script>
+<script>
+$(".nav-item a").filter(function(){
+    return this.href == location.href.replace(/#.*/, "");
+}).addClass("active");    
+</script>
+
+
+  </body>
+</html>
