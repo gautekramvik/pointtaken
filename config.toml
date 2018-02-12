@@ -1,4 +1,4 @@
-baseurl = "https://pointtaken.github.io/"
+baseurl = "https://pointtakenweb.azurewebsites.net/"
 title = "Point Taken"
 theme = "point-taken-theme"
 themesDir = "themes"
